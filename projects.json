@@ -1,240 +1,529 @@
 {
     "freeCodeCamp": [
-        "https://gitstar-ranking.com/freeCodeCamp/freeCodeCamp",
+        "https://github.com/freeCodeCamp/freeCodeCamp",
         [
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "Python",
             "HTML",
+            "Shell",
             "CSS",
+            "Makefile",
             "C++",
-            "JavaScript",
-            "Vue"
+            "Python",
+            "JavaScript"
         ],
         [
-            "dashboard",
-            "statsd",
-            "nonprofits",
-            "button",
-            "build-tools",
-            "macos",
-            "fontawesome",
-            "js",
-            "es2015",
-            "mit",
-            "ui-components",
-            "programming",
-            "webxr",
-            "echarts",
-            "html",
-            "learning-resources",
-            "vuex",
-            "meteor",
-            "admin-dashboard",
-            "editor",
-            "docker",
-            "mock",
-            "xlsx",
-            "chart",
-            "graphing",
-            "web-app",
-            "alerting",
-            "loaders",
-            "webpack",
-            "style-linter",
-            "eslint",
-            "node",
-            "linux",
-            "desktop",
-            "observability",
-            "prometheus",
-            "robust",
-            "javascript-algorithms",
-            "web-performance",
-            "javascript-compiler",
-            "nextjs",
-            "arrow-functions",
-            "bootstrap",
-            "react",
-            "commonjs",
-            "flexbox",
-            "interview-preparation",
-            "es2018",
-            "shadowsocks",
-            "utilities",
-            "web",
-            "html5-boilerplate",
-            "documentation-tool",
-            "i18n",
-            "amd",
-            "element-ui",
-            "notifications",
-            "ui-kit",
-            "reactive-programming",
-            "server",
-            "devops",
-            "monitoring",
-            "webgl2",
-            "admin",
-            "font",
-            "ant-design",
-            "svg",
-            "material-design",
-            "html5",
-            "slideshow",
-            "computer-science",
-            "scss",
-            "javascript-modules",
-            "kubernetes",
-            "declarative",
-            "naming-conventions",
-            "icons",
-            "mongodb",
+            "headless-chrome",
+            "canvas",
+            "element",
+            "scaffolding",
+            "mocks",
+            "aws",
+            "runtime",
+            "headless-browser",
+            "design",
             "node-module",
-            "math",
-            "javascript",
-            "vuejs",
-            "sass",
-            "modules",
-            "containers",
-            "time-series",
-            "vue-admin",
-            "scene-graph",
-            "zero-configuration",
-            "education",
-            "browser",
-            "graphite",
-            "learn-to-code",
-            "es6",
-            "es2017",
-            "3d",
-            "build-tool",
-            "careers",
-            "snippets",
-            "c-sharp",
-            "presentations",
-            "graph",
+            "blogging",
+            "freecodecamp",
+            "facebook",
+            "admin",
+            "macosx",
+            "fetch",
+            "ui",
+            "phaser",
+            "awesome",
+            "flash",
+            "javascript-library",
+            "webgl",
+            "sidebar",
+            "vue-components",
+            "ui-components",
+            "slack",
+            "devops",
+            "web-application-framework",
+            "ast",
+            "date-formatting",
+            "painless",
+            "grafana",
             "components",
-            "es6-javascript",
-            "slides",
-            "interview",
-            "semantic",
-            "design-systems",
+            "module-bundler",
+            "video",
+            "time-series",
+            "js",
+            "inheritance",
+            "jamstack",
             "electron",
-            "d3",
-            "nodejs",
-            "linting",
-            "svg-sprites",
-            "netdata",
-            "library",
-            "windows",
-            "automation",
+            "html5-game-development",
+            "node-webkit",
+            "mock",
+            "slate",
+            "es6",
+            "error-monitoring",
+            "pixi",
+            "programming",
+            "iview",
+            "nwjs",
+            "npm",
+            "callbacks",
+            "game",
+            "wysiwyg",
             "lodash",
-            "antd",
+            "umi",
+            "utilities",
+            "webrtc",
+            "formatter",
+            "self-hosted",
+            "notifications",
+            "nonprofits",
+            "shadowsocks",
+            "browser",
+            "plugins",
+            "canvas2d",
+            "framework",
+            "element-ui",
+            "chart",
+            "data-structures",
+            "gatsby",
+            "leetcode",
+            "ruby",
+            "css-in-js",
+            "offline-first",
+            "linting",
+            "starter-kit",
+            "ssr",
+            "principles",
+            "webxr",
+            "loaders",
+            "yarn",
+            "rendering-2d-graphics",
+            "static-site-generator",
+            "isomorphic",
+            "mdl",
+            "ui-kit",
+            "webpack",
+            "es2018",
+            "gamedev",
+            "select2",
+            "css",
+            "modernizr",
+            "atom",
+            "ecmascript",
+            "ember",
             "popup",
-            "certification",
-            "management-system",
+            "list",
+            "phantomjs",
+            "arrow-functions",
+            "sections",
+            "graph",
+            "less",
+            "css3-features",
+            "iot",
+            "angular",
+            "3d",
+            "meteor",
+            "proxy",
+            "async",
+            "ui-design",
+            "microservice",
+            "es2016",
+            "frontend",
+            "education",
+            "typescript",
+            "parser",
+            "maps",
+            "javascript-modules",
+            "dom",
+            "crash-reporting",
+            "macos",
+            "printer",
+            "mit",
+            "interview-preparation",
+            "faker",
+            "feature-detection",
+            "monitoring",
+            "development",
+            "serverless-framework",
+            "time",
+            "fontawesome",
+            "faker-generator",
+            "nodejs",
+            "mac",
+            "crash-reports",
+            "firebase",
+            "mocking",
+            "html5-video",
+            "antd",
+            "graphing",
+            "package-manager",
+            "mac-osx",
+            "software",
+            "axios",
+            "html5",
+            "universal",
+            "slide",
+            "scrolling",
+            "headless",
+            "error-logging",
+            "server-rendering",
+            "forum",
+            "vue-admin",
+            "flexbox",
+            "graphite",
+            "phaserjs",
+            "http-client",
+            "editor",
+            "onepage",
+            "snapshot",
+            "html5-boilerplate",
+            "collaboration",
+            "library",
+            "moment",
+            "terminal-emulators",
+            "i18n",
+            "carousel",
+            "web",
+            "nextjs",
+            "echarts",
+            "linux",
+            "material-design",
+            "chat",
+            "fake",
+            "hyperscript",
+            "touch-events",
+            "ghost",
+            "zeit",
             "html5-charts",
+            "real-time",
+            "maximum-sum",
+            "react-components",
+            "build-tool",
+            "free",
+            "declarative",
+            "date",
+            "foss",
+            "tinymce",
+            "immer",
+            "nuxt",
+            "testing",
+            "serverless-architectures",
+            "clean-code",
+            "naming-conventions",
+            "anime",
+            "hls",
+            "gitlab",
+            "fake-content",
+            "blog",
+            "journalism",
+            "design-systems",
+            "azure-functions",
+            "datetime",
+            "deploy",
+            "webgl2",
+            "api",
+            "oauth2",
+            "icons",
+            "linter",
+            "static-code-analysis",
+            "preact",
+            "best-practices",
+            "cloud",
+            "production",
+            "netdata",
+            "snippets-collection",
+            "styled-components",
+            "desktop",
+            "bootstrap",
+            "fullpage",
+            "yaml",
+            "alerting",
+            "vuex",
+            "admin-template",
+            "javascript-compiler",
+            "rendering",
+            "composition",
+            "rails",
+            "time-travel",
+            "facebook-instant-games",
+            "html",
+            "zero-configuration",
+            "fullscreen",
+            "leaflet",
+            "glsl",
+            "algorithm",
+            "rich-text-editor",
+            "slider",
+            "promise",
+            "virtual-dom",
+            "redux",
+            "web-app",
+            "developer-tools",
+            "swiper",
+            "sass",
+            "hosting",
+            "scene-graph",
+            "expectation",
+            "gallery",
+            "algorithms",
+            "prometheus",
+            "presentations",
+            "career",
+            "slideshow",
+            "postcss",
+            "snippets",
+            "cn-freecodecamp",
+            "web-application",
+            "certification",
+            "webpack4",
+            "polyfill",
+            "interview",
+            "xlsx",
+            "game-frameworks",
+            "c-sharp",
+            "animation",
+            "flow",
+            "vue-cli",
+            "java",
+            "reactive-programming",
+            "hackathon",
+            "kubernetes",
+            "material",
+            "react-boilerplate",
+            "ant-design",
+            "vdom",
+            "cms",
+            "state-management",
+            "videojs",
+            "jquery",
+            "terminal",
+            "javascript",
+            "math",
+            "build-tools",
+            "web-performance",
+            "management-system",
+            "serverless",
+            "es2015",
+            "aws-lambda",
+            "game-development",
+            "es2017",
+            "process-manager",
+            "koa",
+            "json",
+            "superset",
+            "mobile",
+            "dayjs",
+            "privacy",
+            "standard",
+            "react-native",
+            "load-balancer",
+            "amd",
+            "computer-science",
+            "commonjs",
+            "headless-cms",
+            "discourse",
+            "immersive",
+            "statsd",
+            "html5-audio",
+            "snap",
+            "style-guide",
+            "font",
+            "selfhosted",
+            "api-documentation",
+            "node",
+            "server",
+            "express",
+            "community",
+            "apple",
+            "vue",
+            "touch",
+            "javascript-algorithms",
+            "google-cloud-functions",
+            "influxdb",
+            "svg-sprites",
+            "vuejs",
+            "material-design-lite",
+            "styleguide",
+            "renderer",
+            "fake-data",
+            "windows",
+            "prettier",
+            "compiler",
+            "docker",
+            "pm2",
+            "scss",
+            "tc39",
+            "clipboard",
+            "quill",
+            "redux-saga",
+            "curriculum",
+            "analytics",
+            "cncf",
+            "mongodb",
+            "painless-javascript-testing",
+            "django",
+            "player",
+            "dash",
+            "semantic",
+            "easy",
+            "command-line",
+            "svg",
+            "css-framework",
+            "es6-javascript",
+            "hyperterm",
+            "webfont",
+            "build-system",
+            "vue-router",
+            "slides",
+            "csp-report",
+            "learn-to-code",
+            "documentation-tool",
+            "python",
+            "pixijs",
+            "awesome-list",
+            "careers",
+            "rendering-engine",
+            "robust",
+            "tooltip",
+            "d3",
+            "learning-resources",
+            "dropdown",
+            "containers",
+            "button",
+            "clean-architecture",
+            "swipe",
+            "material-components",
+            "ibm-openwhisk",
+            "style-linter",
+            "dashboard",
+            "command-line-tool",
+            "modules",
+            "teachers",
+            "graphql",
+            "phaser-development",
+            "visualization",
+            "markdown",
+            "mousewheel",
+            "tree",
+            "jsx",
             "svg-icons",
             "esm",
-            "tc39",
-            "style-guide",
-            "influxdb",
-            "webgl",
-            "headless-chrome",
-            "build-system",
-            "ui",
-            "tinymce",
-            "static-site-generator",
-            "snippets-collection",
-            "data-structures",
-            "testing",
-            "zeit",
-            "graphql",
-            "algorithms",
-            "css",
-            "framework",
-            "blog",
-            "element",
-            "iot",
-            "css-framework",
-            "analytics",
-            "admin-template",
-            "canvas",
-            "grafana",
-            "npm",
-            "tooltip",
-            "dropdown",
-            "gatsby",
-            "module-bundler",
-            "frontend",
-            "cncf",
-            "axios",
-            "plugins",
-            "developer-tools",
-            "webpack4",
-            "teachers",
-            "curriculum",
-            "atom",
-            "webfont",
-            "typescript",
-            "proxy",
-            "vue-components",
-            "sidebar",
-            "best-practices",
-            "es2016",
-            "compiler",
-            "server-rendering",
-            "community",
-            "universal",
-            "redux",
-            "visualization",
-            "runtime",
-            "express",
-            "algorithm",
-            "vue",
-            "styleguide",
-            "awesome-list",
-            "vue-cli",
-            "react-components"
+            "preact-components",
+            "admin-dashboard",
+            "publishing",
+            "enterprise",
+            "boilerplate",
+            "hexo",
+            "cpp",
+            "observability",
+            "react",
+            "automation",
+            "eslint"
         ]
     ],
     "996.ICU": [
-        "https://gitstar-ranking.com/996icu/996.ICU",
+        "https://github.com/996icu/996.ICU",
         [
             "Go",
             "Rust"
         ],
         [
-            "content-management-system",
-            "language",
-            "docker",
-            "golang",
-            "awesome",
-            "programming-language",
-            "compiler",
+            "unix",
+            "privacy",
             "go",
-            "static-site-generator",
-            "cncf",
-            "rust",
-            "kubernetes",
+            "load-balancer",
+            "http-server",
+            "distributed-database",
+            "content-management-system",
+            "zookeeper",
+            "database",
+            "microservice",
+            "server",
+            "awesome",
+            "language",
+            "caddyfile",
+            "tidb",
+            "mysql",
+            "programming-language",
+            "alerting",
+            "mesos",
+            "vim",
+            "distributed-transactions",
+            "influxdb",
+            "beego",
+            "p2p",
+            "monitoring",
+            "data-visualization",
+            "peer-to-peer",
+            "etcd",
             "hugo",
-            "blog-engine",
-            "containers",
+            "docker",
+            "compiler",
+            "grafana",
+            "consul",
+            "reverse-proxy",
+            "analytics",
+            "http",
+            "cncf",
+            "graphing",
+            "automatic-https",
+            "time-series",
+            "gogs",
+            "git",
+            "tls",
+            "zsh",
+            "mysql-protocol",
+            "scale",
+            "gin",
+            "geth",
+            "ethereum",
+            "prometheus",
+            "web-server",
+            "htap",
+            "security",
             "documentation-tool",
-            "cms",
+            "performance",
+            "fish",
+            "awesome-list",
+            "marathon",
+            "sql",
+            "neovim",
+            "middleware",
+            "containers",
+            "business-intelligence",
+            "golang",
+            "elasticsearch",
+            "framework",
+            "blockchain",
+            "cli",
             "golang-library",
-            "awesome-list"
+            "kubernetes",
+            "dashboard",
+            "cms",
+            "blog-engine",
+            "https",
+            "bash",
+            "rust",
+            "router",
+            "static-site-generator",
+            "letsencrypt",
+            "metrics",
+            "synchronization",
+            "postgres",
+            "fzf"
         ]
     ],
     "vue": [
-        "https://gitstar-ranking.com/vuejs/vue",
+        "https://github.com/vuejs/vue",
         [
-            "Java",
-            "Python",
-            "JavaScript",
+            "Ruby",
             "Vue",
+            "TypeScript",
             "PHP",
-            "Ruby"
+            "Java",
+            "CSS",
+            "Go",
+            "Python",
+            "JavaScript"
         ],
         [
             "framework",
@@ -244,341 +533,662 @@
         ]
     ],
     "react": [
-        "https://gitstar-ranking.com/facebook/react",
+        "https://github.com/facebook/react",
         [
-            "JavaScript",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "declarative",
             "javascript",
-            "library",
-            "react",
+            "ui",
             "frontend",
-            "ui"
+            "declarative",
+            "library",
+            "react"
         ]
     ],
     "tensorflow": [
-        "https://gitstar-ranking.com/tensorflow/tensorflow",
+        "https://github.com/tensorflow/tensorflow",
         [
+            "Julia",
+            "C",
+            "Scala",
+            "Java",
+            "Jupyter Notebook",
             "C++",
             "Python",
-            "Java"
+            "JavaScript"
         ],
         [
-            "dashboard",
-            "graphite",
-            "api-client",
-            "web-framework",
-            "statsd",
-            "development",
-            "orm",
-            "interview",
-            "python",
-            "macos",
-            "electron",
-            "terminal",
-            "ligatures",
-            "statistics",
-            "views",
-            "nodejs",
-            "js",
-            "debugging",
-            "netdata",
-            "mit",
-            "windows",
-            "programming",
-            "html",
-            "neural-network",
-            "cmd",
-            "flask",
-            "api",
-            "docker",
-            "awesome",
-            "c-plus-plus",
-            "machine-learning",
-            "influxdb",
-            "django",
-            "shell",
-            "command-line",
-            "jinja",
-            "data-analysis",
-            "curl",
-            "graphing",
-            "css",
-            "framework",
-            "httpie",
-            "alerting",
-            "iot",
-            "http",
-            "tensorflow",
-            "analytics",
-            "node",
-            "collections",
-            "linux",
-            "observability",
-            "json",
-            "grafana",
-            "prometheus",
-            "bitcoin",
-            "design-system",
-            "web-application",
-            "chrome",
-            "interview-practice",
-            "ml",
-            "cncf",
-            "web",
-            "deep-learning",
-            "windows-console",
-            "design-patterns",
-            "developer-tools",
-            "werkzeug",
-            "wsgi",
-            "jakubroztocil",
-            "data-science",
-            "design",
-            "system",
-            "programming-ligatures",
-            "deep-neural-networks",
-            "v8",
-            "notifications",
-            "python-library",
-            "wsl",
-            "models",
-            "webapp",
-            "devops",
-            "monitoring",
-            "cryptography",
-            "usability",
-            "ansible",
-            "font",
-            "cryptocurrency",
-            "apps",
-            "client",
-            "interview-questions",
-            "templates",
-            "python-framework",
-            "p2p",
-            "kubernetes",
-            "wget",
-            "javascript",
+            "requests",
+            "aws",
             "runtime",
-            "http-client",
-            "distributed",
-            "rest",
-            "containers",
-            "console",
+            "api",
+            "design",
+            "headless-browser",
+            "godotengine",
+            "windows-console",
+            "flexible",
+            "tesseract",
+            "asyncio",
+            "cloud",
+            "pandas",
+            "awesome",
+            "netdata",
+            "svm",
+            "vpn",
+            "data-science",
+            "desktop",
+            "logistic",
+            "manual",
+            "alerting",
+            "views",
+            "models",
+            "naivebayes",
+            "marshalling",
+            "p2p",
+            "scraping",
+            "ligatures",
+            "devops",
+            "autograd",
+            "web-application-framework",
+            "gfw",
+            "multi-platform",
+            "sklearn",
+            "c-plus-plus",
+            "grafana",
+            "scikit-learn",
+            "html",
+            "design-patterns",
+            "design-system",
+            "js",
             "time-series",
+            "electron",
+            "regression",
+            "node-webkit",
+            "developer-tools",
             "windows-terminal",
-            "cli"
+            "error-monitoring",
+            "crawling",
+            "programming",
+            "hosting",
+            "face-recognition",
+            "nwjs",
+            "rnn",
+            "prometheus",
+            "jinja",
+            "debugging",
+            "adaboost",
+            "cryptocurrency",
+            "recommendedsystem",
+            "web-application",
+            "forhumans",
+            "open-source",
+            "chrome",
+            "self-hosted",
+            "httpie",
+            "notifications",
+            "interview",
+            "documentation",
+            "deep-learning",
+            "wget",
+            "protocol-buffers",
+            "certificate",
+            "dnn",
+            "ml",
+            "programming-ligatures",
+            "ansible",
+            "framework",
+            "kubernetes",
+            "crawler",
+            "shell",
+            "face-detection",
+            "godot",
+            "pca",
+            "manpages",
+            "wsgi",
+            "gpu",
+            "cryptography",
+            "terminal",
+            "bitcoin",
+            "protobuf",
+            "letsencrypt",
+            "data-analysis",
+            "javascript",
+            "interview-practice",
+            "kmeans",
+            "statistics",
+            "rpc",
+            "gamedev",
+            "css",
+            "game-development",
+            "vision",
+            "protoc",
+            "curl",
+            "superset",
+            "rest",
+            "json",
+            "privacy",
+            "internet-of-things",
+            "phantomjs",
+            "neural-network",
+            "apriori",
+            "iot",
+            "statsd",
+            "proxy",
+            "mqtt",
+            "v8",
+            "numpy",
+            "web-framework",
+            "tldr",
+            "font",
+            "selfhosted",
+            "console",
+            "interview-questions",
+            "node",
+            "apps",
+            "svd",
+            "certbot",
+            "crash-reporting",
+            "wsl",
+            "macos",
+            "nlp",
+            "fp-growth",
+            "ocr",
+            "mit",
+            "home-automation",
+            "protocol-compiler",
+            "influxdb",
+            "acme",
+            "monitoring",
+            "development",
+            "machine-learning",
+            "werkzeug",
+            "mahchine-leaning",
+            "webapp",
+            "orm",
+            "nodejs",
+            "windows",
+            "docker",
+            "crash-reports",
+            "tensor",
+            "idioms",
+            "analytics",
+            "http",
+            "cncf",
+            "graphing",
+            "headless",
+            "django",
+            "distributed",
+            "alignment",
+            "templates",
+            "error-logging",
+            "command-line",
+            "humans",
+            "client",
+            "flask",
+            "serialization",
+            "cookies",
+            "graphite",
+            "http-client",
+            "collections",
+            "python-library",
+            "csp-report",
+            "man-page",
+            "protobuf-runtime",
+            "python",
+            "lstm",
+            "api-client",
+            "awesome-list",
+            "goagent",
+            "web",
+            "cheatsheets",
+            "examples",
+            "uncensored",
+            "python-framework",
+            "linux",
+            "containers",
+            "cmd",
+            "system",
+            "cli",
+            "dashboard",
+            "raspberry-pi",
+            "tensorflow",
+            "usability",
+            "tesseract-ocr",
+            "help",
+            "jakubroztocil",
+            "ocr-engine",
+            "python-requests",
+            "deep-neural-networks",
+            "game-engine",
+            "deeplearning",
+            "observability",
+            "acme-client",
+            "automation"
         ]
     ],
     "bootstrap": [
-        "https://gitstar-ranking.com/twbs/bootstrap",
+        "https://github.com/twbs/bootstrap",
         [
-            "CSS",
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "C++",
-            "JavaScript",
             "HTML",
-            "Ruby"
+            "CSS",
+            "C++",
+            "JavaScript"
         ],
         [
-            "css-questions",
-            "tooltip",
-            "dropdown",
-            "robust",
-            "animation",
-            "material",
-            "presentations",
-            "stylesheets",
-            "bootstrap",
-            "css-animations",
-            "react",
-            "slides",
-            "button",
-            "flexbox",
-            "semantic",
-            "design-systems",
-            "web",
-            "fontawesome",
-            "html5-boilerplate",
-            "svg-sprites",
-            "ui-components",
-            "js-questions",
-            "echarts",
-            "webfont",
-            "typescript",
-            "ui-kit",
-            "html",
-            "antd",
-            "front-end",
-            "popup",
-            "sidebar",
-            "svg-icons",
-            "font",
+            "list",
+            "not-maintained",
+            "normalize-css",
+            "ui-design",
+            "css-effects",
+            "design",
+            "oauth2",
+            "icons",
+            "css-reset",
+            "freecodecamp",
             "best-practices",
-            "ant-design",
-            "ios",
+            "font",
+            "macosx",
             "ui",
             "interview-questions",
-            "html5",
-            "slideshow",
-            "scss",
-            "material-design",
-            "icons",
-            "android",
-            "sprites",
-            "javascript",
-            "css",
+            "typescript",
+            "education",
+            "awesome",
+            "community",
+            "frontend",
+            "maps",
+            "apple",
+            "vue",
             "html-questions",
-            "sass",
-            "css-framework",
+            "css-animations",
+            "bootstrap",
+            "sidebar",
+            "macos",
+            "vue-components",
+            "front-end",
+            "css-questions",
+            "stylesheets",
+            "ui-components",
+            "ios",
+            "svg-sprites",
+            "material-design-lite",
+            "fontawesome",
+            "nodejs",
+            "mac",
+            "scss",
+            "components",
+            "html",
+            "leaflet",
+            "curriculum",
+            "antd",
+            "mac-osx",
+            "software",
+            "html5",
+            "semantic",
             "interview-test",
-            "react-components"
+            "deprecated",
+            "css-framework",
+            "flexbox",
+            "sass",
+            "webfont",
+            "iview",
+            "js-questions",
+            "slides",
+            "learn-to-code",
+            "presentations",
+            "career",
+            "slideshow",
+            "html5-boilerplate",
+            "cn-freecodecamp",
+            "awesome-list",
+            "sprites",
+            "mobile-web",
+            "robust",
+            "web",
+            "tooltip",
+            "echarts",
+            "nonprofits",
+            "d3",
+            "dropdown",
+            "material-design",
+            "weui",
+            "animation",
+            "button",
+            "framework",
+            "hackathon",
+            "material",
+            "material-components",
+            "ant-design",
+            "starter-kit",
+            "wechat",
+            "react-components",
+            "android",
+            "svg-icons",
+            "design-systems",
+            "javascript",
+            "math",
+            "style",
+            "mdl",
+            "ui-kit",
+            "boilerplate",
+            "css",
+            "popup",
+            "react",
+            "certification"
         ]
     ],
     "oh-my-zsh": [
-        "https://gitstar-ranking.com/robbyrussell/oh-my-zsh",
+        "https://github.com/robbyrussell/oh-my-zsh",
         [
+            "TypeScript",
             "C++",
+            "Shell",
             "Python",
-            "Shell"
+            "C",
+            "JavaScript"
         ],
         [
-            "productivity",
+            "c",
+            "version-manager",
+            "load-balancer",
+            "deploy",
+            "lts",
+            "man-page",
             "theme",
+            "posix-compliant",
+            "tldr",
             "font",
-            "terminal",
+            "posix",
+            "console",
+            "node",
+            "cheatsheets",
+            "documentation",
+            "examples",
+            "install",
+            "production",
             "programming-ligatures",
+            "manual",
+            "macos",
+            "command-line-tool",
             "shell",
-            "zsh-configuration",
-            "ligatures"
+            "nvmrc",
+            "monitoring",
+            "manpages",
+            "ligatures",
+            "bash",
+            "nodejs",
+            "pm2",
+            "node-js",
+            "terminal",
+            "nvm",
+            "productivity",
+            "help",
+            "command-line",
+            "zsh",
+            "dotfiles",
+            "process-manager",
+            "zsh-configuration"
         ]
     ],
     "javascript": [
-        "https://gitstar-ranking.com/airbnb/javascript",
+        "https://github.com/airbnb/javascript",
         [
+            "Vue",
             "JavaScript"
         ],
         [
-            "es6",
-            "naming-conventions",
-            "es2017",
-            "es2015",
             "javascript",
-            "linting",
-            "tc39",
-            "style-guide",
             "arrow-functions",
-            "styleguide",
             "es2016",
+            "linting",
+            "styleguide",
+            "naming-conventions",
+            "es2015",
+            "es2018",
+            "es2017",
+            "tc39",
             "style-linter",
-            "eslint",
-            "es2018"
+            "es6",
+            "style-guide",
+            "eslint"
         ]
     ],
     "vscode": [
-        "https://gitstar-ranking.com/Microsoft/vscode",
+        "https://github.com/microsoft/vscode",
         [
-            "CSS",
-            "C++",
             "TypeScript",
+            "C++",
+            "CSS",
             "JavaScript"
         ],
         [
-            "ui-kit",
-            "antd",
-            "microsoft",
-            "editor",
-            "web-framework",
-            "components",
+            "go",
+            "canvas",
+            "immersive",
             "angular",
-            "c-plus-plus",
-            "web-performance",
-            "nextjs",
-            "chrome",
-            "pwa",
-            "react",
-            "ant-design",
-            "browser",
-            "design-systems",
-            "electron",
-            "server-rendering",
-            "universal",
-            "web",
-            "node",
-            "zeit",
-            "redux",
-            "nodejs",
-            "visual-studio-code",
-            "typescript",
-            "javascript",
-            "css",
-            "typechecker",
+            "design",
+            "typescript-framework",
+            "angular-cli",
+            "facebook",
             "v8",
+            "web-framework",
+            "admin",
+            "nestjs",
+            "microservices",
+            "node",
+            "typechecker",
+            "typescript",
             "language",
+            "mysql",
+            "desktop",
+            "webgl",
+            "alerting",
+            "influxdb",
+            "rendering",
+            "monitoring",
+            "data-visualization",
+            "renderer",
+            "javascript-framework",
+            "types",
+            "nodejs",
+            "firebase",
+            "painless",
+            "c-plus-plus",
+            "grafana",
+            "microsoft",
+            "html",
+            "components",
+            "analytics",
+            "antd",
+            "glsl",
+            "painless-javascript-testing",
+            "universal",
+            "electron",
+            "dts",
+            "easy",
+            "server-rendering",
+            "redux",
+            "nest",
+            "hyperterm",
+            "pixi",
+            "nodejs-framework",
+            "expectation",
+            "editor",
+            "prometheus",
+            "snapshot",
+            "game",
+            "visual-studio-code",
+            "pixijs",
+            "umi",
+            "terminal-emulators",
+            "chrome",
+            "rendering-engine",
+            "web",
+            "nextjs",
+            "browser",
+            "business-intelligence",
+            "canvas2d",
+            "definition",
+            "elasticsearch",
+            "framework",
+            "cli",
+            "zeit",
+            "pwa",
+            "dashboard",
+            "ant-design",
             "react-components",
-            "html"
+            "terminal",
+            "rendering-2d-graphics",
+            "typescript-definitions",
+            "websockets",
+            "typings",
+            "design-systems",
+            "javascript",
+            "admin-dashboard",
+            "metrics",
+            "testing",
+            "web-performance",
+            "ui-kit",
+            "enterprise",
+            "boilerplate",
+            "css",
+            "postgres",
+            "react"
         ]
     ],
     "CS-Notes": [
-        "https://gitstar-ranking.com/CyC2018/CS-Notes",
+        "https://github.com/CyC2018/CS-Notes",
         [
+            "Kotlin",
+            "Java",
+            "Scala",
             "Python",
-            "JavaScript",
-            "Java"
+            "JavaScript"
         ],
         [
-            "interview-prep",
-            "cpp",
-            "snippets",
-            "leetcode-solutions",
-            "animation",
-            "reactive-streams",
-            "snippets-library",
-            "spring-boot",
-            "algorithm-competitions",
-            "leetcode-c",
-            "interview",
-            "python",
-            "interview-practice",
-            "interview-preparation",
-            "zookeeper",
-            "leetcode-java",
-            "design-patterns",
-            "coding-interviews",
-            "elasticsearch",
-            "coding-challenge",
-            "system",
-            "leetcode-questions",
-            "leetcode",
+            "message-queue",
             "spring",
-            "system-design",
+            "coding-interviews",
+            "high-concurrency",
+            "graph",
+            "computer-science",
+            "barcode-scanner",
+            "thread-pool",
+            "encode",
+            "qr-code",
+            "cache",
+            "leetcode-c",
+            "algorithm-competitions",
+            "network",
+            "leetcode-questions",
+            "zxing",
+            "jvm",
+            "encrypt",
+            "zookeeper",
+            "interview-questions",
+            "eureka",
+            "doocs",
             "redis",
             "search-engine",
-            "coding-interview",
-            "principles",
-            "algorithm-challenges",
-            "java",
-            "flow",
-            "coding-challenges",
-            "interview-questions",
-            "computer-science",
-            "rxjava",
             "snippets-collection",
+            "spannable-string",
             "mysql",
-            "algorithms",
             "interviews",
-            "framework",
+            "coding-interview",
+            "snackbar",
+            "interview-preparation",
+            "protocol-compiler",
+            "microservices-architecture",
+            "bar",
+            "marshalling",
+            "ios",
+            "datamatrix",
+            "airbnb",
+            "gif",
+            "kotlin",
+            "design-patterns",
+            "coding-challenge",
+            "feign",
             "algorithm",
-            "jvm",
+            "distributed-search-engine",
+            "video",
+            "utils",
+            "distributed-systems",
+            "player",
+            "concurrent-programming",
+            "ribbon",
+            "fragment",
+            "spring-cloud",
+            "leetcode-java",
+            "netty",
+            "serialization",
+            "file",
+            "coding-challenges",
+            "algorithms",
+            "upc",
+            "system-design",
+            "protobuf-runtime",
+            "python",
+            "snippets-library",
+            "snippets",
+            "mpandroidchart",
+            "dubbo",
             "awesome-list",
-            "technical-coding-interview"
+            "rxjava",
+            "interview",
+            "eventbus",
+            "regex",
+            "protocol-buffers",
+            "technical-coding-interview",
+            "reactive-streams",
+            "high-availability",
+            "lottie",
+            "springcloud-config",
+            "animation",
+            "flow",
+            "system",
+            "elasticsearch",
+            "framework",
+            "java",
+            "chart",
+            "androidx",
+            "leetcode",
+            "ffmpeg",
+            "disk-cache",
+            "hystrix",
+            "permission",
+            "principles",
+            "android",
+            "log",
+            "algorithm-challenges",
+            "imageloader",
+            "spring-boot",
+            "protobuf",
+            "glide",
+            "reflect",
+            "ijkplayer",
+            "interview-practice",
+            "interview-prep",
+            "rpc",
+            "guava",
+            "spring-framework",
+            "app",
+            "basic-java",
+            "after-effects",
+            "cpp",
+            "protoc",
+            "toast",
+            "zuul",
+            "leetcode-solutions",
+            "barcode"
         ]
     ],
     "d3": [
-        "https://gitstar-ranking.com/d3/d3",
+        "https://github.com/d3/d3",
         [
             "JavaScript"
         ],
@@ -587,452 +1197,528 @@
         ]
     ],
     "linux": [
-        "https://gitstar-ranking.com/torvalds/linux",
+        "https://github.com/torvalds/linux",
         [
             "C"
         ],
         [
-            "dashboard",
-            "observability",
-            "grafana",
-            "graphite",
-            "devops",
-            "monitoring",
+            "c",
+            "phantomjs",
             "prometheus",
-            "docker",
-            "statsd",
-            "influxdb",
-            "cncf",
-            "kubernetes",
-            "graphing",
-            "netdata",
-            "alerting",
             "iot",
+            "statsd",
+            "headless-browser",
+            "api",
+            "lua",
+            "neovim",
+            "notifications",
+            "julia-language",
+            "netdata",
             "containers",
-            "time-series",
+            "programming-language",
+            "alerting",
+            "ffmpeg",
+            "vim",
+            "kubernetes",
+            "shell",
+            "nvim",
+            "dashboard",
+            "influxdb",
+            "ios",
+            "monitoring",
+            "machine-learning",
+            "cross-platform",
+            "android",
+            "devops",
+            "docker",
+            "grafana",
+            "ijkplayer",
+            "numerical-computation",
             "analytics",
-            "notifications"
+            "cncf",
+            "graphing",
+            "headless",
+            "time-series",
+            "video",
+            "player",
+            "high-performance-computing",
+            "extensible",
+            "scientific-computing",
+            "observability",
+            "text-editor",
+            "automation",
+            "graphite"
         ]
     ],
     "react-native": [
-        "https://gitstar-ranking.com/facebook/react-native",
+        "https://github.com/facebook/react-native",
         [
-            "JavaScript",
-            "Java"
+            "Java",
+            "JavaScript"
         ],
         []
     ],
     "system-design-primer": [
-        "https://gitstar-ranking.com/donnemartin/system-design-primer",
+        "https://github.com/donnemartin/system-design-primer",
         [
+            "Python",
+            "TypeScript",
+            "HTML",
             "Java",
             "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
+            "JavaScript"
         ],
         [
-            "web",
-            "webapp",
-            "interview-practice",
             "design-patterns",
-            "design-system",
-            "design",
-            "interview-questions",
-            "development",
-            "web-application",
-            "system",
             "programming",
+            "interview-practice",
+            "interview-questions",
+            "web",
             "interview",
-            "python"
+            "design-system",
+            "development",
+            "webapp",
+            "design",
+            "python",
+            "system",
+            "web-application"
         ]
     ],
     "electron": [
-        "https://gitstar-ranking.com/electron/electron",
+        "https://github.com/electron/electron",
         [
-            "C++",
             "Python",
+            "C++",
             "TypeScript"
         ],
         [
-            "nodejs",
-            "javascript",
-            "css",
-            "c-plus-plus",
             "chrome",
-            "v8",
+            "javascript",
             "electron",
+            "css",
+            "nodejs",
+            "c-plus-plus",
+            "v8",
             "html"
         ]
     ],
     "awesome-python": [
-        "https://gitstar-ranking.com/vinta/awesome-python",
+        "https://github.com/vinta/awesome-python",
         [
+            "Go",
+            "Makefile",
+            "Ruby",
+            "Swift",
+            "HTML",
             "Python",
-            "Go"
+            "JavaScript"
         ],
         [
-            "awesome",
             "collections",
-            "python",
+            "python-library",
+            "awesome",
             "python-framework",
-            "python-library"
+            "python"
         ]
     ],
     "create-react-app": [
-        "https://gitstar-ranking.com/facebook/create-react-app",
+        "https://github.com/facebook/create-react-app",
         [
             "JavaScript"
         ],
         [
-            "zero-configuration",
             "build-tools",
-            "react"
-        ]
-    ],
-    "JavaGuide": [
-        "https://gitstar-ranking.com/Snailclimb/JavaGuide",
-        [
-            "JavaScript",
-            "Java"
-        ],
-        [
-            "redis",
-            "mysql",
-            "zookeeper",
-            "algorithms",
-            "java",
-            "system",
-            "jvm",
-            "interview",
-            "spring",
-            "system-design"
+            "react",
+            "zero-configuration"
         ]
     ],
     "go": [
-        "https://gitstar-ranking.com/golang/go",
+        "https://github.com/golang/go",
         [
-            "TypeScript",
-            "Go"
-        ],
-        [
-            "programming-language",
-            "go",
-            "language"
-        ]
-    ],
-    "node": [
-        "https://gitstar-ranking.com/nodejs/node",
-        [
-            "C++",
-            "JavaScript",
-            "TypeScript"
-        ],
-        [
-            "linux",
-            "nodejs",
-            "js",
-            "javascript",
-            "runtime",
-            "mit",
-            "windows",
-            "macos",
-            "node"
-        ]
-    ],
-    "animate.css": [
-        "https://gitstar-ranking.com/daneden/animate.css",
-        [
-            "Java",
-            "CSS"
-        ],
-        [
-            "stylesheets",
-            "animation",
-            "css",
-            "css-animations"
-        ]
-    ],
-    "kubernetes": [
-        "https://gitstar-ranking.com/kubernetes/kubernetes",
-        [
-            "C",
-            "Python",
             "Go",
+            "TypeScript",
+            "Kotlin",
+            "Julia",
+            "C"
+        ],
+        [
+            "go",
+            "language",
+            "programming-language"
+        ]
+    ],
+    "JavaGuide": [
+        "https://github.com/Snailclimb/JavaGuide",
+        [
+            "Go",
+            "TypeScript",
+            "Swift",
+            "Java",
             "JavaScript"
         ],
         [
-            "kubernetes",
-            "go",
-            "containers",
-            "cncf"
+            "zookeeper",
+            "spring",
+            "interview",
+            "algorithms",
+            "system-design",
+            "redis",
+            "mysql",
+            "system",
+            "java",
+            "jvm"
         ]
     ],
-    "javascript-algorithms": [
-        "https://gitstar-ranking.com/trekhleb/javascript-algorithms",
+    "node": [
+        "https://github.com/nodejs/node",
         [
-            "JavaScript",
-            "Java"
+            "TypeScript",
+            "Swift",
+            "HTML",
+            "Shell",
+            "Objective-C",
+            "Vim script",
+            "C++",
+            "JavaScript"
         ],
         [
-            "data-structures",
-            "algorithms",
             "javascript",
-            "javascript-algorithms",
-            "algorithm",
-            "interview",
-            "interview-preparation",
-            "computer-science"
+            "node",
+            "js",
+            "linux",
+            "runtime",
+            "nodejs",
+            "windows",
+            "macos",
+            "mit"
+        ]
+    ],
+    "animate.css": [
+        "https://github.com/daneden/animate.css",
+        [
+            "Kotlin",
+            "Java",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "css",
+            "animation",
+            "css-animations",
+            "stylesheets"
+        ]
+    ],
+    "kubernetes": [
+        "https://github.com/kubernetes/kubernetes",
+        [
+            "Go",
+            "C",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "go",
+            "cncf",
+            "kubernetes",
+            "containers"
         ]
     ],
     "Font-Awesome": [
-        "https://gitstar-ranking.com/FortAwesome/Font-Awesome",
+        "https://github.com/FortAwesome/Font-Awesome",
         [
             "Clojure",
-            "CSS",
-            "Python",
-            "JavaScript",
+            "HTML",
             "Shell",
-            "HTML"
+            "Python",
+            "CSS",
+            "JavaScript"
         ],
         [
-            "icons",
-            "fontawesome",
-            "svg-icons",
-            "css",
-            "svg-sprites",
             "font",
-            "webfont"
+            "webfont",
+            "svg-sprites",
+            "fontawesome",
+            "css",
+            "icons",
+            "svg-icons"
+        ]
+    ],
+    "javascript-algorithms": [
+        "https://github.com/trekhleb/javascript-algorithms",
+        [
+            "Java",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "javascript-algorithms",
+            "javascript",
+            "interview-preparation",
+            "algorithm",
+            "interview",
+            "algorithms",
+            "computer-science",
+            "data-structures"
         ]
     ],
     "models": [
-        "https://gitstar-ranking.com/tensorflow/models",
+        "https://github.com/tensorflow/models",
         [
             "Python"
         ],
         []
     ],
     "angular.js": [
-        "https://gitstar-ranking.com/angular/angular.js",
+        "https://github.com/angular/angular.js",
         [
             "JavaScript"
         ],
         []
     ],
     "three.js": [
-        "https://gitstar-ranking.com/mrdoob/three.js",
+        "https://github.com/mrdoob/three.js",
         [
-            "JavaScript",
-            "HTML"
+            "TypeScript",
+            "HTML",
+            "JavaScript"
         ],
         [
-            "canvas",
-            "webxr",
-            "3d",
             "javascript",
-            "webgl2",
-            "webgl",
             "scene-graph",
+            "canvas",
+            "webgl2",
+            "html5",
+            "3d",
+            "webxr",
             "svg",
-            "html5"
-        ]
-    ],
-    "TypeScript": [
-        "https://gitstar-ranking.com/Microsoft/TypeScript",
-        [
-            "TypeScript"
-        ],
-        [
-            "language",
-            "javascript",
-            "typechecker",
-            "typescript"
+            "webgl"
         ]
     ],
     "angular": [
-        "https://gitstar-ranking.com/angular/angular",
+        "https://github.com/angular/angular",
         [
+            "Ruby",
             "TypeScript",
+            "CoffeeScript",
             "Python",
             "JavaScript"
         ],
         [
-            "web",
             "javascript",
-            "web-framework",
-            "angular",
+            "web",
             "web-performance",
-            "pwa",
-            "typescript"
+            "typescript",
+            "angular",
+            "web-framework",
+            "pwa"
+        ]
+    ],
+    "TypeScript": [
+        "https://github.com/microsoft/TypeScript",
+        [
+            "TypeScript"
+        ],
+        [
+            "typechecker",
+            "typescript",
+            "language",
+            "javascript"
         ]
     ],
     "terminal": [
-        "https://gitstar-ranking.com/Microsoft/terminal",
+        "https://github.com/microsoft/terminal",
         [
-            "C++"
+            "C++",
+            "Shell",
+            "Python",
+            "JavaScript"
         ],
         [
-            "wsl",
-            "windows-console",
-            "cmd",
             "console",
+            "command-line",
+            "cmd",
+            "windows-console",
+            "wsl",
             "terminal",
-            "windows-terminal",
-            "command-line"
+            "windows-terminal"
         ]
     ],
     "laravel": [
-        "https://gitstar-ranking.com/laravel/laravel",
+        "https://github.com/laravel/laravel",
         [
             "PHP"
         ],
         [
             "laravel",
+            "psr-3",
+            "psr-6",
+            "symfony-bundle",
+            "psr-16",
+            "php",
+            "psr-13",
+            "package-manager",
+            "bundle",
+            "composer",
+            "dependency-manager",
+            "psr-11",
+            "psr-18",
+            "psr-14",
+            "symfony",
             "framework",
-            "php"
+            "php-framework",
+            "packages"
         ]
     ],
     "public-apis": [
-        "https://gitstar-ranking.com/toddmotto/public-apis",
+        "https://github.com/toddmotto/public-apis",
         [
             "Python"
         ],
         []
     ],
-    "moby": [
-        "https://gitstar-ranking.com/moby/moby",
-        [
-            "Go",
-            "JavaScript",
-            "C",
-            "Python"
-        ],
-        [
-            "containers",
-            "docker",
-            "go"
-        ]
-    ],
     "ant-design": [
-        "https://gitstar-ranking.com/ant-design/ant-design",
+        "https://github.com/ant-design/ant-design",
         [
-            "CSS",
+            "Vue",
             "TypeScript",
-            "JavaScript",
-            "Vue"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "ui-kit",
+            "design-systems",
+            "ant-design",
             "antd",
             "typescript",
-            "react",
-            "ant-design",
-            "design-systems",
-            "react-components"
+            "ui-kit",
+            "react-components",
+            "react"
         ]
     ],
-    "puppeteer": [
-        "https://gitstar-ranking.com/GoogleChrome/puppeteer",
+    "moby": [
+        "https://github.com/moby/moby",
         [
+            "Go",
+            "Lua",
+            "C",
             "Python",
             "JavaScript"
         ],
         [
-            "web",
+            "go",
+            "docker",
+            "containers"
+        ]
+    ],
+    "puppeteer": [
+        "https://github.com/GoogleChrome/puppeteer",
+        [
+            "Ruby",
+            "TypeScript",
+            "CoffeeScript",
+            "C++",
+            "C",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "headless-chrome",
             "testing",
+            "web",
             "node-module",
             "developer-tools",
-            "automation",
-            "headless-chrome"
+            "automation"
         ]
     ],
     "java-design-patterns": [
-        "https://gitstar-ranking.com/iluwatar/java-design-patterns",
+        "https://github.com/iluwatar/java-design-patterns",
         [
             "Go",
-            "JavaScript",
-            "Java"
+            "Makefile",
+            "Python",
+            "HTML",
+            "Java",
+            "JavaScript"
         ],
         [
-            "snippets-collection",
             "design-patterns",
             "principles",
+            "snippets-collection",
+            "snippets-library",
             "snippets",
             "java",
-            "snippets-library",
             "awesome-list"
         ]
     ],
+    "material-ui": [
+        "https://github.com/mui-org/material-ui",
+        [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "design-systems",
+            "javascript",
+            "typescript",
+            "react-components",
+            "material-design",
+            "react"
+        ]
+    ],
     "30-seconds-of-code": [
-        "https://gitstar-ranking.com/30-seconds/30-seconds-of-code",
+        "https://github.com/30-seconds/30-seconds-of-code",
         [
             "JavaScript"
         ],
         [
-            "snippets-collection",
-            "learn-to-code",
-            "nodejs",
             "javascript",
-            "snippets",
-            "es6-javascript",
-            "awesome-list",
             "programming",
             "education",
-            "learning-resources"
+            "learning-resources",
+            "learn-to-code",
+            "snippets-collection",
+            "nodejs",
+            "snippets",
+            "es6-javascript",
+            "awesome-list"
         ]
     ],
-    "material-ui": [
-        "https://gitstar-ranking.com/mui-org/material-ui",
+    "webpack": [
+        "https://github.com/webpack/webpack",
         [
-            "JavaScript",
-            "CSS",
-            "HTML"
+            "Vue",
+            "Kotlin",
+            "Rust",
+            "JavaScript"
         ],
         [
-            "typescript",
             "javascript",
-            "react",
-            "material-design",
-            "design-systems",
-            "react-components"
+            "javascript-compiler",
+            "module-bundler",
+            "web",
+            "amd",
+            "web-performance",
+            "commonjs",
+            "webpack",
+            "es2015",
+            "build-tool",
+            "plugins",
+            "javascript-modules",
+            "loaders",
+            "compiler",
+            "esm",
+            "es6"
         ]
     ],
     "jquery": [
-        "https://gitstar-ranking.com/jquery/jquery",
+        "https://github.com/jquery/jquery",
         [
             "JavaScript"
         ],
         []
     ],
-    "webpack": [
-        "https://gitstar-ranking.com/webpack/webpack",
-        [
-            "JavaScript",
-            "Vue",
-            "Rust"
-        ],
-        [
-            "web",
-            "es6",
-            "plugins",
-            "build-tool",
-            "es2015",
-            "javascript",
-            "module-bundler",
-            "esm",
-            "loaders",
-            "web-performance",
-            "javascript-compiler",
-            "commonjs",
-            "webpack",
-            "amd",
-            "compiler",
-            "javascript-modules"
-        ]
-    ],
     "redux": [
-        "https://gitstar-ranking.com/reduxjs/redux",
+        "https://github.com/reduxjs/redux",
         [
             "TypeScript",
             "JavaScript"
@@ -1042,450 +1728,592 @@
         ]
     ],
     "thefuck": [
-        "https://gitstar-ranking.com/nvbn/thefuck",
+        "https://github.com/nvbn/thefuck",
         [
             "Python"
         ],
         [
-            "shell",
-            "python"
+            "python",
+            "shell"
         ]
     ],
     "awesome-go": [
-        "https://gitstar-ranking.com/avelino/awesome-go",
+        "https://github.com/avelino/awesome-go",
         [
             "Go"
         ],
         [
-            "golang",
+            "go",
             "awesome",
-            "golang-library",
+            "golang",
             "awesome-list",
-            "go"
+            "golang-library"
         ]
     ],
     "atom": [
-        "https://gitstar-ranking.com/atom/atom",
+        "https://github.com/atom/atom",
         [
             "JavaScript"
         ],
         [
-            "linux",
             "javascript",
             "editor",
-            "atom",
+            "linux",
+            "electron",
             "windows",
-            "macos",
-            "electron"
+            "atom",
+            "macos"
         ]
     ],
     "swift": [
-        "https://gitstar-ranking.com/apple/swift",
+        "https://github.com/apple/swift",
         [
             "C++",
             "Swift"
         ],
-        []
+        [
+            "list",
+            "networking",
+            "react-native",
+            "swift-library",
+            "carthage",
+            "ios-animation",
+            "objective-c-library",
+            "algorithms",
+            "example",
+            "apple-watch",
+            "game",
+            "shadowsocksx-ng",
+            "urlrequest",
+            "awesome",
+            "apple-swift",
+            "xcode",
+            "shadowsocks",
+            "apple",
+            "arkit",
+            "certificate-pinning",
+            "macos",
+            "parameter-encoding",
+            "data-structures",
+            "reactive-programming",
+            "apple-tv",
+            "objective-c",
+            "ios",
+            "swift-programming",
+            "request",
+            "swift-package-manager",
+            "kcptun",
+            "v2ray-plugin",
+            "urlsession",
+            "public-key-pinning",
+            "reactiveswift",
+            "swift-extensions",
+            "ipad",
+            "cocoapods",
+            "app",
+            "httpurlresponse",
+            "response",
+            "ios-libraries",
+            "swift",
+            "swift-language",
+            "alamofire",
+            "swift-framework",
+            "iphone"
+        ]
     ],
     "reveal.js": [
-        "https://gitstar-ranking.com/hakimel/reveal.js",
+        "https://github.com/hakimel/reveal.js",
         [
-            "JavaScript",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ],
         [
             "presentations",
-            "slideshow",
-            "slides"
+            "slides",
+            "slideshow"
         ]
     ],
     "LeetCodeAnimation": [
-        "https://gitstar-ranking.com/MisterBooo/LeetCodeAnimation",
+        "https://github.com/MisterBooo/LeetCodeAnimation",
         [
             "Java"
         ],
         [
-            "leetcode-java",
-            "leetcode-solutions",
             "animation",
             "leetcode-c",
-            "leetcode"
+            "leetcode",
+            "leetcode-java",
+            "leetcode-solutions"
         ]
     ],
     "vue-element-admin": [
-        "https://gitstar-ranking.com/PanJiaChen/vue-element-admin",
+        "https://github.com/PanJiaChen/vue-element-admin",
         [
+            "Vue",
+            "TypeScript",
             "C",
+            "Go",
+            "C++",
             "Python",
-            "JavaScript",
-            "Vue"
+            "JavaScript"
         ],
         [
-            "dashboard",
-            "desktop",
-            "components",
-            "axios",
-            "webpack4",
+            "sass",
+            "iview",
+            "vue-router",
+            "element",
+            "ui-design",
+            "admin",
             "i18n",
+            "webpack4",
+            "xlsx",
+            "frontend",
+            "vue",
+            "desktop",
+            "vue-cli",
             "element-ui",
-            "ui-kit",
             "vue-components",
             "vuex",
-            "management-system",
-            "admin-dashboard",
-            "admin",
-            "mock",
-            "xlsx",
-            "tinymce",
-            "javascript",
+            "dashboard",
+            "admin-template",
             "vuejs",
-            "element",
-            "vue",
-            "vue-admin",
+            "flex",
+            "tinymce",
+            "components",
+            "javascript",
+            "admin-dashboard",
+            "axios",
+            "management-system",
             "webpack",
-            "vue-cli",
-            "admin-template"
+            "ui-kit",
+            "es2015",
+            "css",
+            "mock",
+            "vue-admin",
+            "design-systems"
         ]
     ],
     "flask": [
-        "https://gitstar-ranking.com/pallets/flask",
+        "https://github.com/pallets/flask",
         [
             "Python"
         ],
         [
             "werkzeug",
+            "jinja",
             "wsgi",
-            "flask",
-            "web-framework",
             "python",
-            "jinja"
+            "flask",
+            "web-framework"
         ]
     ],
     "socket.io": [
-        "https://gitstar-ranking.com/socketio/socket.io",
+        "https://github.com/socketio/socket.io",
         [
             "JavaScript"
         ],
         []
     ],
-    "express": [
-        "https://gitstar-ranking.com/expressjs/express",
-        [
-            "JavaScript"
-        ],
-        [
-            "server",
-            "javascript",
-            "nodejs",
-            "express"
-        ]
-    ],
-    "Semantic-UI": [
-        "https://gitstar-ranking.com/Semantic-Org/Semantic-UI",
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "popup",
-            "tooltip",
-            "dropdown",
-            "sidebar",
-            "ui-components",
-            "button",
-            "flexbox",
-            "ui",
-            "semantic",
-            "css-framework"
-        ]
-    ],
     "shadowsocks-windows": [
-        "https://gitstar-ranking.com/shadowsocks/shadowsocks-windows",
+        "https://github.com/shadowsocks/shadowsocks-windows",
         [
+            "Kotlin",
+            "Swift",
+            "Python",
+            "C#",
             "JavaScript",
-            "C#"
+            "Objective-C"
         ],
         [
-            "proxy",
+            "codehub",
+            "protocol-compiler",
+            "marshalling",
+            "rpc",
+            "protocol-buffers",
+            "reactiveui",
+            "shadowsocks",
+            "github",
             "c-sharp",
-            "shadowsocks"
-        ]
-    ],
-    "Chart.js": [
-        "https://gitstar-ranking.com/chartjs/Chart.js",
-        [
-            "JavaScript"
-        ],
-        [
-            "canvas",
-            "html5-charts",
-            "chart",
-            "javascript",
-            "graph",
-            "html5"
+            "proxy",
+            "protobuf-runtime",
+            "protoc",
+            "protobuf",
+            "serialization"
         ]
     ],
     "django": [
-        "https://gitstar-ranking.com/django/django",
+        "https://github.com/django/django",
         [
-            "Python"
+            "Ruby",
+            "Python",
+            "JavaScript"
         ],
         [
-            "web",
             "models",
-            "views",
             "apps",
-            "framework",
+            "web",
+            "django",
             "templates",
             "orm",
-            "django",
-            "python"
+            "python",
+            "framework",
+            "views"
+        ]
+    ],
+    "express": [
+        "https://github.com/expressjs/express",
+        [
+            "Go",
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "nodejs",
+            "server",
+            "express"
+        ]
+    ],
+    "Chart.js": [
+        "https://github.com/chartjs/Chart.js",
+        [
+            "Java",
+            "JavaScript"
+        ],
+        [
+            "html5-charts",
+            "javascript",
+            "canvas",
+            "graph",
+            "html5",
+            "chart"
+        ]
+    ],
+    "Semantic-UI": [
+        "https://github.com/Semantic-Org/Semantic-UI",
+        [
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "ui",
+            "ui-components",
+            "tooltip",
+            "semantic",
+            "dropdown",
+            "sidebar",
+            "button",
+            "css-framework",
+            "popup",
+            "flexbox"
         ]
     ],
     "elasticsearch": [
-        "https://gitstar-ranking.com/elastic/elasticsearch",
+        "https://github.com/elastic/elasticsearch",
         [
-            "Java"
+            "Go",
+            "Java",
+            "TypeScript"
         ],
         [
-            "search-engine",
             "elasticsearch",
-            "java"
+            "java",
+            "search-engine"
         ]
     ],
     "Apollo-11": [
-        "https://gitstar-ranking.com/chrislgarry/Apollo-11",
+        "https://github.com/chrislgarry/Apollo-11",
         [
             "Assembly"
         ],
         [
-            "nasa",
             "apollo",
+            "nasa",
             "agc"
         ]
     ],
     "httpie": [
-        "https://gitstar-ranking.com/jakubroztocil/httpie",
+        "https://github.com/jakubroztocil/httpie",
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
+            "Vim script"
         ],
         [
-            "json",
-            "api-client",
-            "development",
-            "terminal",
-            "python",
-            "web",
-            "developer-tools",
-            "debugging",
-            "jakubroztocil",
-            "devops",
-            "usability",
-            "api",
-            "client",
-            "wget",
-            "curl",
-            "httpie",
             "http-client",
+            "json",
+            "debugging",
+            "api",
+            "python",
+            "api-client",
+            "httpie",
             "rest",
+            "web",
+            "wget",
+            "cli",
+            "development",
+            "devops",
+            "terminal",
+            "usability",
             "http",
-            "cli"
+            "jakubroztocil",
+            "client",
+            "curl",
+            "developer-tools"
+        ]
+    ],
+    "spring-boot": [
+        "https://github.com/spring-projects/spring-boot",
+        [
+            "Java"
+        ],
+        [
+            "java",
+            "framework",
+            "spring",
+            "spring-boot"
         ]
     ],
     "json-server": [
-        "https://gitstar-ranking.com/typicode/json-server",
+        "https://github.com/typicode/json-server",
         [
             "JavaScript"
         ],
         []
     ],
-    "spring-boot": [
-        "https://gitstar-ranking.com/spring-projects/spring-boot",
-        [
-            "Java"
-        ],
-        [
-            "spring-boot",
-            "framework",
-            "java",
-            "spring"
-        ]
-    ],
-    "rails": [
-        "https://gitstar-ranking.com/rails/rails",
-        [
-            "Gherkin",
-            "Ruby"
-        ],
-        [
-            "liquid",
-            "rails",
-            "framework",
-            "mvc",
-            "blog-engine",
-            "ruby",
-            "activerecord",
-            "activejob",
-            "jekyll",
-            "static-site-generator",
-            "markdown",
-            "html"
-        ]
-    ],
     "next.js": [
-        "https://gitstar-ranking.com/zeit/next.js",
+        "https://github.com/zeit/next.js",
         [
+            "Vue",
             "TypeScript",
-            "JavaScript",
-            "Vue"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "zeit",
-            "universal",
-            "components",
+            "node",
             "nextjs",
+            "universal",
             "browser",
-            "react",
             "server-rendering",
-            "node"
+            "components",
+            "react",
+            "zeit"
         ]
     ],
     "netdata": [
-        "https://gitstar-ranking.com/netdata/netdata",
+        "https://github.com/netdata/netdata",
         [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
             "C",
-            "JavaScript",
-            "Python"
+            "Python",
+            "JavaScript"
         ],
         [
-            "dashboard",
-            "observability",
-            "grafana",
-            "graphite",
             "prometheus",
-            "statsd",
-            "cncf",
-            "netdata",
-            "notifications",
-            "devops",
-            "monitoring",
-            "docker",
-            "influxdb",
-            "kubernetes",
-            "graphing",
-            "alerting",
             "iot",
+            "statsd",
+            "notifications",
+            "netdata",
             "containers",
+            "alerting",
+            "kubernetes",
+            "dashboard",
+            "influxdb",
+            "monitoring",
+            "devops",
+            "docker",
+            "grafana",
+            "analytics",
+            "cncf",
+            "graphing",
             "time-series",
-            "analytics"
+            "observability",
+            "graphite"
+        ]
+    ],
+    "rails": [
+        "https://github.com/rails/rails",
+        [
+            "Ruby",
+            "Gherkin",
+            "JavaScript"
+        ],
+        [
+            "list",
+            "react-native",
+            "apple-watch",
+            "example",
+            "carthage",
+            "discourse",
+            "mvc",
+            "fastlane",
+            "documentation-tool",
+            "game",
+            "webscraping",
+            "scraper",
+            "api-documentation",
+            "apps",
+            "notifications",
+            "huginn",
+            "documentation",
+            "awesome",
+            "twitter",
+            "deployment",
+            "activejob",
+            "devdocs",
+            "apple",
+            "screenshots",
+            "feed",
+            "framework",
+            "agent",
+            "reactive-programming",
+            "activerecord",
+            "pwa",
+            "apple-tv",
+            "ruby",
+            "objective-c",
+            "ios",
+            "monitoring",
+            "blog-engine",
+            "android",
+            "rails",
+            "liquid",
+            "markdown",
+            "static-site-generator",
+            "html",
+            "javascript",
+            "reactiveswift",
+            "ipad",
+            "cocoapods",
+            "rss",
+            "offline",
+            "docs",
+            "mobile",
+            "jekyll",
+            "feedgenerator",
+            "app",
+            "gitlab",
+            "ember",
+            "forum",
+            "twitter-streaming",
+            "swift",
+            "developer-tools",
+            "automation",
+            "iphone"
         ]
     ],
     "FiraCode": [
-        "https://gitstar-ranking.com/tonsky/FiraCode",
+        "https://github.com/tonsky/FiraCode",
         [
             "Python",
             "Shell",
             "Clojure"
         ],
         [
-            "ligatures",
             "font",
+            "ligatures",
             "programming-ligatures"
         ]
     ],
     "html5-boilerplate": [
-        "https://gitstar-ranking.com/h5bp/html5-boilerplate",
+        "https://github.com/h5bp/html5-boilerplate",
         [
-            "JavaScript",
-            "HTML"
+            "HTML",
+            "JavaScript"
         ],
         [
-            "html5-boilerplate",
-            "robust",
             "javascript",
-            "css",
-            "best-practices",
+            "robust",
             "html5",
+            "css",
+            "html5-boilerplate",
+            "best-practices",
             "html"
         ]
     ],
+    "element": [
+        "https://github.com/ElemeFE/element",
+        [
+            "Vue",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "ui-kit",
+            "vuejs",
+            "vue",
+            "element-ui",
+            "vue-components",
+            "components"
+        ]
+    ],
     "markdown-here": [
-        "https://gitstar-ranking.com/adam-p/markdown-here",
+        "https://github.com/adam-p/markdown-here",
         [
             "JavaScript"
         ],
         []
     ],
-    "element": [
-        "https://gitstar-ranking.com/ElemeFE/element",
+    "resume.github.com": [
+        "https://github.com/resume/resume.github.com",
         [
-            "JavaScript",
-            "Vue"
+            "HTML",
+            "CSS",
+            "JavaScript"
         ],
-        [
-            "ui-kit",
-            "vue-components",
-            "javascript",
-            "vuejs",
-            "components",
-            "vue",
-            "element-ui"
-        ]
+        []
     ],
     "Front-end-Developer-I...": [
-        "https://gitstar-ranking.com/h5bp/Front-end-Developer-Interview-Questions",
+        "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
         [
-            "CSS",
-            "HTML"
+            "HTML",
+            "CSS"
         ],
         [
             "css-questions",
-            "html-questions",
-            "js-questions",
             "interview-questions",
+            "js-questions",
             "interview-test",
+            "html-questions",
             "front-end"
         ]
     ],
+    "lodash": [
+        "https://github.com/lodash/lodash",
+        [
+            "JavaScript"
+        ],
+        [
+            "lodash",
+            "javascript",
+            "utilities",
+            "modules"
+        ]
+    ],
     "awesome-machine-learning": [
-        "https://gitstar-ranking.com/josephmisiti/awesome-machine-learning",
+        "https://github.com/josephmisiti/awesome-machine-learning",
         [
             "Python"
         ],
         []
     ],
-    "resume.github.com": [
-        "https://gitstar-ranking.com/resume/resume.github.com",
-        [
-            "JavaScript",
-            "CSS",
-            "HTML"
-        ],
-        []
-    ],
-    "lodash": [
-        "https://gitstar-ranking.com/lodash/lodash",
-        [
-            "JavaScript"
-        ],
-        [
-            "modules",
-            "javascript",
-            "utilities",
-            "lodash"
-        ]
-    ],
     "moment": [
-        "https://gitstar-ranking.com/moment/moment",
+        "https://github.com/moment/moment",
         [
             "JavaScript"
         ],
         []
     ],
     "rust": [
-        "https://gitstar-ranking.com/rust-lang/rust",
+        "https://github.com/rust-lang/rust",
         [
             "Rust"
         ],
@@ -1495,188 +2323,2531 @@
         ]
     ],
     "gatsby": [
-        "https://gitstar-ranking.com/gatsbyjs/gatsby",
+        "https://github.com/gatsbyjs/gatsby",
         [
             "Go",
-            "JavaScript",
             "Ruby",
-            "Gherkin"
+            "Gherkin",
+            "CoffeeScript",
+            "JavaScript"
         ],
         [
-            "gatsby",
-            "graphql",
-            "web-app",
-            "blog",
             "documentation-tool",
-            "react",
+            "graphql",
+            "gatsby",
+            "web-app",
             "compiler",
-            "static-site-generator"
+            "blog",
+            "static-site-generator",
+            "react"
         ]
     ],
     "bitcoin": [
-        "https://gitstar-ranking.com/bitcoin/bitcoin",
+        "https://github.com/bitcoin/bitcoin",
         [
+            "Go",
             "C++",
             "Python"
         ],
         [
-            "cryptography",
-            "bitcoin",
-            "c-plus-plus",
+            "p2p",
             "cryptocurrency",
-            "p2p"
-        ]
-    ],
-    "interviews": [
-        "https://gitstar-ranking.com/kdn251/interviews",
-        [
-            "Java"
-        ],
-        [
-            "interview-prep",
-            "leetcode-solutions",
-            "algorithm-competitions",
-            "interview",
-            "interview-practice",
-            "interview-preparation",
-            "leetcode-java",
-            "coding-interviews",
-            "coding-challenge",
-            "leetcode-questions",
-            "leetcode",
-            "coding-interview",
-            "algorithm-challenges",
-            "java",
-            "coding-challenges",
-            "interview-questions",
-            "algorithms",
-            "interviews",
-            "algorithm",
-            "technical-coding-interview"
-        ]
-    ],
-    "RxJava": [
-        "https://gitstar-ranking.com/ReactiveX/RxJava",
-        [
-            "Java"
-        ],
-        [
-            "reactive-streams",
-            "rxjava",
-            "java",
-            "flow"
+            "cryptography",
+            "c-plus-plus",
+            "bitcoin"
         ]
     ],
     "ansible": [
-        "https://gitstar-ranking.com/ansible/ansible",
+        "https://github.com/ansible/ansible",
         [
             "Python"
         ],
         [
-            "python",
-            "ansible"
+            "ansible",
+            "python"
         ]
     ],
     "hugo": [
-        "https://gitstar-ranking.com/gohugoio/hugo",
+        "https://github.com/gohugoio/hugo",
         [
             "Go",
             "Ruby",
+            "JavaScript",
             "Gherkin"
         ],
         [
-            "content-management-system",
-            "static-site-generator",
-            "hugo",
+            "go",
+            "cms",
             "blog-engine",
             "documentation-tool",
-            "cms",
-            "go"
+            "hugo",
+            "static-site-generator",
+            "content-management-system"
         ]
     ],
-    "meteor": [
-        "https://gitstar-ranking.com/meteor/meteor",
+    "interviews": [
+        "https://github.com/kdn251/interviews",
         [
+            "Java"
+        ],
+        [
+            "coding-interviews",
+            "coding-challenges",
+            "algorithms",
+            "algorithm-competitions",
+            "leetcode-questions",
+            "interview-questions",
+            "interview",
+            "technical-coding-interview",
+            "java",
+            "interviews",
+            "coding-interview",
+            "leetcode",
+            "interview-preparation",
+            "algorithm-challenges",
+            "interview-practice",
+            "interview-prep",
+            "coding-challenge",
+            "algorithm",
+            "leetcode-java",
+            "leetcode-solutions"
+        ]
+    ],
+    "RxJava": [
+        "https://github.com/ReactiveX/RxJava",
+        [
+            "Java",
             "JavaScript"
         ],
         [
-            "reactive-programming",
-            "npm",
+            "java",
+            "reactive-streams",
+            "rxjava",
+            "flow"
+        ]
+    ],
+    "meteor": [
+        "https://github.com/meteor/meteor",
+        [
+            "Ruby",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "javascript",
+            "build-system",
             "mongodb",
+            "npm",
             "meteor",
             "nodejs",
-            "javascript",
             "framework",
-            "build-system",
+            "reactive-programming",
             "zero-configuration"
         ]
     ],
     "redis": [
-        "https://gitstar-ranking.com/antirez/redis",
+        "https://github.com/antirez/redis",
         [
             "C"
         ],
         []
     ],
     "jekyll": [
-        "https://gitstar-ranking.com/jekyll/jekyll",
+        "https://github.com/jekyll/jekyll",
         [
-            "Gherkin",
-            "Ruby"
+            "Ruby",
+            "JavaScript",
+            "Gherkin"
         ],
         [
-            "liquid",
-            "blog-engine",
             "ruby",
-            "jekyll",
+            "blog-engine",
+            "liquid",
+            "markdown",
             "static-site-generator",
-            "markdown"
+            "jekyll"
         ]
     ],
     "material-design-icons": [
-        "https://gitstar-ranking.com/google/material-design-icons",
+        "https://github.com/google/material-design-icons",
         [
+            "Ruby",
+            "Kotlin",
+            "Swift",
             "HTML",
-            "CSS"
+            "Java",
+            "CSS",
+            "Objective-C",
+            "C",
+            "JavaScript"
         ],
         [
             "web",
-            "icons",
-            "android",
-            "sprites",
-            "material",
             "ios",
-            "material-design"
+            "material-design",
+            "android",
+            "icons",
+            "material",
+            "sprites"
         ]
     ],
     "incubator-echarts": [
-        "https://gitstar-ranking.com/apache/incubator-echarts",
+        "https://github.com/apache/incubator-echarts",
         [
-            "JavaScript",
-            "HTML"
+            "HTML",
+            "JavaScript"
         ],
         [
             "echarts"
         ]
     ],
     "react-router": [
-        "https://gitstar-ranking.com/ReactTraining/react-router",
+        "https://github.com/ReactTraining/react-router",
         [
             "JavaScript"
         ],
         []
     ],
     "scikit-learn": [
-        "https://gitstar-ranking.com/scikit-learn/scikit-learn",
+        "https://github.com/scikit-learn/scikit-learn",
         [
             "Python"
         ],
         [
             "statistics",
-            "data-analysis",
+            "machine-learning",
+            "python",
             "data-science",
+            "data-analysis"
+        ]
+    ],
+    "advanced-java": [
+        "https://github.com/doocs/advanced-java",
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "message-queue",
+            "high-concurrency",
+            "dubbo",
+            "zookeeper",
+            "eureka",
+            "doocs",
+            "redis",
+            "high-availability",
+            "springcloud-config",
+            "elasticsearch",
+            "java",
+            "microservices-architecture",
+            "hystrix",
+            "feign",
+            "distributed-search-engine",
+            "rpc",
+            "distributed-systems",
+            "ribbon",
+            "spring-cloud",
+            "zuul"
+        ]
+    ],
+    "bulma": [
+        "https://github.com/jgthms/bulma",
+        [
+            "CSS"
+        ],
+        [
+            "css",
+            "design",
+            "css-framework",
+            "flexbox",
+            "html"
+        ]
+    ],
+    "nocode": [
+        "https://github.com/kelseyhightower/nocode",
+        [
+            "Dockerfile"
+        ],
+        []
+    ],
+    "yarn": [
+        "https://github.com/yarnpkg/yarn",
+        [
+            "PHP",
+            "JavaScript"
+        ],
+        [
+            "yarn",
+            "javascript",
+            "package-manager",
+            "npm"
+        ]
+    ],
+    "realworld": [
+        "https://github.com/gothinkster/realworld",
+        [
+            "Shell",
+            "JavaScript"
+        ],
+        []
+    ],
+    "normalize.css": [
+        "https://github.com/necolas/normalize.css",
+        [
+            "CSS"
+        ],
+        [
+            "css-reset",
+            "css",
+            "normalize-css"
+        ]
+    ],
+    "hacker-scripts": [
+        "https://github.com/NARKOZ/hacker-scripts",
+        [
+            "Other",
+            "JavaScript"
+        ],
+        []
+    ],
+    "materialize": [
+        "https://github.com/Dogfalo/materialize",
+        [
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "material-design",
+            "css",
+            "design",
+            "css-framework",
+            "framework",
+            "material"
+        ]
+    ],
+    "freecodecamp.cn": [
+        "https://github.com/FreeCodeCampChina/freecodecamp.cn",
+        [
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "curriculum",
+            "math",
+            "education",
+            "nonprofits",
+            "community",
+            "learn-to-code",
+            "d3",
+            "career",
+            "nodejs",
+            "cn-freecodecamp",
+            "freecodecamp",
+            "react",
+            "certification"
+        ]
+    ],
+    "pytorch": [
+        "https://github.com/pytorch/pytorch",
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "neural-network",
+            "deep-learning",
+            "machine-learning",
+            "gpu",
+            "autograd",
+            "python",
+            "tensor",
+            "numpy"
+        ]
+    ],
+    "nw.js": [
+        "https://github.com/nwjs/nw.js",
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "nwjs",
+            "web-application-framework",
+            "nodejs",
+            "desktop",
+            "node-webkit"
+        ]
+    ],
+    "awesome-selfhosted": [
+        "https://github.com/Kickball/awesome-selfhosted",
+        [
+            "Go",
+            "Makefile",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "privacy",
+            "selfhosted",
+            "self-hosted",
+            "react-native",
+            "hosting",
+            "cloud",
+            "awesome",
+            "awesome-list",
+            "react",
+            "mobile"
+        ]
+    ],
+    "TensorFlow-Examples": [
+        "https://github.com/aymericdamien/TensorFlow-Examples",
+        [
+            "Shell",
+            "Python",
+            "Jupyter Notebook"
+        ],
+        [
+            "tutorial",
+            "examples",
+            "deep-learning",
+            "machine-learning",
+            "tensorflow",
+            "python"
+        ]
+    ],
+    "scrapy": [
+        "https://github.com/scrapy/scrapy",
+        [
+            "Python"
+        ],
+        [
+            "crawling",
+            "scraping",
+            "python",
+            "framework",
+            "crawler"
+        ]
+    ],
+    "okhttp": [
+        "https://github.com/square/okhttp",
+        [
+            "Kotlin",
+            "Java"
+        ],
+        [
+            "memory-leak",
+            "samples",
+            "android",
+            "android-architecture",
+            "compiler",
+            "maven-plugin",
+            "airbnb",
+            "outofmemory",
+            "kotlin-android",
+            "kotlin",
+            "kotlin-library",
+            "gradle-plugin",
+            "intellij-plugin",
+            "shadowsocks",
+            "after-effects",
+            "lottie",
+            "outofmemoryerror",
+            "animation",
+            "programming-language",
+            "java"
+        ]
+    ],
+    "guava": [
+        "https://github.com/google/guava",
+        [
+            "Java"
+        ],
+        [
+            "java",
+            "guava"
+        ]
+    ],
+    "awesome-mac": [
+        "https://github.com/jaywcjlove/awesome-mac",
+        [
+            "Ruby",
+            "Swift",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "macosx",
+            "list",
+            "mac-osx",
+            "software",
+            "awesome",
+            "apple",
+            "mac",
+            "macos",
+            "awesome-list"
+        ]
+    ],
+    "gin": [
+        "https://github.com/gin-gonic/gin",
+        [
+            "Go"
+        ],
+        [
+            "go",
+            "server",
+            "middleware",
+            "performance",
+            "router",
+            "framework",
+            "gin"
+        ]
+    ],
+    "impress.js": [
+        "https://github.com/impress/impress.js",
+        [
+            "JavaScript"
+        ],
+        []
+    ],
+    "prettier": [
+        "https://github.com/prettier/prettier",
+        [
+            "JavaScript"
+        ],
+        [
+            "formatter",
+            "javascript",
+            "less",
+            "typescript",
+            "yaml",
+            "angular",
+            "css",
+            "graphql",
+            "prettier",
+            "ast",
+            "flow",
+            "scss",
+            "jsx",
+            "printer",
+            "vue",
+            "markdown",
+            "json",
+            "html"
+        ]
+    ],
+    "spring-framework": [
+        "https://github.com/spring-projects/spring-framework",
+        [
+            "Java"
+        ],
+        [
+            "framework",
+            "spring",
+            "spring-framework"
+        ]
+    ],
+    "neovim": [
+        "https://github.com/neovim/neovim",
+        [
+            "Go",
+            "Lua",
+            "C",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "c",
+            "api-gateway",
+            "apis",
+            "luajit",
+            "kong",
+            "cross-platform",
+            "iot",
+            "api-management",
+            "api",
+            "devops",
+            "bash",
+            "docker",
+            "lua",
+            "servicecontrol",
+            "consul",
+            "microservices",
+            "reverse-proxy",
+            "neovim",
+            "microservice",
+            "cloud-native",
+            "serverless",
+            "nginx",
+            "service-mesh",
+            "dotfiles",
+            "macos",
+            "text-editor",
+            "vim",
+            "extensible",
+            "nvim"
+        ]
+    ],
+    "retrofit": [
+        "https://github.com/square/retrofit",
+        [
+            "Java"
+        ],
+        [
+            "java",
+            "android"
+        ]
+    ],
+    "big-list-of-naughty-s...": [
+        "https://github.com/minimaxir/big-list-of-naughty-strings",
+        [
+            "Go",
+            "Python"
+        ],
+        []
+    ],
+    "serverless": [
+        "https://github.com/serverless/serverless",
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "google-cloud-functions",
+            "javascript",
+            "microservice",
+            "serverless-architectures",
+            "serverless",
+            "aws",
+            "serverless-framework",
+            "aws-lambda",
+            "ibm-openwhisk",
+            "azure-functions"
+        ]
+    ],
+    "android-architecture": [
+        "https://github.com/googlesamples/android-architecture",
+        [
+            "Kotlin"
+        ],
+        [
+            "android-architecture",
+            "samples",
+            "android"
+        ]
+    ],
+    "awesome-ios": [
+        "https://github.com/vsouza/awesome-ios",
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "swift-extensions",
+            "objective-c",
+            "swift-library",
+            "ios",
+            "ios-animation",
+            "awesome",
+            "apple-swift",
+            "swift-programming",
+            "objective-c-library",
+            "arkit",
+            "ios-libraries",
+            "swift-language",
+            "swift-framework"
+        ]
+    ],
+    "nvm": [
+        "https://github.com/creationix/nvm",
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "nvmrc",
+            "version-manager",
+            "posix",
+            "node",
+            "lts",
+            "install",
+            "bash",
+            "nodejs",
+            "zsh",
+            "node-js",
+            "posix-compliant",
+            "nvm",
+            "shell"
+        ]
+    ],
+    "anime": [
+        "https://github.com/juliangarnier/anime",
+        [
+            "JavaScript"
+        ],
+        [
+            "anime",
+            "animation"
+        ]
+    ],
+    "build-web-application...": [
+        "https://github.com/astaxie/build-web-application-with-golang",
+        [
+            "Go"
+        ],
+        []
+    ],
+    "grafana": [
+        "https://github.com/grafana/grafana",
+        [
+            "Go",
+            "TypeScript"
+        ],
+        [
+            "analytics",
+            "metrics",
+            "influxdb",
+            "go",
+            "monitoring",
+            "prometheus",
+            "data-visualization",
+            "alerting",
+            "business-intelligence",
+            "postgres",
+            "mysql",
+            "elasticsearch",
+            "grafana",
+            "dashboard"
+        ]
+    ],
+    "gogs": [
+        "https://github.com/gogs/gogs",
+        [
+            "Go"
+        ],
+        [
+            "gogs",
+            "go",
+            "git"
+        ]
+    ],
+    "tesseract": [
+        "https://github.com/tesseract-ocr/tesseract",
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "tesseract-ocr",
+            "machine-learning",
+            "ocr-engine",
+            "lstm",
+            "tesseract",
+            "ocr"
+        ]
+    ],
+    "Alamofire": [
+        "https://github.com/Alamofire/Alamofire",
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "urlrequest",
+            "networking",
+            "request",
+            "cocoapods",
+            "carthage",
+            "xcode",
+            "swift-package-manager",
+            "httpurlresponse",
+            "response",
+            "urlsession",
+            "certificate-pinning",
+            "public-key-pinning",
+            "swift",
+            "parameter-encoding",
+            "alamofire"
+        ]
+    ],
+    "Ghost": [
+        "https://github.com/TryGhost/Ghost",
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "publishing",
+            "cms",
+            "headless-cms",
+            "jamstack",
+            "nodejs",
+            "ember",
+            "blogging",
+            "web-application",
+            "ghost",
+            "journalism"
+        ]
+    ],
+    "hyper": [
+        "https://github.com/zeit/hyper",
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "hyperterm",
+            "javascript",
+            "terminal-emulators",
+            "css",
+            "terminal",
+            "react",
+            "html"
+        ]
+    ],
+    "AFNetworking": [
+        "https://github.com/AFNetworking/AFNetworking",
+        [
+            "Objective-C"
+        ],
+        [
+            "video",
+            "kcptun",
+            "ios",
+            "player",
+            "ffmpeg",
+            "shadowsocks",
+            "android",
+            "shadowsocksx-ng",
+            "v2ray-plugin",
+            "macos",
+            "swift",
+            "ijkplayer"
+        ]
+    ],
+    "shadowsocks": [
+        "https://github.com/shadowsocks/shadowsocks",
+        [
+            "Python"
+        ],
+        []
+    ],
+    "face_recognition": [
+        "https://github.com/ageitgey/face_recognition",
+        [
+            "Python"
+        ],
+        [
+            "face-recognition",
+            "face-detection",
             "machine-learning",
             "python"
         ]
+    ],
+    "vue2-elm": [
+        "https://github.com/bailicangdu/vue2-elm",
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "sass",
+            "vue-router",
+            "webpack",
+            "es2015",
+            "vue",
+            "flex",
+            "vuex"
+        ]
+    ],
+    "core": [
+        "https://github.com/home-assistant/core",
+        [
+            "Python"
+        ],
+        [
+            "home-automation",
+            "internet-of-things",
+            "raspberry-pi",
+            "iot",
+            "python",
+            "mqtt",
+            "asyncio"
+        ]
+    ],
+    "gulp": [
+        "https://github.com/gulpjs/gulp",
+        [
+            "JavaScript"
+        ],
+        []
+    ],
+    "clean-code-javascript": [
+        "https://github.com/ryanmcdermott/clean-code-javascript",
+        [
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "inheritance",
+            "principles",
+            "clean-code",
+            "composition",
+            "clean-architecture",
+            "best-practices"
+        ]
+    ],
+    "git": [
+        "https://github.com/git/git",
+        [
+            "C",
+            "Shell"
+        ],
+        [
+            "c",
+            "shell"
+        ]
+    ],
+    "material-design-lite": [
+        "https://github.com/google/material-design-lite",
+        [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "material",
+            "mdl",
+            "material-design-lite",
+            "material-design",
+            "material-components"
+        ]
+    ],
+    "pm2": [
+        "https://github.com/Unitech/pm2",
+        [
+            "Go",
+            "Shell",
+            "JavaScript"
+        ],
+        [
+            "node",
+            "load-balancer",
+            "deploy",
+            "monitoring",
+            "production",
+            "command-line",
+            "nodejs",
+            "pm2",
+            "process-manager",
+            "command-line-tool"
+        ]
+    ],
+    "dubbo": [
+        "https://github.com/apache/dubbo",
+        [
+            "Java"
+        ],
+        [
+            "dubbo"
+        ]
+    ],
+    "free-for-dev": [
+        "https://github.com/ripienaar/free-for-dev",
+        [
+            "HTML"
+        ],
+        []
+    ],
+    "brackets": [
+        "https://github.com/adobe/brackets",
+        [
+            "JavaScript"
+        ],
+        []
+    ],
+    "kotlin": [
+        "https://github.com/JetBrains/kotlin",
+        [
+            "Kotlin"
+        ],
+        [
+            "kotlin-library",
+            "gradle-plugin",
+            "intellij-plugin",
+            "compiler",
+            "maven-plugin",
+            "programming-language",
+            "kotlin"
+        ]
+    ],
+    "jQuery-File-Upload": [
+        "https://github.com/blueimp/jQuery-File-Upload",
+        [
+            "JavaScript",
+            "PHP"
+        ],
+        []
+    ],
+    "you-get": [
+        "https://github.com/soimort/you-get",
+        [
+            "Python"
+        ],
+        []
+    ],
+    "discourse": [
+        "https://github.com/discourse/discourse",
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "ruby",
+            "javascript",
+            "discourse",
+            "rails",
+            "ember",
+            "forum"
+        ]
+    ],
+    "jest": [
+        "https://github.com/facebook/jest",
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "testing",
+            "expectation",
+            "painless-javascript-testing",
+            "immersive",
+            "easy",
+            "snapshot",
+            "painless",
+            "facebook"
+        ]
+    ],
+    "caffe": [
+        "https://github.com/BVLC/caffe",
+        [
+            "C++"
+        ],
+        [
+            "deep-learning",
+            "machine-learning",
+            "vision"
+        ]
+    ],
+    "syncthing": [
+        "https://github.com/syncthing/syncthing",
+        [
+            "Go"
+        ],
+        [
+            "p2p",
+            "peer-to-peer",
+            "go",
+            "synchronization"
+        ]
+    ],
+    "pdf.js": [
+        "https://github.com/mozilla/pdf.js",
+        [
+            "JavaScript"
+        ],
+        []
+    ],
+    "MPAndroidChart": [
+        "https://github.com/PhilJay/MPAndroidChart",
+        [
+            "Java"
+        ],
+        [
+            "graph",
+            "android",
+            "mpandroidchart",
+            "java",
+            "chart"
+        ]
+    ],
+    "cpython": [
+        "https://github.com/python/cpython",
+        [
+            "C",
+            "Python"
+        ],
+        []
+    ],
+    "hackathon-starter": [
+        "https://github.com/sahat/hackathon-starter",
+        [
+            "HTML",
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "starter-kit",
+            "boilerplate",
+            "nodejs",
+            "oauth2",
+            "hackathon"
+        ]
+    ],
+    "prometheus": [
+        "https://github.com/prometheus/prometheus",
+        [
+            "Go"
+        ],
+        [
+            "metrics",
+            "graphing",
+            "time-series",
+            "monitoring",
+            "prometheus",
+            "alerting"
+        ]
+    ],
+    "hexo": [
+        "https://github.com/hexojs/hexo",
+        [
+            "JavaScript"
+        ],
+        [
+            "nodejs",
+            "javascript",
+            "hexo",
+            "static-site-generator"
+        ]
+    ],
+    "XX-Net": [
+        "https://github.com/XX-net/XX-Net",
+        [
+            "Python"
+        ],
+        [
+            "uncensored",
+            "proxy",
+            "vpn",
+            "gfw",
+            "goagent"
+        ]
+    ],
+    "fullPage.js": [
+        "https://github.com/alvarotrigo/fullPage.js",
+        [
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "fullscreen",
+            "sections",
+            "scrolling",
+            "slide",
+            "onepage",
+            "slideshow",
+            "fullpage",
+            "snap",
+            "mousewheel",
+            "jquery",
+            "swipe"
+        ]
+    ],
+    "shadowsocks-android": [
+        "https://github.com/shadowsocks/shadowsocks-android",
+        [
+            "Kotlin"
+        ],
+        [
+            "shadowsocks",
+            "android"
+        ]
+    ],
+    "youtube-dl": [
+        "https://github.com/rg3/youtube-dl",
+        [
+            "Python"
+        ],
+        []
+    ],
+    "koa": [
+        "https://github.com/koajs/koa",
+        [
+            "JavaScript"
+        ],
+        [
+            "koa"
+        ]
+    ],
+    "pixi.js": [
+        "https://github.com/pixijs/pixi.js",
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "pixi",
+            "javascript",
+            "rendering-engine",
+            "rendering",
+            "glsl",
+            "canvas",
+            "renderer",
+            "game",
+            "canvas2d",
+            "webgl",
+            "pixijs",
+            "rendering-2d-graphics"
+        ]
+    ],
+    "styled-components": [
+        "https://github.com/styled-components/styled-components",
+        [
+            "JavaScript"
+        ],
+        [
+            "styled-components",
+            "css",
+            "css-in-js",
+            "react"
+        ]
+    ],
+    "foundation-sites": [
+        "https://github.com/zurb/foundation-sites",
+        [
+            "HTML",
+            "CSS"
+        ],
+        []
+    ],
+    "lottie-android": [
+        "https://github.com/airbnb/lottie-android",
+        [
+            "Kotlin",
+            "Java"
+        ],
+        [
+            "after-effects",
+            "android",
+            "lottie",
+            "animation",
+            "airbnb"
+        ]
+    ],
+    "glide": [
+        "https://github.com/bumptech/glide",
+        [
+            "Java"
+        ],
+        [
+            "disk-cache",
+            "android",
+            "imageloader",
+            "gif",
+            "glide"
+        ]
+    ],
+    "clipboard.js": [
+        "https://github.com/zenorocha/clipboard.js",
+        [
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "clipboard"
+        ]
+    ],
+    "incubator-superset": [
+        "https://github.com/apache/incubator-superset",
+        [
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "superset"
+        ]
+    ],
+    "fastlane": [
+        "https://github.com/fastlane/fastlane",
+        [
+            "Ruby",
+            "Makefile",
+            "JavaScript"
+        ],
+        [
+            "ruby",
+            "apps",
+            "ios",
+            "mobile",
+            "android",
+            "fastlane",
+            "deployment",
+            "screenshots",
+            "automation"
+        ]
+    ],
+    "deeplearningbook-chinese": [
+        "https://github.com/exacity/deeplearningbook-chinese",
+        [
+            "TeX"
+        ],
+        []
+    ],
+    "slate": [
+        "https://github.com/lord/slate",
+        [
+            "Ruby",
+            "CoffeeScript",
+            "JavaScript"
+        ],
+        [
+            "api",
+            "slate",
+            "api-documentation",
+            "static-site-generator"
+        ]
+    ],
+    "backbone": [
+        "https://github.com/jashkenas/backbone",
+        [
+            "HTML",
+            "JavaScript"
+        ],
+        []
+    ],
+    "protobuf": [
+        "https://github.com/google/protobuf",
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "protocol-compiler",
+            "marshalling",
+            "rpc",
+            "protocol-buffers",
+            "protobuf-runtime",
+            "protoc",
+            "protobuf",
+            "serialization"
+        ]
+    ],
+    "video.js": [
+        "https://github.com/videojs/video.js",
+        [
+            "C",
+            "Java",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "javascript",
+            "video",
+            "player",
+            "flash",
+            "html5",
+            "dash",
+            "html5-audio",
+            "hls",
+            "videojs",
+            "html5-video",
+            "html"
+        ]
+    ],
+    "requests": [
+        "https://github.com/requests/requests",
+        [
+            "Python"
+        ],
+        [
+            "requests",
+            "http",
+            "python",
+            "python-requests",
+            "humans",
+            "client",
+            "cookies",
+            "forhumans"
+        ]
+    ],
+    "phantomjs": [
+        "https://github.com/ariya/phantomjs",
+        [
+            "C++",
+            "C",
+            "JavaScript"
+        ],
+        [
+            "headless-browser",
+            "automation",
+            "phantomjs",
+            "headless"
+        ]
+    ],
+    "Leaflet": [
+        "https://github.com/Leaflet/Leaflet",
+        [
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "maps",
+            "javascript",
+            "leaflet"
+        ]
+    ],
+    "fzf": [
+        "https://github.com/junegunn/fzf",
+        [
+            "Go"
+        ],
+        [
+            "unix",
+            "neovim",
+            "go",
+            "bash",
+            "zsh",
+            "fish",
+            "fzf",
+            "cli",
+            "vim"
+        ]
+    ],
+    "ShadowsocksX-NG": [
+        "https://github.com/shadowsocks/ShadowsocksX-NG",
+        [
+            "Objective-C",
+            "Swift"
+        ],
+        [
+            "kcptun",
+            "shadowsocks",
+            "shadowsocksx-ng",
+            "v2ray-plugin",
+            "macos",
+            "swift"
+        ]
+    ],
+    "godot": [
+        "https://github.com/godotengine/godot",
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "godot",
+            "gamedev",
+            "multi-platform",
+            "game-development",
+            "godotengine",
+            "game-engine",
+            "open-source"
+        ]
+    ],
+    "traefik": [
+        "https://github.com/containous/traefik",
+        [
+            "Go",
+            "Python",
+            "Lua"
+        ],
+        [
+            "zookeeper",
+            "reverse-proxy",
+            "microservice",
+            "load-balancer",
+            "go",
+            "kubernetes",
+            "etcd",
+            "golang",
+            "docker",
+            "letsencrypt",
+            "mesos",
+            "consul",
+            "marathon"
+        ]
+    ],
+    "awesome-react-native": [
+        "https://github.com/jondot/awesome-react-native",
+        [
+            "Ruby",
+            "Makefile",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "react-native",
+            "awesome-list",
+            "react",
+            "mobile"
+        ]
+    ],
+    "huginn": [
+        "https://github.com/huginn/huginn",
+        [
+            "Ruby"
+        ],
+        [
+            "scraper",
+            "notifications",
+            "huginn",
+            "monitoring",
+            "rss",
+            "feed",
+            "twitter",
+            "feedgenerator",
+            "webscraping",
+            "agent",
+            "twitter-streaming",
+            "automation"
+        ]
+    ],
+    "phaser": [
+        "https://github.com/photonstorm/phaser",
+        [
+            "JavaScript"
+        ],
+        [
+            "phaserjs",
+            "javascript",
+            "canvas",
+            "phaser",
+            "game-frameworks",
+            "gamedev",
+            "phaser-development",
+            "html5-game-development",
+            "game-development",
+            "webgl",
+            "facebook-instant-games"
+        ]
+    ],
+    "async": [
+        "https://github.com/caolan/async",
+        [
+            "JavaScript"
+        ],
+        [
+            "callbacks",
+            "javascript",
+            "async"
+        ]
+    ],
+    "todomvc": [
+        "https://github.com/tastejs/todomvc",
+        [
+            "HTML",
+            "JavaScript"
+        ],
+        []
+    ],
+    "AndroidUtilCode": [
+        "https://github.com/Blankj/AndroidUtilCode",
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "file",
+            "thread-pool",
+            "encode",
+            "cache",
+            "network",
+            "encrypt",
+            "eventbus",
+            "regex",
+            "spannable-string",
+            "androidx",
+            "snackbar",
+            "bar",
+            "permission",
+            "android",
+            "log",
+            "reflect",
+            "utils",
+            "app",
+            "fragment",
+            "toast"
+        ]
+    ],
+    "axios": [
+        "https://github.com/mzabriskie/axios",
+        [
+            "JavaScript"
+        ],
+        [
+            "http-client",
+            "promise",
+            "javascript",
+            "nodejs"
+        ]
+    ],
+    "leetcode": [
+        "https://github.com/azl397985856/leetcode",
+        [
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "algorithm",
+            "interview",
+            "maximum-sum",
+            "computer-science",
+            "python",
+            "cpp",
+            "tree",
+            "java",
+            "data-structures",
+            "leetcode"
+        ]
+    ],
+    "php-src": [
+        "https://github.com/php/php-src",
+        [
+            "C",
+            "PHP"
+        ],
+        []
+    ],
+    "certbot": [
+        "https://github.com/certbot/certbot",
+        [
+            "Python"
+        ],
+        [
+            "acme",
+            "certificate",
+            "python",
+            "certbot",
+            "letsencrypt",
+            "acme-client"
+        ]
+    ],
+    "ijkplayer": [
+        "https://github.com/bilibili/ijkplayer",
+        [
+            "C",
+            "Java",
+            "Objective-C"
+        ],
+        [
+            "video",
+            "ios",
+            "player",
+            "android",
+            "ffmpeg",
+            "ijkplayer"
+        ]
+    ],
+    "DefinitelyTyped": [
+        "https://github.com/DefinitelyTyped/DefinitelyTyped",
+        [
+            "TypeScript"
+        ],
+        [
+            "typings",
+            "typescript",
+            "dts",
+            "types",
+            "definition",
+            "typescript-definitions"
+        ]
+    ],
+    "nuxt.js": [
+        "https://github.com/nuxt/nuxt.js",
+        [
+            "JavaScript"
+        ],
+        [
+            "nuxt",
+            "ssr",
+            "vue-router",
+            "universal",
+            "server-rendering",
+            "vue",
+            "web-app",
+            "framework",
+            "isomorphic",
+            "vuex"
+        ]
+    ],
+    "CppCoreGuidelines": [
+        "https://github.com/isocpp/CppCoreGuidelines",
+        [
+            "C++",
+            "Python",
+            "Makefile"
+        ],
+        []
+    ],
+    "awesome-awesomeness": [
+        "https://github.com/bayandin/awesome-awesomeness",
+        [
+            "Ruby"
+        ],
+        []
+    ],
+    "go-ethereum": [
+        "https://github.com/ethereum/go-ethereum",
+        [
+            "Go"
+        ],
+        [
+            "go",
+            "geth",
+            "p2p",
+            "ethereum",
+            "blockchain"
+        ]
+    ],
+    "dayjs": [
+        "https://github.com/iamkun/dayjs",
+        [
+            "JavaScript"
+        ],
+        [
+            "datetime",
+            "time",
+            "date-formatting",
+            "date",
+            "moment",
+            "dayjs"
+        ]
+    ],
+    "og-aws": [
+        "https://github.com/open-guides/og-aws",
+        [
+            "Shell"
+        ],
+        []
+    ],
+    "mermaid": [
+        "https://github.com/knsv/mermaid",
+        [
+            "HTML",
+            "JavaScript"
+        ],
+        []
+    ],
+    "Deep-Learning-Papers-...": [
+        "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+        [
+            "Python"
+        ],
+        [
+            "deep-learning"
+        ]
+    ],
+    "spark": [
+        "https://github.com/apache/spark",
+        [
+            "Go",
+            "Scala"
+        ],
+        [
+            "r",
+            "big-data",
+            "spark",
+            "jdbc",
+            "python",
+            "java",
+            "scala",
+            "sql"
+        ]
+    ],
+    "immutable-js": [
+        "https://github.com/facebook/immutable-js",
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        []
+    ],
+    "underscore": [
+        "https://github.com/jashkenas/underscore",
+        [
+            "HTML",
+            "JavaScript"
+        ],
+        []
+    ],
+    "quill": [
+        "https://github.com/quilljs/quill",
+        [
+            "JavaScript"
+        ],
+        [
+            "quill",
+            "editor",
+            "wysiwyg",
+            "rich-text-editor"
+        ]
+    ],
+    "butterknife": [
+        "https://github.com/JakeWharton/butterknife",
+        [
+            "Java"
+        ],
+        []
+    ],
+    "slick": [
+        "https://github.com/kenwheeler/slick",
+        [
+            "JavaScript"
+        ],
+        []
+    ],
+    "julia": [
+        "https://github.com/JuliaLang/julia",
+        [
+            "C",
+            "Julia"
+        ],
+        [
+            "julia-language",
+            "high-performance-computing",
+            "machine-learning",
+            "programming-language",
+            "scientific-computing",
+            "numerical-computation"
+        ]
+    ],
+    "kong": [
+        "https://github.com/Kong/kong",
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "api-gateway",
+            "microservices",
+            "apis",
+            "reverse-proxy",
+            "luajit",
+            "microservice",
+            "cloud-native",
+            "serverless",
+            "nginx",
+            "iot",
+            "kong",
+            "api-management",
+            "devops",
+            "service-mesh",
+            "docker",
+            "lua",
+            "servicecontrol",
+            "consul"
+        ]
+    ],
+    "Rocket.Chat": [
+        "https://github.com/RocketChat/Rocket.Chat",
+        [
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "real-time",
+            "mit",
+            "slack",
+            "chat",
+            "meteor",
+            "free",
+            "collaboration",
+            "foss",
+            "webrtc"
+        ]
+    ],
+    "nest": [
+        "https://github.com/nestjs/nest",
+        [
+            "TypeScript"
+        ],
+        [
+            "javascript",
+            "microservices",
+            "nodejs-framework",
+            "node",
+            "typescript",
+            "javascript-framework",
+            "nodejs",
+            "typescript-framework",
+            "nestjs",
+            "framework",
+            "nest",
+            "websockets"
+        ]
+    ],
+    "programmer-job-blacklist": [
+        "https://github.com/shengxinjing/programmer-job-blacklist",
+        [
+            "Shell"
+        ],
+        []
+    ],
+    "tldr": [
+        "https://github.com/tldr-pages/tldr",
+        [
+            "Ruby",
+            "CoffeeScript",
+            "Shell",
+            "Python"
+        ],
+        [
+            "console",
+            "cheatsheets",
+            "documentation",
+            "examples",
+            "help",
+            "manpages",
+            "man-page",
+            "command-line",
+            "manual",
+            "terminal",
+            "tldr",
+            "shell"
+        ]
+    ],
+    "vue-cli": [
+        "https://github.com/vuejs/vue-cli",
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        []
+    ],
+    "zxing": [
+        "https://github.com/zxing/zxing",
+        [
+            "Java"
+        ],
+        [
+            "upc",
+            "barcode-scanner",
+            "android",
+            "qr-code",
+            "zxing",
+            "datamatrix",
+            "java",
+            "barcode"
+        ]
+    ],
+    "leakcanary": [
+        "https://github.com/square/leakcanary",
+        [
+            "Kotlin"
+        ],
+        [
+            "memory-leak",
+            "android",
+            "outofmemoryerror",
+            "java",
+            "outofmemory",
+            "kotlin-android",
+            "kotlin"
+        ]
+    ],
+    "500lines": [
+        "https://github.com/aosabook/500lines",
+        [
+            "Python",
+            "JavaScript"
+        ],
+        []
+    ],
+    "react-boilerplate": [
+        "https://github.com/react-boilerplate/react-boilerplate",
+        [
+            "JavaScript"
+        ],
+        [
+            "i18n",
+            "webpack4",
+            "offline-first",
+            "scaffolding",
+            "styled-components",
+            "redux",
+            "redux-saga",
+            "immer",
+            "react",
+            "react-boilerplate"
+        ]
+    ],
+    "select2": [
+        "https://github.com/select2/select2",
+        [
+            "JavaScript"
+        ],
+        [
+            "jquery",
+            "javascript",
+            "select2"
+        ]
+    ],
+    "weui": [
+        "https://github.com/Tencent/weui",
+        [
+            "HTML",
+            "CSS"
+        ],
+        [
+            "mobile-web",
+            "weui",
+            "wechat",
+            "style"
+        ]
+    ],
+    "Modernizr": [
+        "https://github.com/Modernizr/Modernizr",
+        [
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "feature-detection",
+            "css3-features",
+            "modernizr",
+            "javascript-library"
+        ]
+    ],
+    "sentry": [
+        "https://github.com/getsentry/sentry",
+        [
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "django",
+            "monitoring",
+            "csp-report",
+            "error-logging",
+            "devops",
+            "crash-reports",
+            "crash-reporting",
+            "error-monitoring"
+        ]
+    ],
+    "ant-design-pro": [
+        "https://github.com/ant-design/ant-design-pro",
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "admin-dashboard",
+            "antd",
+            "enterprise",
+            "boilerplate",
+            "css",
+            "design",
+            "redux",
+            "desktop",
+            "admin",
+            "firebase",
+            "umi",
+            "react",
+            "dashboard"
+        ]
+    ],
+    "request": [
+        "https://github.com/request/request",
+        [
+            "JavaScript"
+        ],
+        []
+    ],
+    "styleguide": [
+        "https://github.com/google/styleguide",
+        [
+            "HTML",
+            "Python"
+        ],
+        []
+    ],
+    "JCSprout": [
+        "https://github.com/crossoverJie/JCSprout",
+        [
+            "Java"
+        ],
+        [
+            "concurrent-programming",
+            "algorithm",
+            "basic-java",
+            "java",
+            "netty",
+            "jvm"
+        ]
+    ],
+    "python-patterns": [
+        "https://github.com/faif/python-patterns",
+        [
+            "Python"
+        ],
+        [
+            "idioms",
+            "python",
+            "design-patterns"
+        ]
+    ],
+    "AiLearning": [
+        "https://github.com/apachecn/AiLearning",
+        [
+            "Python"
+        ],
+        [
+            "rnn",
+            "apriori",
+            "adaboost",
+            "python",
+            "lstm",
+            "recommendedsystem",
+            "svd",
+            "dnn",
+            "svm",
+            "logistic",
+            "nlp",
+            "fp-growth",
+            "naivebayes",
+            "mahchine-leaning",
+            "pca",
+            "sklearn",
+            "scikit-learn",
+            "kmeans",
+            "regression",
+            "deeplearning"
+        ]
+    ],
+    "gitflow": [
+        "https://github.com/nvie/gitflow",
+        [
+            "Shell"
+        ],
+        []
+    ],
+    "rethinkdb": [
+        "https://github.com/rethinkdb/rethinkdb",
+        [
+            "C++",
+            "Python"
+        ],
+        []
+    ],
+    "fetch": [
+        "https://github.com/github/fetch",
+        [
+            "JavaScript"
+        ],
+        [
+            "promise",
+            "javascript",
+            "fetch",
+            "polyfill"
+        ]
+    ],
+    "beego": [
+        "https://github.com/astaxie/beego",
+        [
+            "Go"
+        ],
+        [
+            "go",
+            "beego"
+        ]
+    ],
+    "wrk": [
+        "https://github.com/wg/wrk",
+        [
+            "C"
+        ],
+        []
+    ],
+    "localstack": [
+        "https://github.com/localstack/localstack",
+        [
+            "Python"
+        ],
+        [
+            "aws"
+        ]
+    ],
+    "angular-cli": [
+        "https://github.com/angular/angular-cli",
+        [
+            "TypeScript"
+        ],
+        [
+            "typescript",
+            "cli",
+            "angular-cli",
+            "angular"
+        ]
+    ],
+    "Faker": [
+        "https://github.com/fzaninotto/Faker",
+        [
+            "PHP"
+        ],
+        []
+    ],
+    "iview": [
+        "https://github.com/iview/iView",
+        [
+            "Vue",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "design-systems",
+            "javascript",
+            "iview",
+            "frontend",
+            "ui-kit",
+            "ui-design",
+            "css",
+            "vue",
+            "vue-components",
+            "components"
+        ]
+    ],
+    "standard": [
+        "https://github.com/standard/standard",
+        [
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "standard",
+            "development",
+            "nodejs",
+            "linter",
+            "ecmascript",
+            "static-code-analysis",
+            "es6",
+            "style-guide",
+            "eslint"
+        ]
+    ],
+    "vuex": [
+        "https://github.com/vuejs/vuex",
+        [
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "state-management",
+            "time-travel",
+            "vue",
+            "vuex"
+        ]
+    ],
+    "swiper": [
+        "https://github.com/nolimits4web/swiper",
+        [
+            "JavaScript"
+        ],
+        [
+            "carousel",
+            "swiper",
+            "gallery",
+            "slider",
+            "touch-events",
+            "swipe",
+            "touch",
+            "mobile"
+        ]
+    ],
+    "Detectron": [
+        "https://github.com/facebookresearch/Detectron",
+        [
+            "Python"
+        ],
+        []
+    ],
+    "pandas": [
+        "https://github.com/pandas-dev/pandas",
+        [
+            "Python"
+        ],
+        [
+            "pandas",
+            "alignment",
+            "python",
+            "flexible",
+            "data-analysis"
+        ]
+    ],
+    "symfony": [
+        "https://github.com/symfony/symfony",
+        [
+            "PHP"
+        ],
+        [
+            "psr-3",
+            "psr-6",
+            "bundle",
+            "symfony-bundle",
+            "psr-11",
+            "psr-16",
+            "psr-18",
+            "php",
+            "psr-13",
+            "psr-14",
+            "symfony",
+            "framework",
+            "php-framework"
+        ]
+    ],
+    "dotfiles": [
+        "https://github.com/mathiasbynens/dotfiles",
+        [
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "macos",
+            "bash",
+            "dotfiles"
+        ]
+    ],
+    "tidb": [
+        "https://github.com/pingcap/tidb",
+        [
+            "Go"
+        ],
+        [
+            "sql",
+            "database",
+            "htap",
+            "tidb",
+            "mysql",
+            "mysql-protocol",
+            "distributed-database",
+            "distributed-transactions",
+            "scale"
+        ]
+    ],
+    "netty": [
+        "https://github.com/netty/netty",
+        [
+            "Java"
+        ],
+        []
+    ],
+    "SecLists": [
+        "https://github.com/danielmiessler/SecLists",
+        [
+            "ASP",
+            "PHP"
+        ],
+        []
+    ],
+    "devdocs": [
+        "https://github.com/freeCodeCamp/devdocs",
+        [
+            "Ruby",
+            "CoffeeScript"
+        ],
+        [
+            "api-documentation",
+            "not-maintained",
+            "documentation",
+            "offline",
+            "docs",
+            "app",
+            "devdocs",
+            "documentation-tool",
+            "deprecated",
+            "developer-tools",
+            "pwa"
+        ]
+    ],
+    "caddy": [
+        "https://github.com/mholt/caddy",
+        [
+            "Go"
+        ],
+        [
+            "privacy",
+            "reverse-proxy",
+            "http",
+            "go",
+            "automatic-https",
+            "web-server",
+            "tls",
+            "security",
+            "caddyfile",
+            "http-server",
+            "https"
+        ]
+    ],
+    "composer": [
+        "https://github.com/composer/composer",
+        [
+            "PHP"
+        ],
+        [
+            "package-manager",
+            "composer",
+            "dependency-manager",
+            "php",
+            "packages"
+        ]
+    ],
+    "CodeHub": [
+        "https://github.com/CodeHubApp/CodeHub",
+        [
+            "C#"
+        ],
+        [
+            "codehub",
+            "reactiveui",
+            "c-sharp",
+            "github"
+        ]
+    ],
+    "preact": [
+        "https://github.com/developit/preact",
+        [
+            "JavaScript"
+        ],
+        [
+            "preact-components",
+            "vdom",
+            "virtual-dom",
+            "hyperscript",
+            "dom",
+            "components",
+            "jsx",
+            "preact",
+            "react"
+        ]
+    ],
+    "swift-algorithm-club": [
+        "https://github.com/raywenderlich/swift-algorithm-club",
+        [
+            "Swift"
+        ],
+        [
+            "swift",
+            "algorithms",
+            "data-structures"
+        ]
+    ],
+    "Hover": [
+        "https://github.com/IanLunn/Hover",
+        [
+            "CSS"
+        ],
+        [
+            "sass",
+            "css",
+            "css-effects"
+        ]
+    ],
+    "postcss": [
+        "https://github.com/postcss/postcss",
+        [
+            "JavaScript"
+        ],
+        [
+            "parser",
+            "css",
+            "postcss",
+            "ast",
+            "framework"
+        ]
+    ],
+    "chosen": [
+        "https://github.com/harvesthq/chosen",
+        [
+            "HTML",
+            "CoffeeScript"
+        ],
+        [
+            "deprecated",
+            "not-maintained"
+        ]
+    ],
+    "EventBus": [
+        "https://github.com/greenrobot/EventBus",
+        [
+            "Java"
+        ],
+        []
+    ],
+    "faker.js": [
+        "https://github.com/Marak/faker.js",
+        [
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "faker",
+            "fake-data",
+            "mocks",
+            "faker-generator",
+            "fake",
+            "mocking",
+            "fake-content"
+        ]
+    ],
+    "open-source-ios-apps": [
+        "https://github.com/dkhamsing/open-source-ios-apps",
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "list",
+            "reactiveswift",
+            "react-native",
+            "ipad",
+            "objective-c",
+            "ios",
+            "example",
+            "awesome",
+            "app",
+            "carthage",
+            "cocoapods",
+            "apple-watch",
+            "game",
+            "apple",
+            "swift",
+            "reactive-programming",
+            "apple-tv",
+            "iphone"
+        ]
+    ],
+    "gitlabhq": [
+        "https://github.com/gitlabhq/gitlabhq",
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "ruby",
+            "rails",
+            "gitlab"
+        ]
+    ],
+    "Charts": [
+        "https://github.com/danielgindi/Charts",
+        [
+            "Objective-C",
+            "Swift"
+        ],
+        []
     ]
 }

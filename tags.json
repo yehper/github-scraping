@@ -1,199 +1,83 @@
 {
-    "learn-to-code": [
-        [
-            "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "freeCodeCamp",
-            "30-seconds-of-code"
-        ]
-    ],
-    "d3": [
-        [
-            "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "freeCodeCamp"
-        ]
-    ],
-    "nodejs": [
-        [
-            "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "freeCodeCamp",
-            "meteor",
-            "electron",
-            "express",
-            "30-seconds-of-code",
-            "node"
-        ]
-    ],
-    "certification": [
-        [
-            "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "freeCodeCamp"
-        ]
-    ],
-    "careers": [
-        [
-            "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "freeCodeCamp"
-        ]
-    ],
-    "math": [
-        [
-            "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "freeCodeCamp"
-        ]
-    ],
-    "teachers": [
-        [
-            "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "freeCodeCamp"
-        ]
-    ],
     "javascript": [
         [
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "Python",
             "HTML",
+            "Shell",
             "CSS",
+            "Makefile",
             "C++",
-            "JavaScript",
-            "Vue"
+            "Python",
+            "JavaScript"
         ],
         [
+            "standard",
+            "iview",
             "freeCodeCamp",
-            "meteor",
-            "TypeScript",
-            "javascript-algorithms",
-            "angular",
-            "bootstrap",
-            "react",
-            "Chart.js",
-            "30-seconds-of-code",
-            "electron",
-            "html5-boilerplate",
-            "javascript",
-            "three.js",
-            "express",
             "element",
-            "vue",
-            "webpack",
-            "atom",
-            "material-ui",
+            "discourse",
+            "Rocket.Chat",
+            "angular",
+            "faker.js",
+            "meteor",
+            "html5-boilerplate",
+            "async",
             "lodash",
-            "node"
-        ]
-    ],
-    "curriculum": [
-        [
+            "material-ui",
             "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "freeCodeCamp"
-        ]
-    ],
-    "nonprofits": [
-        [
-            "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "freeCodeCamp"
-        ]
-    ],
-    "react": [
-        [
-            "TypeScript",
-            "Python",
-            "HTML",
-            "CSS",
-            "C++",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "next.js",
-            "create-react-app",
-            "freeCodeCamp",
-            "ant-design",
+            "materialize",
+            "node",
+            "pixi.js",
+            "30-seconds-of-code",
+            "express",
+            "phaser",
+            "fetch",
+            "three.js",
+            "nw.js",
             "react",
-            "gatsby",
-            "material-ui"
+            "vue",
+            "bootstrap",
+            "jest",
+            "leetcode",
+            "vuex",
+            "javascript-algorithms",
+            "hyper",
+            "Modernizr",
+            "Chart.js",
+            "prettier",
+            "yarn",
+            "clipboard.js",
+            "javascript",
+            "Leaflet",
+            "serverless",
+            "axios",
+            "webpack",
+            "fullPage.js",
+            "electron",
+            "video.js",
+            "freecodecamp.cn",
+            "select2",
+            "atom",
+            "hexo",
+            "nest",
+            "clean-code-javascript",
+            "Ghost"
         ]
     ],
     "programming": [
         [
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "Python",
             "HTML",
+            "Shell",
             "CSS",
+            "Makefile",
             "C++",
-            "JavaScript",
-            "Vue"
+            "Python",
+            "JavaScript"
         ],
         [
             "system-design-primer",
@@ -201,86 +85,332 @@
             "30-seconds-of-code"
         ]
     ],
-    "education": [
+    "curriculum": [
         [
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "Python",
             "HTML",
+            "Shell",
             "CSS",
+            "Makefile",
             "C++",
-            "JavaScript",
-            "Vue"
+            "Python",
+            "JavaScript"
         ],
         [
+            "freecodecamp.cn",
+            "freeCodeCamp"
+        ]
+    ],
+    "math": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "freecodecamp.cn",
+            "freeCodeCamp"
+        ]
+    ],
+    "d3": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "freecodecamp.cn",
+            "freeCodeCamp"
+        ]
+    ],
+    "nonprofits": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "freecodecamp.cn",
+            "freeCodeCamp"
+        ]
+    ],
+    "education": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "freecodecamp.cn",
             "freeCodeCamp",
             "30-seconds-of-code"
         ]
     ],
-    "community": [
+    "learn-to-code": [
         [
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "Python",
             "HTML",
+            "Shell",
             "CSS",
+            "Makefile",
             "C++",
-            "JavaScript",
-            "Vue"
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "freecodecamp.cn",
+            "freeCodeCamp",
+            "30-seconds-of-code"
+        ]
+    ],
+    "teachers": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
         ],
         [
             "freeCodeCamp"
         ]
     ],
-    "framework": [
+    "community": [
         [
-            "Java",
-            "Python",
-            "JavaScript",
+            "Ruby",
             "Vue",
-            "PHP",
-            "Ruby"
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
         ],
         [
-            "spring-boot",
-            "vue",
-            "laravel",
+            "freecodecamp.cn",
+            "freeCodeCamp"
+        ]
+    ],
+    "nodejs": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "hackathon-starter",
+            "standard",
+            "node",
+            "freeCodeCamp",
+            "30-seconds-of-code",
+            "express",
+            "axios",
+            "electron",
+            "nw.js",
             "meteor",
+            "freecodecamp.cn",
+            "hexo",
+            "pm2",
+            "nest",
+            "nvm",
+            "Ghost"
+        ]
+    ],
+    "react": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "material-ui",
+            "ant-design",
+            "hyper",
+            "freeCodeCamp",
+            "create-react-app",
+            "ant-design-pro",
+            "awesome-react-native",
+            "freecodecamp.cn",
+            "styled-components",
+            "next.js",
+            "preact",
+            "gatsby",
+            "react",
+            "react-boilerplate"
+        ]
+    ],
+    "careers": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "freeCodeCamp"
+        ]
+    ],
+    "certification": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "Shell",
+            "CSS",
+            "Makefile",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "freecodecamp.cn",
+            "freeCodeCamp"
+        ]
+    ],
+    "framework": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "PHP",
+            "Java",
+            "CSS",
+            "Go",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "materialize",
+            "laravel",
             "django",
-            "rails"
+            "spring-framework",
+            "nuxt.js",
+            "meteor",
+            "rails",
+            "vue",
+            "scrapy",
+            "postcss",
+            "symfony",
+            "spring-boot",
+            "nest",
+            "gin"
         ]
     ],
     "vue": [
         [
-            "Java",
-            "Python",
-            "JavaScript",
+            "Ruby",
             "Vue",
+            "TypeScript",
             "PHP",
-            "Ruby"
+            "Java",
+            "CSS",
+            "Go",
+            "Python",
+            "JavaScript"
         ],
         [
-            "vue-element-admin",
+            "vue2-elm",
+            "vuex",
+            "prettier",
             "vue",
-            "element"
+            "vue-element-admin",
+            "iview",
+            "element",
+            "nuxt.js"
         ]
     ],
     "frontend": [
         [
-            "Java",
-            "Python",
-            "JavaScript",
+            "Ruby",
             "Vue",
+            "TypeScript",
             "PHP",
-            "Ruby"
+            "Java",
+            "CSS",
+            "Go",
+            "Python",
+            "JavaScript"
         ],
         [
             "vue",
+            "iview",
+            "react"
+        ]
+    ],
+    "ui": [
+        [
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "Semantic-UI",
             "react"
         ]
     ],
     "declarative": [
         [
-            "JavaScript",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ],
         [
             "react"
@@ -288,48 +418,58 @@
     ],
     "library": [
         [
-            "JavaScript",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ],
         [
             "react"
-        ]
-    ],
-    "ui": [
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "Semantic-UI",
-            "react"
-        ]
-    ],
-    "deep-learning": [
-        [
-            "C++",
-            "Python",
-            "Java"
-        ],
-        [
-            "tensorflow"
         ]
     ],
     "neural-network": [
         [
+            "Julia",
+            "C",
+            "Scala",
+            "Java",
+            "Jupyter Notebook",
             "C++",
             "Python",
-            "Java"
+            "JavaScript"
         ],
         [
-            "tensorflow"
+            "tensorflow",
+            "pytorch"
+        ]
+    ],
+    "deep-learning": [
+        [
+            "Julia",
+            "C",
+            "Scala",
+            "Java",
+            "Jupyter Notebook",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "tensorflow",
+            "pytorch",
+            "Deep-Learning-Papers-...",
+            "TensorFlow-Examples",
+            "caffe"
         ]
     ],
     "distributed": [
         [
+            "Julia",
+            "C",
+            "Scala",
+            "Java",
+            "Jupyter Notebook",
             "C++",
             "Python",
-            "Java"
+            "JavaScript"
         ],
         [
             "tensorflow"
@@ -337,49 +477,88 @@
     ],
     "machine-learning": [
         [
+            "Julia",
+            "C",
+            "Scala",
+            "Java",
+            "Jupyter Notebook",
             "C++",
             "Python",
-            "Java"
+            "JavaScript"
         ],
         [
             "tensorflow",
-            "scikit-learn"
-        ]
-    ],
-    "deep-neural-networks": [
-        [
-            "C++",
-            "Python",
-            "Java"
-        ],
-        [
-            "tensorflow"
-        ]
-    ],
-    "python": [
-        [
-            "C++",
-            "Python",
-            "Java"
-        ],
-        [
-            "thefuck",
-            "flask",
-            "httpie",
-            "ansible",
-            "CS-Notes",
-            "django",
-            "system-design-primer",
-            "tensorflow",
-            "awesome-python",
-            "scikit-learn"
+            "pytorch",
+            "face_recognition",
+            "julia",
+            "tesseract",
+            "scikit-learn",
+            "TensorFlow-Examples",
+            "caffe"
         ]
     ],
     "tensorflow": [
         [
+            "Julia",
+            "C",
+            "Scala",
+            "Java",
+            "Jupyter Notebook",
             "C++",
             "Python",
-            "Java"
+            "JavaScript"
+        ],
+        [
+            "tensorflow",
+            "TensorFlow-Examples"
+        ]
+    ],
+    "python": [
+        [
+            "Julia",
+            "C",
+            "Scala",
+            "Java",
+            "Jupyter Notebook",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "core",
+            "requests",
+            "tensorflow",
+            "face_recognition",
+            "thefuck",
+            "CS-Notes",
+            "scikit-learn",
+            "python-patterns",
+            "httpie",
+            "pandas",
+            "awesome-python",
+            "spark",
+            "django",
+            "AiLearning",
+            "pytorch",
+            "scrapy",
+            "certbot",
+            "ansible",
+            "flask",
+            "TensorFlow-Examples",
+            "leetcode",
+            "system-design-primer"
+        ]
+    ],
+    "deep-neural-networks": [
+        [
+            "Julia",
+            "C",
+            "Scala",
+            "Java",
+            "Jupyter Notebook",
+            "C++",
+            "Python",
+            "JavaScript"
         ],
         [
             "tensorflow"
@@ -387,52 +566,72 @@
     ],
     "ml": [
         [
+            "Julia",
+            "C",
+            "Scala",
+            "Java",
+            "Jupyter Notebook",
             "C++",
             "Python",
-            "Java"
+            "JavaScript"
         ],
         [
             "tensorflow"
         ]
     ],
-    "css": [
-        [
-            "CSS",
-            "TypeScript",
-            "C++",
-            "JavaScript",
-            "HTML",
-            "Ruby"
-        ],
-        [
-            "animate.css",
-            "bootstrap",
-            "html5-boilerplate",
-            "Font-Awesome",
-            "electron"
-        ]
-    ],
     "sass": [
         [
-            "CSS",
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "C++",
-            "JavaScript",
             "HTML",
-            "Ruby"
+            "CSS",
+            "C++",
+            "JavaScript"
         ],
         [
-            "bootstrap"
+            "vue2-elm",
+            "bootstrap",
+            "Hover"
+        ]
+    ],
+    "css": [
+        [
+            "Ruby",
+            "Vue",
+            "TypeScript",
+            "HTML",
+            "CSS",
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "materialize",
+            "hyper",
+            "bulma",
+            "iview",
+            "ant-design-pro",
+            "Hover",
+            "normalize.css",
+            "electron",
+            "styled-components",
+            "Font-Awesome",
+            "html5-boilerplate",
+            "prettier",
+            "postcss",
+            "bootstrap",
+            "animate.css"
         ]
     ],
     "bootstrap": [
         [
-            "CSS",
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "C++",
-            "JavaScript",
             "HTML",
-            "Ruby"
+            "CSS",
+            "C++",
+            "JavaScript"
         ],
         [
             "bootstrap"
@@ -440,52 +639,65 @@
     ],
     "css-framework": [
         [
-            "CSS",
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "C++",
-            "JavaScript",
             "HTML",
-            "Ruby"
+            "CSS",
+            "C++",
+            "JavaScript"
         ],
         [
+            "bulma",
             "Semantic-UI",
+            "materialize",
             "bootstrap"
         ]
     ],
     "scss": [
         [
-            "CSS",
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "C++",
-            "JavaScript",
             "HTML",
-            "Ruby"
+            "CSS",
+            "C++",
+            "JavaScript"
         ],
         [
+            "prettier",
             "bootstrap"
         ]
     ],
     "html": [
         [
-            "CSS",
+            "Ruby",
+            "Vue",
             "TypeScript",
-            "C++",
-            "JavaScript",
             "HTML",
-            "Ruby"
+            "CSS",
+            "C++",
+            "JavaScript"
         ],
         [
-            "html5-boilerplate",
             "rails",
+            "html5-boilerplate",
+            "prettier",
+            "hyper",
             "bootstrap",
-            "electron"
+            "bulma",
+            "electron",
+            "video.js"
         ]
     ],
     "productivity": [
         [
+            "TypeScript",
             "C++",
+            "Shell",
             "Python",
-            "Shell"
+            "C",
+            "JavaScript"
         ],
         [
             "oh-my-zsh"
@@ -493,9 +705,12 @@
     ],
     "theme": [
         [
+            "TypeScript",
             "C++",
+            "Shell",
             "Python",
-            "Shell"
+            "C",
+            "JavaScript"
         ],
         [
             "oh-my-zsh"
@@ -503,105 +718,54 @@
     ],
     "terminal": [
         [
+            "TypeScript",
             "C++",
+            "Shell",
             "Python",
-            "Shell"
+            "C",
+            "JavaScript"
         ],
         [
             "httpie",
+            "hyper",
             "oh-my-zsh",
-            "terminal"
-        ]
-    ],
-    "shell": [
-        [
-            "C++",
-            "Python",
-            "Shell"
-        ],
-        [
-            "oh-my-zsh",
-            "thefuck"
+            "terminal",
+            "tldr"
         ]
     ],
     "zsh-configuration": [
         [
+            "TypeScript",
             "C++",
+            "Shell",
             "Python",
-            "Shell"
+            "C",
+            "JavaScript"
         ],
         [
             "oh-my-zsh"
         ]
     ],
-    "es6": [
+    "shell": [
         [
+            "TypeScript",
+            "C++",
+            "Shell",
+            "Python",
+            "C",
             "JavaScript"
         ],
         [
-            "javascript",
-            "webpack"
-        ]
-    ],
-    "naming-conventions": [
-        [
-            "JavaScript"
-        ],
-        [
-            "javascript"
-        ]
-    ],
-    "es2017": [
-        [
-            "JavaScript"
-        ],
-        [
-            "javascript"
-        ]
-    ],
-    "es2015": [
-        [
-            "JavaScript"
-        ],
-        [
-            "javascript",
-            "webpack"
-        ]
-    ],
-    "linting": [
-        [
-            "JavaScript"
-        ],
-        [
-            "javascript"
-        ]
-    ],
-    "tc39": [
-        [
-            "JavaScript"
-        ],
-        [
-            "javascript"
-        ]
-    ],
-    "style-guide": [
-        [
-            "JavaScript"
-        ],
-        [
-            "javascript"
+            "thefuck",
+            "oh-my-zsh",
+            "git",
+            "tldr",
+            "nvm"
         ]
     ],
     "arrow-functions": [
         [
-            "JavaScript"
-        ],
-        [
-            "javascript"
-        ]
-    ],
-    "styleguide": [
-        [
+            "Vue",
             "JavaScript"
         ],
         [
@@ -610,6 +774,72 @@
     ],
     "es2016": [
         [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "javascript"
+        ]
+    ],
+    "linting": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "javascript"
+        ]
+    ],
+    "styleguide": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "javascript"
+        ]
+    ],
+    "naming-conventions": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "javascript"
+        ]
+    ],
+    "es2015": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "vue2-elm",
+            "javascript",
+            "webpack"
+        ]
+    ],
+    "es2018": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "javascript"
+        ]
+    ],
+    "es2017": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "javascript"
+        ]
+    ],
+    "tc39": [
+        [
+            "Vue",
             "JavaScript"
         ],
         [
@@ -618,33 +848,94 @@
     ],
     "style-linter": [
         [
+            "Vue",
             "JavaScript"
         ],
         [
             "javascript"
+        ]
+    ],
+    "es6": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "standard",
+            "webpack"
+        ]
+    ],
+    "style-guide": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "javascript",
+            "standard"
         ]
     ],
     "eslint": [
         [
+            "Vue",
             "JavaScript"
         ],
         [
-            "javascript"
+            "javascript",
+            "standard"
         ]
     ],
-    "es2018": [
+    "typescript": [
         [
+            "TypeScript",
+            "C++",
+            "CSS",
             "JavaScript"
         ],
         [
-            "javascript"
+            "material-ui",
+            "ant-design",
+            "TypeScript",
+            "vscode",
+            "angular",
+            "prettier",
+            "angular-cli",
+            "DefinitelyTyped",
+            "nest"
+        ]
+    ],
+    "editor": [
+        [
+            "TypeScript",
+            "C++",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "quill",
+            "atom",
+            "vscode"
+        ]
+    ],
+    "electron": [
+        [
+            "TypeScript",
+            "C++",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "electron",
+            "atom",
+            "vscode"
         ]
     ],
     "visual-studio-code": [
         [
-            "CSS",
-            "C++",
             "TypeScript",
+            "C++",
+            "CSS",
             "JavaScript"
         ],
         [
@@ -653,138 +944,128 @@
     ],
     "microsoft": [
         [
-            "CSS",
-            "C++",
             "TypeScript",
+            "C++",
+            "CSS",
             "JavaScript"
         ],
         [
             "vscode"
         ]
     ],
-    "editor": [
-        [
-            "CSS",
-            "C++",
-            "TypeScript",
-            "JavaScript"
-        ],
-        [
-            "vscode",
-            "atom"
-        ]
-    ],
-    "electron": [
-        [
-            "CSS",
-            "C++",
-            "TypeScript",
-            "JavaScript"
-        ],
-        [
-            "vscode",
-            "electron",
-            "atom"
-        ]
-    ],
-    "typescript": [
-        [
-            "CSS",
-            "C++",
-            "TypeScript",
-            "JavaScript"
-        ],
-        [
-            "angular",
-            "ant-design",
-            "TypeScript",
-            "vscode",
-            "material-ui"
-        ]
-    ],
-    "cpp": [
-        [
-            "Python",
-            "JavaScript",
-            "Java"
-        ],
-        [
-            "CS-Notes"
-        ]
-    ],
-    "java": [
-        [
-            "Python",
-            "JavaScript",
-            "Java"
-        ],
-        [
-            "elasticsearch",
-            "spring-boot",
-            "java-design-patterns",
-            "CS-Notes",
-            "JavaGuide",
-            "interviews",
-            "RxJava"
-        ]
-    ],
     "algorithm": [
         [
+            "Kotlin",
+            "Java",
+            "Scala",
             "Python",
-            "JavaScript",
-            "Java"
+            "JavaScript"
         ],
         [
-            "interviews",
             "javascript-algorithms",
-            "CS-Notes"
-        ]
-    ],
-    "leetcode": [
-        [
-            "Python",
-            "JavaScript",
-            "Java"
-        ],
-        [
+            "JCSprout",
+            "CS-Notes",
             "interviews",
-            "LeetCodeAnimation",
-            "CS-Notes"
+            "leetcode"
         ]
     ],
     "interview": [
         [
+            "Kotlin",
+            "Java",
+            "Scala",
             "Python",
-            "JavaScript",
-            "Java"
+            "JavaScript"
         ],
         [
-            "JavaGuide",
+            "javascript-algorithms",
             "CS-Notes",
-            "system-design-primer",
+            "leetcode",
             "interviews",
-            "javascript-algorithms"
+            "JavaGuide",
+            "system-design-primer"
         ]
     ],
     "computer-science": [
         [
+            "Kotlin",
+            "Java",
+            "Scala",
             "Python",
-            "JavaScript",
-            "Java"
+            "JavaScript"
         ],
         [
             "javascript-algorithms",
+            "leetcode",
             "CS-Notes"
         ]
     ],
     "system-design": [
         [
+            "Kotlin",
+            "Java",
+            "Scala",
             "Python",
-            "JavaScript",
-            "Java"
+            "JavaScript"
         ],
         [
             "JavaGuide",
+            "CS-Notes"
+        ]
+    ],
+    "cpp": [
+        [
+            "Kotlin",
+            "Java",
+            "Scala",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "leetcode",
+            "CS-Notes"
+        ]
+    ],
+    "java": [
+        [
+            "Kotlin",
+            "Java",
+            "Scala",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "JCSprout",
+            "RxJava",
+            "okhttp",
+            "spark",
+            "guava",
+            "MPAndroidChart",
+            "JavaGuide",
+            "leakcanary",
+            "advanced-java",
+            "CS-Notes",
+            "java-design-patterns",
+            "elasticsearch",
+            "retrofit",
+            "interviews",
+            "spring-boot",
+            "zxing",
+            "leetcode"
+        ]
+    ],
+    "leetcode": [
+        [
+            "Kotlin",
+            "Java",
+            "Scala",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "LeetCodeAnimation",
+            "interviews",
+            "leetcode",
             "CS-Notes"
         ]
     ],
@@ -796,74 +1077,105 @@
             "d3"
         ]
     ],
-    "web": [
+    "design-patterns": [
         [
+            "Python",
+            "TypeScript",
+            "HTML",
             "Java",
             "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
+            "JavaScript"
         ],
         [
-            "angular",
-            "material-design-icons",
-            "webpack",
-            "puppeteer",
-            "django",
+            "python-patterns",
             "system-design-primer",
-            "httpie"
+            "java-design-patterns"
         ]
     ],
-    "webapp": [
+    "interview-practice": [
         [
+            "Python",
+            "TypeScript",
+            "HTML",
             "Java",
             "CSS",
-            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "interviews",
+            "system-design-primer"
+        ]
+    ],
+    "interview-questions": [
+        [
             "Python",
-            "JavaScript",
-            "HTML"
+            "TypeScript",
+            "HTML",
+            "Java",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "interviews",
+            "Front-end-Developer-I...",
+            "system-design-primer"
+        ]
+    ],
+    "web": [
+        [
+            "Python",
+            "TypeScript",
+            "HTML",
+            "Java",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "material-design-icons",
+            "puppeteer",
+            "httpie",
+            "django",
+            "webpack",
+            "system-design-primer",
+            "angular"
+        ]
+    ],
+    "design-system": [
+        [
+            "Python",
+            "TypeScript",
+            "HTML",
+            "Java",
+            "CSS",
+            "JavaScript"
         ],
         [
             "system-design-primer"
         ]
     ],
-    "interview-practice": [
+    "development": [
         [
+            "Python",
+            "TypeScript",
+            "HTML",
             "Java",
             "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
+            "JavaScript"
         ],
         [
-            "system-design-primer",
-            "interviews"
+            "standard",
+            "httpie",
+            "system-design-primer"
         ]
     ],
-    "design-patterns": [
+    "webapp": [
         [
+            "Python",
+            "TypeScript",
+            "HTML",
             "Java",
             "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
-        ],
-        [
-            "system-design-primer",
-            "java-design-patterns"
-        ]
-    ],
-    "design-system": [
-        [
-            "Java",
-            "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
+            "JavaScript"
         ],
         [
             "system-design-primer"
@@ -871,77 +1183,62 @@
     ],
     "design": [
         [
+            "Python",
+            "TypeScript",
+            "HTML",
             "Java",
             "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
+            "JavaScript"
         ],
         [
-            "system-design-primer"
-        ]
-    ],
-    "interview-questions": [
-        [
-            "Java",
-            "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
-        ],
-        [
-            "system-design-primer",
-            "interviews",
-            "Front-end-Developer-I..."
-        ]
-    ],
-    "development": [
-        [
-            "Java",
-            "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
-        ],
-        [
-            "system-design-primer",
-            "httpie"
-        ]
-    ],
-    "web-application": [
-        [
-            "Java",
-            "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
-        ],
-        [
+            "ant-design-pro",
+            "bulma",
+            "materialize",
             "system-design-primer"
         ]
     ],
     "system": [
         [
+            "Python",
+            "TypeScript",
+            "HTML",
             "Java",
             "CSS",
-            "TypeScript",
-            "Python",
-            "JavaScript",
-            "HTML"
+            "JavaScript"
         ],
         [
-            "system-design-primer",
-            "JavaGuide"
+            "JavaGuide",
+            "system-design-primer"
+        ]
+    ],
+    "web-application": [
+        [
+            "Python",
+            "TypeScript",
+            "HTML",
+            "Java",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "Ghost",
+            "system-design-primer"
+        ]
+    ],
+    "chrome": [
+        [
+            "Python",
+            "C++",
+            "TypeScript"
+        ],
+        [
+            "electron"
         ]
     ],
     "c-plus-plus": [
         [
-            "C++",
             "Python",
+            "C++",
             "TypeScript"
         ],
         [
@@ -949,49 +1246,25 @@
             "electron"
         ]
     ],
-    "chrome": [
-        [
-            "C++",
-            "Python",
-            "TypeScript"
-        ],
-        [
-            "electron"
-        ]
-    ],
     "v8": [
         [
-            "C++",
             "Python",
+            "C++",
             "TypeScript"
         ],
         [
             "electron"
-        ]
-    ],
-    "awesome": [
-        [
-            "Python",
-            "Go"
-        ],
-        [
-            "awesome-python",
-            "awesome-go"
         ]
     ],
     "collections": [
         [
+            "Go",
+            "Makefile",
+            "Ruby",
+            "Swift",
+            "HTML",
             "Python",
-            "Go"
-        ],
-        [
-            "awesome-python"
-        ]
-    ],
-    "python-framework": [
-        [
-            "Python",
-            "Go"
+            "JavaScript"
         ],
         [
             "awesome-python"
@@ -999,20 +1272,49 @@
     ],
     "python-library": [
         [
+            "Go",
+            "Makefile",
+            "Ruby",
+            "Swift",
+            "HTML",
             "Python",
-            "Go"
+            "JavaScript"
         ],
         [
             "awesome-python"
         ]
     ],
-    "zero-configuration": [
+    "awesome": [
         [
+            "Go",
+            "Makefile",
+            "Ruby",
+            "Swift",
+            "HTML",
+            "Python",
             "JavaScript"
         ],
         [
-            "create-react-app",
-            "meteor"
+            "awesome-selfhosted",
+            "open-source-ios-apps",
+            "awesome-python",
+            "awesome-ios",
+            "awesome-mac",
+            "awesome-go"
+        ]
+    ],
+    "python-framework": [
+        [
+            "Go",
+            "Makefile",
+            "Ruby",
+            "Swift",
+            "HTML",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "awesome-python"
         ]
     ],
     "build-tools": [
@@ -1023,131 +1325,210 @@
             "create-react-app"
         ]
     ],
-    "redis": [
+    "zero-configuration": [
         [
-            "JavaScript",
-            "Java"
+            "JavaScript"
         ],
         [
-            "JavaGuide"
+            "meteor",
+            "create-react-app"
         ]
     ],
-    "mysql": [
+    "go": [
         [
-            "JavaScript",
-            "Java"
+            "Go",
+            "TypeScript",
+            "Kotlin",
+            "Julia",
+            "C"
         ],
         [
-            "JavaGuide"
+            "go",
+            "fzf",
+            "kubernetes",
+            "traefik",
+            "beego",
+            "gogs",
+            "syncthing",
+            "go-ethereum",
+            "hugo",
+            "caddy",
+            "grafana",
+            "awesome-go",
+            "gin",
+            "moby"
+        ]
+    ],
+    "language": [
+        [
+            "Go",
+            "TypeScript",
+            "Kotlin",
+            "Julia",
+            "C"
+        ],
+        [
+            "TypeScript",
+            "go"
+        ]
+    ],
+    "programming-language": [
+        [
+            "Go",
+            "TypeScript",
+            "Kotlin",
+            "Julia",
+            "C"
+        ],
+        [
+            "go",
+            "kotlin",
+            "julia"
         ]
     ],
     "zookeeper": [
         [
-            "JavaScript",
-            "Java"
+            "Go",
+            "TypeScript",
+            "Swift",
+            "Java",
+            "JavaScript"
         ],
         [
+            "advanced-java",
+            "JavaGuide",
+            "traefik"
+        ]
+    ],
+    "spring": [
+        [
+            "Go",
+            "TypeScript",
+            "Swift",
+            "Java",
+            "JavaScript"
+        ],
+        [
+            "spring-framework",
+            "spring-boot",
             "JavaGuide"
         ]
     ],
     "algorithms": [
         [
-            "JavaScript",
-            "Java"
+            "Go",
+            "TypeScript",
+            "Swift",
+            "Java",
+            "JavaScript"
         ],
         [
-            "JavaGuide",
+            "javascript-algorithms",
+            "swift-algorithm-club",
             "interviews",
-            "javascript-algorithms"
+            "JavaGuide"
+        ]
+    ],
+    "redis": [
+        [
+            "Go",
+            "TypeScript",
+            "Swift",
+            "Java",
+            "JavaScript"
+        ],
+        [
+            "advanced-java",
+            "JavaGuide"
+        ]
+    ],
+    "mysql": [
+        [
+            "Go",
+            "TypeScript",
+            "Swift",
+            "Java",
+            "JavaScript"
+        ],
+        [
+            "grafana",
+            "JavaGuide",
+            "tidb"
         ]
     ],
     "jvm": [
         [
-            "JavaScript",
-            "Java"
+            "Go",
+            "TypeScript",
+            "Swift",
+            "Java",
+            "JavaScript"
         ],
         [
+            "JCSprout",
             "JavaGuide"
         ]
     ],
-    "spring": [
+    "node": [
         [
-            "JavaScript",
-            "Java"
+            "TypeScript",
+            "Swift",
+            "HTML",
+            "Shell",
+            "Objective-C",
+            "Vim script",
+            "C++",
+            "JavaScript"
         ],
         [
-            "JavaGuide",
-            "spring-boot"
+            "pm2",
+            "node",
+            "next.js",
+            "nest",
+            "nvm"
         ]
     ],
-    "programming-language": [
+    "js": [
         [
             "TypeScript",
-            "Go"
+            "Swift",
+            "HTML",
+            "Shell",
+            "Objective-C",
+            "Vim script",
+            "C++",
+            "JavaScript"
         ],
         [
-            "go"
-        ]
-    ],
-    "go": [
-        [
-            "TypeScript",
-            "Go"
-        ],
-        [
-            "kubernetes",
-            "moby",
-            "hugo",
-            "go",
-            "awesome-go"
-        ]
-    ],
-    "language": [
-        [
-            "TypeScript",
-            "Go"
-        ],
-        [
-            "TypeScript",
-            "go"
+            "node"
         ]
     ],
     "linux": [
         [
+            "TypeScript",
+            "Swift",
+            "HTML",
+            "Shell",
+            "Objective-C",
+            "Vim script",
             "C++",
-            "JavaScript",
-            "TypeScript"
+            "JavaScript"
         ],
         [
             "atom",
             "node"
         ]
     ],
-    "js": [
-        [
-            "C++",
-            "JavaScript",
-            "TypeScript"
-        ],
-        [
-            "node"
-        ]
-    ],
     "runtime": [
         [
+            "TypeScript",
+            "Swift",
+            "HTML",
+            "Shell",
+            "Objective-C",
+            "Vim script",
             "C++",
-            "JavaScript",
-            "TypeScript"
-        ],
-        [
-            "node"
-        ]
-    ],
-    "mit": [
-        [
-            "C++",
-            "JavaScript",
-            "TypeScript"
+            "JavaScript"
         ],
         [
             "node"
@@ -1155,9 +1536,14 @@
     ],
     "windows": [
         [
+            "TypeScript",
+            "Swift",
+            "HTML",
+            "Shell",
+            "Objective-C",
+            "Vim script",
             "C++",
-            "JavaScript",
-            "TypeScript"
+            "JavaScript"
         ],
         [
             "atom",
@@ -1166,154 +1552,135 @@
     ],
     "macos": [
         [
+            "TypeScript",
+            "Swift",
+            "HTML",
+            "Shell",
+            "Objective-C",
+            "Vim script",
             "C++",
-            "JavaScript",
-            "TypeScript"
+            "JavaScript"
         ],
         [
             "atom",
-            "node"
+            "node",
+            "dotfiles",
+            "awesome-mac",
+            "ShadowsocksX-NG"
         ]
     ],
-    "node": [
+    "mit": [
         [
+            "TypeScript",
+            "Swift",
+            "HTML",
+            "Shell",
+            "Objective-C",
+            "Vim script",
             "C++",
-            "JavaScript",
-            "TypeScript"
+            "JavaScript"
         ],
         [
-            "next.js",
+            "Rocket.Chat",
             "node"
-        ]
-    ],
-    "stylesheets": [
-        [
-            "Java",
-            "CSS"
-        ],
-        [
-            "animate.css"
         ]
     ],
     "animation": [
         [
+            "Kotlin",
             "Java",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ],
         [
+            "LeetCodeAnimation",
             "animate.css",
-            "LeetCodeAnimation"
+            "lottie-android",
+            "anime"
         ]
     ],
     "css-animations": [
         [
+            "Kotlin",
             "Java",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ],
         [
             "animate.css"
         ]
     ],
-    "kubernetes": [
+    "stylesheets": [
         [
-            "C",
-            "Python",
-            "Go",
+            "Kotlin",
+            "Java",
+            "CSS",
             "JavaScript"
         ],
         [
-            "kubernetes",
-            "netdata"
-        ]
-    ],
-    "containers": [
-        [
-            "C",
-            "Python",
-            "Go",
-            "JavaScript"
-        ],
-        [
-            "kubernetes",
-            "netdata",
-            "moby"
+            "animate.css"
         ]
     ],
     "cncf": [
         [
+            "Go",
             "C",
             "Python",
-            "Go",
             "JavaScript"
         ],
         [
+            "netdata",
+            "kubernetes"
+        ]
+    ],
+    "kubernetes": [
+        [
+            "Go",
+            "C",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "netdata",
             "kubernetes",
-            "netdata"
+            "traefik"
         ]
     ],
-    "data-structures": [
+    "containers": [
         [
-            "JavaScript",
-            "Java"
+            "Go",
+            "C",
+            "Python",
+            "JavaScript"
         ],
         [
-            "javascript-algorithms"
+            "netdata",
+            "kubernetes",
+            "moby"
         ]
     ],
-    "javascript-algorithms": [
-        [
-            "JavaScript",
-            "Java"
-        ],
-        [
-            "javascript-algorithms"
-        ]
-    ],
-    "interview-preparation": [
-        [
-            "JavaScript",
-            "Java"
-        ],
-        [
-            "interviews",
-            "javascript-algorithms"
-        ]
-    ],
-    "icons": [
+    "font": [
         [
             "Clojure",
-            "CSS",
-            "Python",
-            "JavaScript",
+            "HTML",
             "Shell",
-            "HTML"
+            "Python",
+            "CSS",
+            "JavaScript"
         ],
         [
-            "material-design-icons",
-            "Font-Awesome"
+            "Font-Awesome",
+            "FiraCode"
         ]
     ],
-    "fontawesome": [
+    "webfont": [
         [
             "Clojure",
-            "CSS",
-            "Python",
-            "JavaScript",
+            "HTML",
             "Shell",
-            "HTML"
-        ],
-        [
-            "Font-Awesome"
-        ]
-    ],
-    "svg-icons": [
-        [
-            "Clojure",
-            "CSS",
             "Python",
-            "JavaScript",
-            "Shell",
-            "HTML"
+            "CSS",
+            "JavaScript"
         ],
         [
             "Font-Awesome"
@@ -1322,102 +1689,117 @@
     "svg-sprites": [
         [
             "Clojure",
-            "CSS",
-            "Python",
-            "JavaScript",
+            "HTML",
             "Shell",
-            "HTML"
+            "Python",
+            "CSS",
+            "JavaScript"
         ],
         [
             "Font-Awesome"
         ]
     ],
-    "font": [
+    "fontawesome": [
         [
             "Clojure",
-            "CSS",
-            "Python",
-            "JavaScript",
+            "HTML",
             "Shell",
-            "HTML"
+            "Python",
+            "CSS",
+            "JavaScript"
         ],
         [
-            "FiraCode",
             "Font-Awesome"
         ]
     ],
-    "webfont": [
+    "icons": [
         [
             "Clojure",
-            "CSS",
-            "Python",
-            "JavaScript",
+            "HTML",
             "Shell",
-            "HTML"
+            "Python",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "material-design-icons",
+            "Font-Awesome"
+        ]
+    ],
+    "svg-icons": [
+        [
+            "Clojure",
+            "HTML",
+            "Shell",
+            "Python",
+            "CSS",
+            "JavaScript"
         ],
         [
             "Font-Awesome"
         ]
     ],
-    "canvas": [
+    "javascript-algorithms": [
         [
+            "Java",
             "JavaScript",
-            "HTML"
+            "Swift"
         ],
         [
-            "Chart.js",
-            "three.js"
+            "javascript-algorithms"
         ]
     ],
-    "webxr": [
+    "interview-preparation": [
         [
+            "Java",
             "JavaScript",
-            "HTML"
+            "Swift"
         ],
         [
-            "three.js"
+            "javascript-algorithms",
+            "interviews"
         ]
     ],
-    "3d": [
+    "data-structures": [
         [
+            "Java",
             "JavaScript",
-            "HTML"
+            "Swift"
         ],
         [
-            "three.js"
-        ]
-    ],
-    "webgl2": [
-        [
-            "JavaScript",
-            "HTML"
-        ],
-        [
-            "three.js"
-        ]
-    ],
-    "webgl": [
-        [
-            "JavaScript",
-            "HTML"
-        ],
-        [
-            "three.js"
+            "javascript-algorithms",
+            "swift-algorithm-club",
+            "leetcode"
         ]
     ],
     "scene-graph": [
         [
-            "JavaScript",
-            "HTML"
+            "TypeScript",
+            "HTML",
+            "JavaScript"
         ],
         [
             "three.js"
         ]
     ],
-    "svg": [
+    "canvas": [
         [
-            "JavaScript",
-            "HTML"
+            "TypeScript",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "pixi.js",
+            "Chart.js",
+            "three.js",
+            "phaser"
+        ]
+    ],
+    "webgl2": [
+        [
+            "TypeScript",
+            "HTML",
+            "JavaScript"
         ],
         [
             "three.js"
@@ -1425,13 +1807,110 @@
     ],
     "html5": [
         [
-            "JavaScript",
-            "HTML"
+            "TypeScript",
+            "HTML",
+            "JavaScript"
         ],
         [
             "html5-boilerplate",
             "Chart.js",
+            "three.js",
+            "video.js"
+        ]
+    ],
+    "3d": [
+        [
+            "TypeScript",
+            "HTML",
+            "JavaScript"
+        ],
+        [
             "three.js"
+        ]
+    ],
+    "webxr": [
+        [
+            "TypeScript",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "three.js"
+        ]
+    ],
+    "svg": [
+        [
+            "TypeScript",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "three.js"
+        ]
+    ],
+    "webgl": [
+        [
+            "TypeScript",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "pixi.js",
+            "three.js",
+            "phaser"
+        ]
+    ],
+    "web-performance": [
+        [
+            "Ruby",
+            "TypeScript",
+            "CoffeeScript",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "webpack",
+            "angular"
+        ]
+    ],
+    "angular": [
+        [
+            "Ruby",
+            "TypeScript",
+            "CoffeeScript",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "prettier",
+            "angular-cli",
+            "angular"
+        ]
+    ],
+    "web-framework": [
+        [
+            "Ruby",
+            "TypeScript",
+            "CoffeeScript",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "flask",
+            "angular"
+        ]
+    ],
+    "pwa": [
+        [
+            "Ruby",
+            "TypeScript",
+            "CoffeeScript",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "devdocs",
+            "angular"
         ]
     ],
     "typechecker": [
@@ -1442,51 +1921,37 @@
             "TypeScript"
         ]
     ],
-    "web-framework": [
+    "console": [
         [
-            "TypeScript",
+            "C++",
+            "Shell",
             "Python",
             "JavaScript"
         ],
         [
-            "angular",
-            "flask"
+            "terminal",
+            "tldr"
         ]
     ],
-    "angular": [
+    "command-line": [
         [
-            "TypeScript",
+            "C++",
+            "Shell",
             "Python",
             "JavaScript"
         ],
         [
-            "angular"
+            "terminal",
+            "pm2",
+            "tldr"
         ]
     ],
-    "web-performance": [
+    "cmd": [
         [
-            "TypeScript",
+            "C++",
+            "Shell",
             "Python",
             "JavaScript"
-        ],
-        [
-            "angular",
-            "webpack"
-        ]
-    ],
-    "pwa": [
-        [
-            "TypeScript",
-            "Python",
-            "JavaScript"
-        ],
-        [
-            "angular"
-        ]
-    ],
-    "wsl": [
-        [
-            "C++"
         ],
         [
             "terminal"
@@ -1494,23 +1959,21 @@
     ],
     "windows-console": [
         [
-            "C++"
+            "C++",
+            "Shell",
+            "Python",
+            "JavaScript"
         ],
         [
             "terminal"
         ]
     ],
-    "cmd": [
+    "wsl": [
         [
-            "C++"
-        ],
-        [
-            "terminal"
-        ]
-    ],
-    "console": [
-        [
-            "C++"
+            "C++",
+            "Shell",
+            "Python",
+            "JavaScript"
         ],
         [
             "terminal"
@@ -1518,18 +1981,23 @@
     ],
     "windows-terminal": [
         [
-            "C++"
+            "C++",
+            "Shell",
+            "Python",
+            "JavaScript"
         ],
         [
             "terminal"
         ]
     ],
-    "command-line": [
+    "php": [
         [
-            "C++"
+            "PHP"
         ],
         [
-            "terminal"
+            "composer",
+            "laravel",
+            "symfony"
         ]
     ],
     "laravel": [
@@ -1540,86 +2008,89 @@
             "laravel"
         ]
     ],
-    "php": [
+    "design-systems": [
         [
-            "PHP"
+            "Vue",
+            "TypeScript",
+            "CSS",
+            "JavaScript"
         ],
         [
-            "laravel"
+            "material-ui",
+            "ant-design",
+            "iview"
+        ]
+    ],
+    "ant-design": [
+        [
+            "Vue",
+            "TypeScript",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "ant-design"
+        ]
+    ],
+    "antd": [
+        [
+            "Vue",
+            "TypeScript",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "ant-design-pro",
+            "ant-design"
+        ]
+    ],
+    "ui-kit": [
+        [
+            "Vue",
+            "TypeScript",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "element",
+            "ant-design",
+            "iview"
+        ]
+    ],
+    "react-components": [
+        [
+            "Vue",
+            "TypeScript",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "material-ui",
+            "ant-design"
         ]
     ],
     "docker": [
         [
             "Go",
-            "JavaScript",
+            "Lua",
             "C",
-            "Python"
+            "Python",
+            "JavaScript"
         ],
         [
+            "kong",
             "netdata",
+            "traefik",
             "moby"
         ]
     ],
-    "ui-kit": [
+    "headless-chrome": [
         [
-            "CSS",
+            "Ruby",
             "TypeScript",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "ant-design",
-            "element"
-        ]
-    ],
-    "antd": [
-        [
-            "CSS",
-            "TypeScript",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "ant-design"
-        ]
-    ],
-    "ant-design": [
-        [
-            "CSS",
-            "TypeScript",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "ant-design"
-        ]
-    ],
-    "design-systems": [
-        [
-            "CSS",
-            "TypeScript",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "ant-design",
-            "material-ui"
-        ]
-    ],
-    "react-components": [
-        [
-            "CSS",
-            "TypeScript",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "ant-design",
-            "material-ui"
-        ]
-    ],
-    "testing": [
-        [
+            "CoffeeScript",
+            "C++",
+            "C",
             "Python",
             "JavaScript"
         ],
@@ -1627,8 +2098,28 @@
             "puppeteer"
         ]
     ],
+    "testing": [
+        [
+            "Ruby",
+            "TypeScript",
+            "CoffeeScript",
+            "C++",
+            "C",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "puppeteer",
+            "jest"
+        ]
+    ],
     "node-module": [
         [
+            "Ruby",
+            "TypeScript",
+            "CoffeeScript",
+            "C++",
+            "C",
             "Python",
             "JavaScript"
         ],
@@ -1638,58 +2129,59 @@
     ],
     "developer-tools": [
         [
+            "Ruby",
+            "TypeScript",
+            "CoffeeScript",
+            "C++",
+            "C",
             "Python",
             "JavaScript"
         ],
         [
-            "httpie",
-            "puppeteer"
+            "devdocs",
+            "puppeteer",
+            "httpie"
         ]
     ],
     "automation": [
         [
+            "Ruby",
+            "TypeScript",
+            "CoffeeScript",
+            "C++",
+            "C",
             "Python",
             "JavaScript"
         ],
         [
-            "puppeteer"
-        ]
-    ],
-    "headless-chrome": [
-        [
-            "Python",
-            "JavaScript"
-        ],
-        [
-            "puppeteer"
-        ]
-    ],
-    "snippets-collection": [
-        [
-            "Go",
-            "JavaScript",
-            "Java"
-        ],
-        [
-            "30-seconds-of-code",
-            "java-design-patterns"
+            "phantomjs",
+            "puppeteer",
+            "huginn",
+            "fastlane"
         ]
     ],
     "principles": [
         [
             "Go",
-            "JavaScript",
-            "Java"
+            "Makefile",
+            "Python",
+            "HTML",
+            "Java",
+            "JavaScript"
         ],
         [
+            "clean-code-javascript",
             "java-design-patterns"
         ]
     ],
-    "snippets": [
+    "snippets-collection": [
         [
             "Go",
-            "JavaScript",
-            "Java"
+            "Makefile",
+            "Python",
+            "HTML",
+            "Java",
+            "JavaScript"
         ],
         [
             "30-seconds-of-code",
@@ -1699,31 +2191,59 @@
     "snippets-library": [
         [
             "Go",
-            "JavaScript",
-            "Java"
+            "Makefile",
+            "Python",
+            "HTML",
+            "Java",
+            "JavaScript"
         ],
         [
+            "java-design-patterns"
+        ]
+    ],
+    "snippets": [
+        [
+            "Go",
+            "Makefile",
+            "Python",
+            "HTML",
+            "Java",
+            "JavaScript"
+        ],
+        [
+            "30-seconds-of-code",
             "java-design-patterns"
         ]
     ],
     "awesome-list": [
         [
             "Go",
-            "JavaScript",
-            "Java"
-        ],
-        [
-            "30-seconds-of-code",
-            "java-design-patterns",
-            "awesome-go"
-        ]
-    ],
-    "es6-javascript": [
-        [
+            "Makefile",
+            "Python",
+            "HTML",
+            "Java",
             "JavaScript"
         ],
         [
-            "30-seconds-of-code"
+            "java-design-patterns",
+            "awesome-selfhosted",
+            "30-seconds-of-code",
+            "awesome-go",
+            "awesome-mac",
+            "awesome-react-native"
+        ]
+    ],
+    "material-design": [
+        [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "material-ui",
+            "materialize",
+            "material-design-icons",
+            "material-design-lite"
         ]
     ],
     "learning-resources": [
@@ -1734,32 +2254,20 @@
             "30-seconds-of-code"
         ]
     ],
-    "material-design": [
+    "es6-javascript": [
         [
-            "JavaScript",
-            "CSS",
-            "HTML"
+            "JavaScript"
         ],
         [
-            "material-design-icons",
-            "material-ui"
+            "30-seconds-of-code"
         ]
     ],
-    "plugins": [
+    "javascript-compiler": [
         [
-            "JavaScript",
             "Vue",
-            "Rust"
-        ],
-        [
-            "webpack"
-        ]
-    ],
-    "build-tool": [
-        [
-            "JavaScript",
-            "Vue",
-            "Rust"
+            "Kotlin",
+            "Rust",
+            "JavaScript"
         ],
         [
             "webpack"
@@ -1767,39 +2275,21 @@
     ],
     "module-bundler": [
         [
-            "JavaScript",
             "Vue",
-            "Rust"
+            "Kotlin",
+            "Rust",
+            "JavaScript"
         ],
         [
             "webpack"
         ]
     ],
-    "esm": [
+    "amd": [
         [
-            "JavaScript",
             "Vue",
-            "Rust"
-        ],
-        [
-            "webpack"
-        ]
-    ],
-    "loaders": [
-        [
-            "JavaScript",
-            "Vue",
-            "Rust"
-        ],
-        [
-            "webpack"
-        ]
-    ],
-    "javascript-compiler": [
-        [
-            "JavaScript",
-            "Vue",
-            "Rust"
+            "Kotlin",
+            "Rust",
+            "JavaScript"
         ],
         [
             "webpack"
@@ -1807,9 +2297,10 @@
     ],
     "commonjs": [
         [
-            "JavaScript",
             "Vue",
-            "Rust"
+            "Kotlin",
+            "Rust",
+            "JavaScript"
         ],
         [
             "webpack"
@@ -1817,20 +2308,56 @@
     ],
     "webpack": [
         [
-            "JavaScript",
             "Vue",
-            "Rust"
+            "Kotlin",
+            "Rust",
+            "JavaScript"
         ],
         [
-            "vue-element-admin",
+            "vue2-elm",
+            "webpack",
+            "vue-element-admin"
+        ]
+    ],
+    "build-tool": [
+        [
+            "Vue",
+            "Kotlin",
+            "Rust",
+            "JavaScript"
+        ],
+        [
             "webpack"
         ]
     ],
-    "amd": [
+    "plugins": [
         [
-            "JavaScript",
             "Vue",
-            "Rust"
+            "Kotlin",
+            "Rust",
+            "JavaScript"
+        ],
+        [
+            "webpack"
+        ]
+    ],
+    "javascript-modules": [
+        [
+            "Vue",
+            "Kotlin",
+            "Rust",
+            "JavaScript"
+        ],
+        [
+            "webpack"
+        ]
+    ],
+    "loaders": [
+        [
+            "Vue",
+            "Kotlin",
+            "Rust",
+            "JavaScript"
         ],
         [
             "webpack"
@@ -1838,21 +2365,24 @@
     ],
     "compiler": [
         [
-            "JavaScript",
             "Vue",
-            "Rust"
+            "Kotlin",
+            "Rust",
+            "JavaScript"
         ],
         [
-            "rust",
             "gatsby",
-            "webpack"
+            "rust",
+            "webpack",
+            "kotlin"
         ]
     ],
-    "javascript-modules": [
+    "esm": [
         [
-            "JavaScript",
             "Vue",
-            "Rust"
+            "Kotlin",
+            "Rust",
+            "JavaScript"
         ],
         [
             "webpack"
@@ -1864,7 +2394,9 @@
             "JavaScript"
         ],
         [
-            "redux"
+            "ant-design-pro",
+            "redux",
+            "react-boilerplate"
         ]
     ],
     "golang": [
@@ -1872,7 +2404,8 @@
             "Go"
         ],
         [
-            "awesome-go"
+            "awesome-go",
+            "traefik"
         ]
     ],
     "golang-library": [
@@ -1893,17 +2426,8 @@
     ],
     "presentations": [
         [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "reveal.js"
-        ]
-    ],
-    "slideshow": [
-        [
-            "JavaScript",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ],
         [
             "reveal.js"
@@ -1911,29 +2435,21 @@
     ],
     "slides": [
         [
-            "JavaScript",
-            "CSS"
+            "CSS",
+            "JavaScript"
         ],
         [
             "reveal.js"
         ]
     ],
-    "leetcode-java": [
+    "slideshow": [
         [
-            "Java"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "interviews",
-            "LeetCodeAnimation"
-        ]
-    ],
-    "leetcode-solutions": [
-        [
-            "Java"
-        ],
-        [
-            "interviews",
-            "LeetCodeAnimation"
+            "reveal.js",
+            "fullPage.js"
         ]
     ],
     "leetcode-c": [
@@ -1944,102 +2460,33 @@
             "LeetCodeAnimation"
         ]
     ],
-    "dashboard": [
+    "leetcode-java": [
         [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
+            "Java"
         ],
         [
-            "vue-element-admin",
-            "netdata"
+            "LeetCodeAnimation",
+            "interviews"
         ]
     ],
-    "desktop": [
+    "leetcode-solutions": [
         [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
+            "Java"
         ],
         [
-            "vue-element-admin"
+            "LeetCodeAnimation",
+            "interviews"
         ]
     ],
-    "axios": [
+    "element": [
         [
+            "Vue",
+            "TypeScript",
             "C",
+            "Go",
+            "C++",
             "Python",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "vue-element-admin"
-        ]
-    ],
-    "webpack4": [
-        [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "vue-element-admin"
-        ]
-    ],
-    "i18n": [
-        [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "vue-element-admin"
-        ]
-    ],
-    "element-ui": [
-        [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "vue-element-admin",
-            "element"
-        ]
-    ],
-    "vuex": [
-        [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "vue-element-admin"
-        ]
-    ],
-    "management-system": [
-        [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "vue-element-admin"
-        ]
-    ],
-    "admin-dashboard": [
-        [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
+            "JavaScript"
         ],
         [
             "vue-element-admin"
@@ -2047,32 +2494,151 @@
     ],
     "admin": [
         [
+            "Vue",
+            "TypeScript",
             "C",
+            "Go",
+            "C++",
             "Python",
-            "JavaScript",
-            "Vue"
+            "JavaScript"
         ],
         [
+            "ant-design-pro",
             "vue-element-admin"
         ]
     ],
-    "mock": [
+    "i18n": [
         [
+            "Vue",
+            "TypeScript",
             "C",
+            "Go",
+            "C++",
             "Python",
-            "JavaScript",
-            "Vue"
+            "JavaScript"
         ],
         [
-            "vue-element-admin"
+            "vue-element-admin",
+            "react-boilerplate"
+        ]
+    ],
+    "webpack4": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "vue-element-admin",
+            "react-boilerplate"
         ]
     ],
     "xlsx": [
         [
+            "Vue",
+            "TypeScript",
             "C",
+            "Go",
+            "C++",
             "Python",
-            "JavaScript",
-            "Vue"
+            "JavaScript"
+        ],
+        [
+            "vue-element-admin"
+        ]
+    ],
+    "desktop": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "ant-design-pro",
+            "vue-element-admin",
+            "nw.js"
+        ]
+    ],
+    "vue-cli": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "vue-element-admin"
+        ]
+    ],
+    "element-ui": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "element",
+            "vue-element-admin"
+        ]
+    ],
+    "vuex": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "vue2-elm",
+            "vuex",
+            "vue-element-admin",
+            "nuxt.js"
+        ]
+    ],
+    "dashboard": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "ant-design-pro",
+            "grafana",
+            "netdata",
+            "vue-element-admin"
+        ]
+    ],
+    "admin-template": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
         ],
         [
             "vue-element-admin"
@@ -2080,21 +2646,70 @@
     ],
     "tinymce": [
         [
+            "Vue",
+            "TypeScript",
             "C",
+            "Go",
+            "C++",
             "Python",
-            "JavaScript",
-            "Vue"
+            "JavaScript"
         ],
         [
             "vue-element-admin"
         ]
     ],
-    "element": [
+    "admin-dashboard": [
         [
+            "Vue",
+            "TypeScript",
             "C",
+            "Go",
+            "C++",
             "Python",
-            "JavaScript",
-            "Vue"
+            "JavaScript"
+        ],
+        [
+            "ant-design-pro",
+            "vue-element-admin"
+        ]
+    ],
+    "axios": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "vue-element-admin"
+        ]
+    ],
+    "management-system": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "vue-element-admin"
+        ]
+    ],
+    "mock": [
+        [
+            "Vue",
+            "TypeScript",
+            "C",
+            "Go",
+            "C++",
+            "Python",
+            "JavaScript"
         ],
         [
             "vue-element-admin"
@@ -2102,38 +2717,27 @@
     ],
     "vue-admin": [
         [
+            "Vue",
+            "TypeScript",
             "C",
+            "Go",
+            "C++",
             "Python",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "vue-element-admin"
-        ]
-    ],
-    "vue-cli": [
-        [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "vue-element-admin"
-        ]
-    ],
-    "admin-template": [
-        [
-            "C",
-            "Python",
-            "JavaScript",
-            "Vue"
+            "JavaScript"
         ],
         [
             "vue-element-admin"
         ]
     ],
     "werkzeug": [
+        [
+            "Python"
+        ],
+        [
+            "flask"
+        ]
+    ],
+    "jinja": [
         [
             "Python"
         ],
@@ -2157,139 +2761,133 @@
             "flask"
         ]
     ],
-    "jinja": [
-        [
-            "Python"
-        ],
-        [
-            "flask"
-        ]
-    ],
-    "server": [
-        [
-            "JavaScript"
-        ],
-        [
-            "express"
-        ]
-    ],
-    "express": [
-        [
-            "JavaScript"
-        ],
-        [
-            "express"
-        ]
-    ],
-    "popup": [
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "Semantic-UI"
-        ]
-    ],
-    "tooltip": [
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "Semantic-UI"
-        ]
-    ],
-    "dropdown": [
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "Semantic-UI"
-        ]
-    ],
-    "sidebar": [
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "Semantic-UI"
-        ]
-    ],
-    "ui-components": [
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "Semantic-UI"
-        ]
-    ],
-    "button": [
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "Semantic-UI"
-        ]
-    ],
-    "flexbox": [
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "Semantic-UI"
-        ]
-    ],
-    "semantic": [
-        [
-            "JavaScript",
-            "CSS"
-        ],
-        [
-            "Semantic-UI"
-        ]
-    ],
-    "proxy": [
-        [
-            "JavaScript",
-            "C#"
-        ],
-        [
-            "shadowsocks-windows"
-        ]
-    ],
     "c-sharp": [
         [
+            "Kotlin",
+            "Swift",
+            "Python",
+            "C#",
             "JavaScript",
-            "C#"
+            "Objective-C"
         ],
         [
+            "CodeHub",
             "shadowsocks-windows"
         ]
     ],
     "shadowsocks": [
         [
+            "Kotlin",
+            "Swift",
+            "Python",
+            "C#",
             "JavaScript",
-            "C#"
+            "Objective-C"
         ],
         [
+            "ShadowsocksX-NG",
+            "shadowsocks-windows",
+            "shadowsocks-android"
+        ]
+    ],
+    "proxy": [
+        [
+            "Kotlin",
+            "Swift",
+            "Python",
+            "C#",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "XX-Net",
             "shadowsocks-windows"
+        ]
+    ],
+    "models": [
+        [
+            "Ruby",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "django"
+        ]
+    ],
+    "apps": [
+        [
+            "Ruby",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "django",
+            "fastlane"
+        ]
+    ],
+    "django": [
+        [
+            "Ruby",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "django",
+            "sentry"
+        ]
+    ],
+    "templates": [
+        [
+            "Ruby",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "django"
+        ]
+    ],
+    "orm": [
+        [
+            "Ruby",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "django"
+        ]
+    ],
+    "views": [
+        [
+            "Ruby",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "django"
+        ]
+    ],
+    "server": [
+        [
+            "Go",
+            "JavaScript"
+        ],
+        [
+            "gin",
+            "express"
+        ]
+    ],
+    "express": [
+        [
+            "Go",
+            "JavaScript"
+        ],
+        [
+            "express"
         ]
     ],
     "html5-charts": [
         [
-            "JavaScript"
-        ],
-        [
-            "Chart.js"
-        ]
-    ],
-    "chart": [
-        [
+            "Java",
             "JavaScript"
         ],
         [
@@ -2298,77 +2896,120 @@
     ],
     "graph": [
         [
+            "Java",
             "JavaScript"
         ],
         [
+            "MPAndroidChart",
             "Chart.js"
         ]
     ],
-    "models": [
+    "chart": [
         [
-            "Python"
+            "Java",
+            "JavaScript"
         ],
         [
-            "django"
+            "MPAndroidChart",
+            "Chart.js"
         ]
     ],
-    "views": [
+    "ui-components": [
         [
-            "Python"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "django"
+            "Semantic-UI"
         ]
     ],
-    "apps": [
+    "tooltip": [
         [
-            "Python"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "django"
+            "Semantic-UI"
         ]
     ],
-    "templates": [
+    "semantic": [
         [
-            "Python"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "django"
+            "Semantic-UI"
         ]
     ],
-    "orm": [
+    "dropdown": [
         [
-            "Python"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "django"
+            "Semantic-UI"
         ]
     ],
-    "django": [
+    "sidebar": [
         [
-            "Python"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "django"
+            "Semantic-UI"
         ]
     ],
-    "search-engine": [
+    "button": [
         [
-            "Java"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "elasticsearch"
+            "Semantic-UI"
+        ]
+    ],
+    "popup": [
+        [
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "Semantic-UI"
+        ]
+    ],
+    "flexbox": [
+        [
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "Semantic-UI",
+            "bulma"
         ]
     ],
     "elasticsearch": [
         [
-            "Java"
+            "Go",
+            "Java",
+            "TypeScript"
+        ],
+        [
+            "elasticsearch",
+            "grafana",
+            "advanced-java"
+        ]
+    ],
+    "search-engine": [
+        [
+            "Go",
+            "Java",
+            "TypeScript"
         ],
         [
             "elasticsearch"
         ]
     ],
-    "nasa": [
+    "apollo": [
         [
             "Assembly"
         ],
@@ -2376,7 +3017,7 @@
             "Apollo-11"
         ]
     ],
-    "apollo": [
+    "nasa": [
         [
             "Assembly"
         ],
@@ -2392,62 +3033,45 @@
             "Apollo-11"
         ]
     ],
-    "json": [
+    "http-client": [
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
+            "Vim script"
         ],
         [
+            "axios",
             "httpie"
         ]
     ],
-    "api-client": [
+    "json": [
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
+            "Vim script"
         ],
         [
+            "prettier",
             "httpie"
         ]
     ],
     "debugging": [
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
-        ],
-        [
-            "httpie"
-        ]
-    ],
-    "jakubroztocil": [
-        [
-            "Python",
-            "JavaScript",
-            "C"
-        ],
-        [
-            "httpie"
-        ]
-    ],
-    "devops": [
-        [
-            "Python",
-            "JavaScript",
-            "C"
-        ],
-        [
-            "httpie",
-            "netdata"
-        ]
-    ],
-    "usability": [
-        [
-            "Python",
-            "JavaScript",
-            "C"
+            "Vim script"
         ],
         [
             "httpie"
@@ -2455,39 +3079,29 @@
     ],
     "api": [
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
+            "Vim script"
         ],
         [
-            "httpie"
+            "slate",
+            "httpie",
+            "neovim"
         ]
     ],
-    "client": [
+    "api-client": [
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
-        ],
-        [
-            "httpie"
-        ]
-    ],
-    "wget": [
-        [
-            "Python",
-            "JavaScript",
-            "C"
-        ],
-        [
-            "httpie"
-        ]
-    ],
-    "curl": [
-        [
-            "Python",
-            "JavaScript",
-            "C"
+            "Vim script"
         ],
         [
             "httpie"
@@ -2495,19 +3109,13 @@
     ],
     "httpie": [
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
-        ],
-        [
-            "httpie"
-        ]
-    ],
-    "http-client": [
-        [
-            "Python",
-            "JavaScript",
-            "C"
+            "Vim script"
         ],
         [
             "httpie"
@@ -2515,19 +3123,27 @@
     ],
     "rest": [
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
+            "Vim script"
         ],
         [
             "httpie"
         ]
     ],
-    "http": [
+    "wget": [
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
+            "Vim script"
         ],
         [
             "httpie"
@@ -2535,9 +3151,105 @@
     ],
     "cli": [
         [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
             "Python",
             "JavaScript",
-            "C"
+            "Vim script"
+        ],
+        [
+            "fzf",
+            "httpie",
+            "angular-cli"
+        ]
+    ],
+    "devops": [
+        [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
+            "Python",
+            "JavaScript",
+            "Vim script"
+        ],
+        [
+            "httpie",
+            "netdata",
+            "kong",
+            "sentry"
+        ]
+    ],
+    "usability": [
+        [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
+            "Python",
+            "JavaScript",
+            "Vim script"
+        ],
+        [
+            "httpie"
+        ]
+    ],
+    "http": [
+        [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
+            "Python",
+            "JavaScript",
+            "Vim script"
+        ],
+        [
+            "requests",
+            "httpie",
+            "caddy"
+        ]
+    ],
+    "jakubroztocil": [
+        [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
+            "Python",
+            "JavaScript",
+            "Vim script"
+        ],
+        [
+            "httpie"
+        ]
+    ],
+    "client": [
+        [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
+            "Python",
+            "JavaScript",
+            "Vim script"
+        ],
+        [
+            "requests",
+            "httpie"
+        ]
+    ],
+    "curl": [
+        [
+            "Go",
+            "Lua",
+            "TypeScript",
+            "C",
+            "Python",
+            "JavaScript",
+            "Vim script"
         ],
         [
             "httpie"
@@ -2551,57 +3263,12 @@
             "spring-boot"
         ]
     ],
-    "rails": [
+    "nextjs": [
         [
-            "Gherkin",
-            "Ruby"
-        ],
-        [
-            "rails"
-        ]
-    ],
-    "mvc": [
-        [
-            "Gherkin",
-            "Ruby"
-        ],
-        [
-            "rails"
-        ]
-    ],
-    "ruby": [
-        [
-            "Gherkin",
-            "Ruby"
-        ],
-        [
-            "jekyll",
-            "rails"
-        ]
-    ],
-    "activerecord": [
-        [
-            "Gherkin",
-            "Ruby"
-        ],
-        [
-            "rails"
-        ]
-    ],
-    "activejob": [
-        [
-            "Gherkin",
-            "Ruby"
-        ],
-        [
-            "rails"
-        ]
-    ],
-    "zeit": [
-        [
+            "Vue",
             "TypeScript",
-            "JavaScript",
-            "Vue"
+            "CSS",
+            "JavaScript"
         ],
         [
             "next.js"
@@ -2609,40 +3276,22 @@
     ],
     "universal": [
         [
+            "Vue",
             "TypeScript",
-            "JavaScript",
-            "Vue"
+            "CSS",
+            "JavaScript"
         ],
         [
-            "next.js"
-        ]
-    ],
-    "components": [
-        [
-            "TypeScript",
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "next.js",
-            "element"
-        ]
-    ],
-    "nextjs": [
-        [
-            "TypeScript",
-            "JavaScript",
-            "Vue"
-        ],
-        [
+            "nuxt.js",
             "next.js"
         ]
     ],
     "browser": [
         [
+            "Vue",
             "TypeScript",
-            "JavaScript",
-            "Vue"
+            "CSS",
+            "JavaScript"
         ],
         [
             "next.js"
@@ -2650,69 +3299,85 @@
     ],
     "server-rendering": [
         [
+            "Vue",
             "TypeScript",
-            "JavaScript",
-            "Vue"
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "nuxt.js",
+            "next.js"
+        ]
+    ],
+    "components": [
+        [
+            "Vue",
+            "TypeScript",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "element",
+            "preact",
+            "iview",
+            "next.js"
+        ]
+    ],
+    "zeit": [
+        [
+            "Vue",
+            "TypeScript",
+            "CSS",
+            "JavaScript"
         ],
         [
             "next.js"
         ]
     ],
-    "observability": [
-        [
-            "C",
-            "JavaScript",
-            "Python"
-        ],
-        [
-            "netdata"
-        ]
-    ],
-    "grafana": [
-        [
-            "C",
-            "JavaScript",
-            "Python"
-        ],
-        [
-            "netdata"
-        ]
-    ],
-    "graphite": [
-        [
-            "C",
-            "JavaScript",
-            "Python"
-        ],
-        [
-            "netdata"
-        ]
-    ],
     "prometheus": [
         [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
             "C",
-            "JavaScript",
-            "Python"
+            "Python",
+            "JavaScript"
         ],
         [
+            "grafana",
+            "prometheus",
             "netdata"
+        ]
+    ],
+    "iot": [
+        [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
+            "C",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "core",
+            "netdata",
+            "kong"
         ]
     ],
     "statsd": [
         [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
             "C",
-            "JavaScript",
-            "Python"
-        ],
-        [
-            "netdata"
-        ]
-    ],
-    "netdata": [
-        [
-            "C",
-            "JavaScript",
-            "Python"
+            "Python",
+            "JavaScript"
         ],
         [
             "netdata"
@@ -2720,39 +3385,30 @@
     ],
     "notifications": [
         [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
             "C",
-            "JavaScript",
-            "Python"
+            "Python",
+            "JavaScript"
         ],
         [
-            "netdata"
+            "netdata",
+            "huginn"
         ]
     ],
-    "monitoring": [
+    "netdata": [
         [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
             "C",
-            "JavaScript",
-            "Python"
-        ],
-        [
-            "netdata"
-        ]
-    ],
-    "influxdb": [
-        [
-            "C",
-            "JavaScript",
-            "Python"
-        ],
-        [
-            "netdata"
-        ]
-    ],
-    "graphing": [
-        [
-            "C",
-            "JavaScript",
-            "Python"
+            "Python",
+            "JavaScript"
         ],
         [
             "netdata"
@@ -2760,42 +3416,205 @@
     ],
     "alerting": [
         [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
             "C",
-            "JavaScript",
-            "Python"
+            "Python",
+            "JavaScript"
         ],
         [
+            "grafana",
+            "prometheus",
             "netdata"
         ]
     ],
-    "iot": [
+    "influxdb": [
         [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
             "C",
-            "JavaScript",
-            "Python"
+            "Python",
+            "JavaScript"
         ],
         [
+            "grafana",
             "netdata"
         ]
     ],
-    "time-series": [
+    "monitoring": [
         [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
             "C",
-            "JavaScript",
-            "Python"
+            "Python",
+            "JavaScript"
         ],
         [
+            "pm2",
+            "huginn",
+            "grafana",
+            "prometheus",
+            "netdata",
+            "sentry"
+        ]
+    ],
+    "grafana": [
+        [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
+            "C",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "grafana",
             "netdata"
         ]
     ],
     "analytics": [
         [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
             "C",
-            "JavaScript",
-            "Python"
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "grafana",
+            "netdata"
+        ]
+    ],
+    "graphing": [
+        [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
+            "C",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "prometheus",
+            "netdata"
+        ]
+    ],
+    "time-series": [
+        [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
+            "C",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "prometheus",
+            "netdata"
+        ]
+    ],
+    "observability": [
+        [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
+            "C",
+            "Python",
+            "JavaScript"
         ],
         [
             "netdata"
+        ]
+    ],
+    "graphite": [
+        [
+            "Ruby",
+            "TypeScript",
+            "Shell",
+            "Go",
+            "Lua",
+            "C",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "netdata"
+        ]
+    ],
+    "ruby": [
+        [
+            "Ruby",
+            "Gherkin",
+            "JavaScript"
+        ],
+        [
+            "rails",
+            "gitlabhq",
+            "discourse",
+            "jekyll",
+            "fastlane"
+        ]
+    ],
+    "mvc": [
+        [
+            "Ruby",
+            "Gherkin",
+            "JavaScript"
+        ],
+        [
+            "rails"
+        ]
+    ],
+    "activejob": [
+        [
+            "Ruby",
+            "Gherkin",
+            "JavaScript"
+        ],
+        [
+            "rails"
+        ]
+    ],
+    "rails": [
+        [
+            "Ruby",
+            "Gherkin",
+            "JavaScript"
+        ],
+        [
+            "rails",
+            "gitlabhq",
+            "discourse"
+        ]
+    ],
+    "activerecord": [
+        [
+            "Ruby",
+            "Gherkin",
+            "JavaScript"
+        ],
+        [
+            "rails"
         ]
     ],
     "ligatures": [
@@ -2818,19 +3637,19 @@
             "FiraCode"
         ]
     ],
-    "html5-boilerplate": [
+    "robust": [
         [
-            "JavaScript",
-            "HTML"
+            "HTML",
+            "JavaScript"
         ],
         [
             "html5-boilerplate"
         ]
     ],
-    "robust": [
+    "html5-boilerplate": [
         [
-            "JavaScript",
-            "HTML"
+            "HTML",
+            "JavaScript"
         ],
         [
             "html5-boilerplate"
@@ -2838,44 +3657,39 @@
     ],
     "best-practices": [
         [
-            "JavaScript",
-            "HTML"
+            "HTML",
+            "JavaScript"
         ],
         [
-            "html5-boilerplate"
-        ]
-    ],
-    "vue-components": [
-        [
-            "JavaScript",
-            "Vue"
-        ],
-        [
-            "element"
+            "html5-boilerplate",
+            "clean-code-javascript"
         ]
     ],
     "vuejs": [
         [
-            "JavaScript",
-            "Vue"
+            "Vue",
+            "CSS",
+            "JavaScript"
         ],
         [
             "element"
         ]
     ],
-    "css-questions": [
+    "vue-components": [
         [
+            "Vue",
             "CSS",
-            "HTML"
+            "JavaScript"
         ],
         [
-            "Front-end-Developer-I..."
+            "element",
+            "iview"
         ]
     ],
-    "html-questions": [
+    "css-questions": [
         [
-            "CSS",
-            "HTML"
+            "HTML",
+            "CSS"
         ],
         [
             "Front-end-Developer-I..."
@@ -2883,8 +3697,8 @@
     ],
     "js-questions": [
         [
-            "CSS",
-            "HTML"
+            "HTML",
+            "CSS"
         ],
         [
             "Front-end-Developer-I..."
@@ -2892,8 +3706,17 @@
     ],
     "interview-test": [
         [
-            "CSS",
-            "HTML"
+            "HTML",
+            "CSS"
+        ],
+        [
+            "Front-end-Developer-I..."
+        ]
+    ],
+    "html-questions": [
+        [
+            "HTML",
+            "CSS"
         ],
         [
             "Front-end-Developer-I..."
@@ -2901,14 +3724,14 @@
     ],
     "front-end": [
         [
-            "CSS",
-            "HTML"
+            "HTML",
+            "CSS"
         ],
         [
             "Front-end-Developer-I..."
         ]
     ],
-    "modules": [
+    "lodash": [
         [
             "JavaScript"
         ],
@@ -2924,7 +3747,7 @@
             "lodash"
         ]
     ],
-    "lodash": [
+    "modules": [
         [
             "JavaScript"
         ],
@@ -2940,23 +3763,40 @@
             "rust"
         ]
     ],
-    "gatsby": [
+    "documentation-tool": [
         [
             "Go",
-            "JavaScript",
             "Ruby",
-            "Gherkin"
+            "Gherkin",
+            "CoffeeScript",
+            "JavaScript"
         ],
         [
-            "gatsby"
+            "devdocs",
+            "gatsby",
+            "hugo"
         ]
     ],
     "graphql": [
         [
             "Go",
-            "JavaScript",
             "Ruby",
-            "Gherkin"
+            "Gherkin",
+            "CoffeeScript",
+            "JavaScript"
+        ],
+        [
+            "prettier",
+            "gatsby"
+        ]
+    ],
+    "gatsby": [
+        [
+            "Go",
+            "Ruby",
+            "Gherkin",
+            "CoffeeScript",
+            "JavaScript"
         ],
         [
             "gatsby"
@@ -2965,52 +3805,69 @@
     "web-app": [
         [
             "Go",
-            "JavaScript",
             "Ruby",
-            "Gherkin"
+            "Gherkin",
+            "CoffeeScript",
+            "JavaScript"
         ],
         [
-            "gatsby"
+            "gatsby",
+            "nuxt.js"
         ]
     ],
     "blog": [
         [
             "Go",
-            "JavaScript",
             "Ruby",
-            "Gherkin"
+            "Gherkin",
+            "CoffeeScript",
+            "JavaScript"
         ],
         [
             "gatsby"
         ]
     ],
-    "documentation-tool": [
-        [
-            "Go",
-            "JavaScript",
-            "Ruby",
-            "Gherkin"
-        ],
-        [
-            "gatsby",
-            "hugo"
-        ]
-    ],
     "static-site-generator": [
         [
             "Go",
-            "JavaScript",
             "Ruby",
-            "Gherkin"
+            "Gherkin",
+            "CoffeeScript",
+            "JavaScript"
         ],
         [
-            "gatsby",
+            "hexo",
             "hugo",
+            "slate",
+            "gatsby",
             "jekyll"
+        ]
+    ],
+    "p2p": [
+        [
+            "Go",
+            "C++",
+            "Python"
+        ],
+        [
+            "bitcoin",
+            "syncthing",
+            "go-ethereum"
+        ]
+    ],
+    "cryptocurrency": [
+        [
+            "Go",
+            "C++",
+            "Python"
+        ],
+        [
+            "bitcoin"
         ]
     ],
     "cryptography": [
         [
+            "Go",
             "C++",
             "Python"
         ],
@@ -3020,6 +3877,7 @@
     ],
     "bitcoin": [
         [
+            "Go",
             "C++",
             "Python"
         ],
@@ -3027,25 +3885,69 @@
             "bitcoin"
         ]
     ],
-    "cryptocurrency": [
+    "ansible": [
         [
-            "C++",
             "Python"
         ],
         [
-            "bitcoin"
+            "ansible"
         ]
     ],
-    "p2p": [
+    "cms": [
         [
-            "C++",
-            "Python"
+            "Go",
+            "Ruby",
+            "JavaScript",
+            "Gherkin"
         ],
         [
-            "bitcoin"
+            "hugo",
+            "Ghost"
         ]
     ],
-    "interview-prep": [
+    "blog-engine": [
+        [
+            "Go",
+            "Ruby",
+            "JavaScript",
+            "Gherkin"
+        ],
+        [
+            "hugo",
+            "jekyll"
+        ]
+    ],
+    "hugo": [
+        [
+            "Go",
+            "Ruby",
+            "JavaScript",
+            "Gherkin"
+        ],
+        [
+            "hugo"
+        ]
+    ],
+    "content-management-system": [
+        [
+            "Go",
+            "Ruby",
+            "JavaScript",
+            "Gherkin"
+        ],
+        [
+            "hugo"
+        ]
+    ],
+    "coding-interviews": [
+        [
+            "Java"
+        ],
+        [
+            "interviews"
+        ]
+    ],
+    "coding-challenges": [
         [
             "Java"
         ],
@@ -3061,23 +3963,23 @@
             "interviews"
         ]
     ],
-    "coding-interviews": [
-        [
-            "Java"
-        ],
-        [
-            "interviews"
-        ]
-    ],
-    "coding-challenge": [
-        [
-            "Java"
-        ],
-        [
-            "interviews"
-        ]
-    ],
     "leetcode-questions": [
+        [
+            "Java"
+        ],
+        [
+            "interviews"
+        ]
+    ],
+    "technical-coding-interview": [
+        [
+            "Java"
+        ],
+        [
+            "interviews"
+        ]
+    ],
+    "interviews": [
         [
             "Java"
         ],
@@ -3101,7 +4003,7 @@
             "interviews"
         ]
     ],
-    "coding-challenges": [
+    "interview-prep": [
         [
             "Java"
         ],
@@ -3109,15 +4011,7 @@
             "interviews"
         ]
     ],
-    "interviews": [
-        [
-            "Java"
-        ],
-        [
-            "interviews"
-        ]
-    ],
-    "technical-coding-interview": [
+    "coding-challenge": [
         [
             "Java"
         ],
@@ -3127,7 +4021,8 @@
     ],
     "reactive-streams": [
         [
-            "Java"
+            "Java",
+            "JavaScript"
         ],
         [
             "RxJava"
@@ -3135,7 +4030,8 @@
     ],
     "rxjava": [
         [
-            "Java"
+            "Java",
+            "JavaScript"
         ],
         [
             "RxJava"
@@ -3143,72 +4039,19 @@
     ],
     "flow": [
         [
-            "Java"
+            "Java",
+            "JavaScript"
         ],
         [
+            "prettier",
             "RxJava"
         ]
     ],
-    "ansible": [
+    "build-system": [
         [
-            "Python"
-        ],
-        [
-            "ansible"
-        ]
-    ],
-    "content-management-system": [
-        [
-            "Go",
             "Ruby",
-            "Gherkin"
-        ],
-        [
-            "hugo"
-        ]
-    ],
-    "hugo": [
-        [
-            "Go",
-            "Ruby",
-            "Gherkin"
-        ],
-        [
-            "hugo"
-        ]
-    ],
-    "blog-engine": [
-        [
-            "Go",
-            "Ruby",
-            "Gherkin"
-        ],
-        [
-            "jekyll",
-            "hugo"
-        ]
-    ],
-    "cms": [
-        [
-            "Go",
-            "Ruby",
-            "Gherkin"
-        ],
-        [
-            "hugo"
-        ]
-    ],
-    "reactive-programming": [
-        [
-            "JavaScript"
-        ],
-        [
-            "meteor"
-        ]
-    ],
-    "npm": [
-        [
-            "JavaScript"
+            "JavaScript",
+            "Swift"
         ],
         [
             "meteor"
@@ -3216,41 +4059,52 @@
     ],
     "mongodb": [
         [
-            "JavaScript"
+            "Ruby",
+            "JavaScript",
+            "Swift"
         ],
         [
             "meteor"
+        ]
+    ],
+    "npm": [
+        [
+            "Ruby",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "meteor",
+            "yarn"
         ]
     ],
     "meteor": [
         [
-            "JavaScript"
+            "Ruby",
+            "JavaScript",
+            "Swift"
         ],
         [
-            "meteor"
+            "meteor",
+            "Rocket.Chat"
         ]
     ],
-    "build-system": [
+    "reactive-programming": [
         [
-            "JavaScript"
+            "Ruby",
+            "JavaScript",
+            "Swift"
         ],
         [
-            "meteor"
+            "meteor",
+            "open-source-ios-apps"
         ]
     ],
     "liquid": [
         [
-            "Gherkin",
-            "Ruby"
-        ],
-        [
-            "jekyll"
-        ]
-    ],
-    "jekyll": [
-        [
-            "Gherkin",
-            "Ruby"
+            "Ruby",
+            "JavaScript",
+            "Gherkin"
         ],
         [
             "jekyll"
@@ -3258,44 +4112,102 @@
     ],
     "markdown": [
         [
-            "Gherkin",
-            "Ruby"
+            "Ruby",
+            "JavaScript",
+            "Gherkin"
+        ],
+        [
+            "prettier",
+            "jekyll"
+        ]
+    ],
+    "jekyll": [
+        [
+            "Ruby",
+            "JavaScript",
+            "Gherkin"
         ],
         [
             "jekyll"
         ]
     ],
-    "android": [
+    "ios": [
         [
+            "Ruby",
+            "Kotlin",
+            "Swift",
             "HTML",
-            "CSS"
+            "Java",
+            "CSS",
+            "Objective-C",
+            "C",
+            "JavaScript"
         ],
         [
-            "material-design-icons"
+            "material-design-icons",
+            "open-source-ios-apps",
+            "awesome-ios",
+            "ijkplayer",
+            "fastlane"
         ]
     ],
-    "sprites": [
+    "android": [
         [
+            "Ruby",
+            "Kotlin",
+            "Swift",
             "HTML",
-            "CSS"
+            "Java",
+            "CSS",
+            "Objective-C",
+            "C",
+            "JavaScript"
         ],
         [
-            "material-design-icons"
+            "material-design-icons",
+            "lottie-android",
+            "okhttp",
+            "MPAndroidChart",
+            "AndroidUtilCode",
+            "fastlane",
+            "android-architecture",
+            "leakcanary",
+            "retrofit",
+            "zxing",
+            "ijkplayer",
+            "glide",
+            "shadowsocks-android"
         ]
     ],
     "material": [
         [
+            "Ruby",
+            "Kotlin",
+            "Swift",
             "HTML",
-            "CSS"
+            "Java",
+            "CSS",
+            "Objective-C",
+            "C",
+            "JavaScript"
         ],
         [
-            "material-design-icons"
+            "material-design-icons",
+            "materialize",
+            "material-design-lite"
         ]
     ],
-    "ios": [
+    "sprites": [
         [
+            "Ruby",
+            "Kotlin",
+            "Swift",
             "HTML",
-            "CSS"
+            "Java",
+            "CSS",
+            "Objective-C",
+            "C",
+            "JavaScript"
         ],
         [
             "material-design-icons"
@@ -3303,8 +4215,8 @@
     ],
     "echarts": [
         [
-            "JavaScript",
-            "HTML"
+            "HTML",
+            "JavaScript"
         ],
         [
             "incubator-echarts"
@@ -3318,7 +4230,7 @@
             "scikit-learn"
         ]
     ],
-    "data-analysis": [
+    "data-science": [
         [
             "Python"
         ],
@@ -3326,12 +4238,4619 @@
             "scikit-learn"
         ]
     ],
-    "data-science": [
+    "data-analysis": [
         [
             "Python"
         ],
         [
-            "scikit-learn"
+            "scikit-learn",
+            "pandas"
+        ]
+    ],
+    "message-queue": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "high-concurrency": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "dubbo": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java",
+            "dubbo"
+        ]
+    ],
+    "eureka": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "doocs": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "high-availability": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "springcloud-config": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "microservices-architecture": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "hystrix": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "feign": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "distributed-search-engine": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "rpc": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java",
+            "protobuf"
+        ]
+    ],
+    "distributed-systems": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "ribbon": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "spring-cloud": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "zuul": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "advanced-java"
+        ]
+    ],
+    "yarn": [
+        [
+            "PHP",
+            "JavaScript"
+        ],
+        [
+            "yarn"
+        ]
+    ],
+    "package-manager": [
+        [
+            "PHP",
+            "JavaScript"
+        ],
+        [
+            "yarn",
+            "composer"
+        ]
+    ],
+    "css-reset": [
+        [
+            "CSS"
+        ],
+        [
+            "normalize.css"
+        ]
+    ],
+    "normalize-css": [
+        [
+            "CSS"
+        ],
+        [
+            "normalize.css"
+        ]
+    ],
+    "career": [
+        [
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "freecodecamp.cn"
+        ]
+    ],
+    "cn-freecodecamp": [
+        [
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "freecodecamp.cn"
+        ]
+    ],
+    "freecodecamp": [
+        [
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "freecodecamp.cn"
+        ]
+    ],
+    "gpu": [
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "pytorch"
+        ]
+    ],
+    "autograd": [
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "pytorch"
+        ]
+    ],
+    "tensor": [
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "pytorch"
+        ]
+    ],
+    "numpy": [
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "pytorch"
+        ]
+    ],
+    "nwjs": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "nw.js"
+        ]
+    ],
+    "web-application-framework": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "nw.js"
+        ]
+    ],
+    "node-webkit": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "nw.js"
+        ]
+    ],
+    "privacy": [
+        [
+            "Go",
+            "Makefile",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "awesome-selfhosted",
+            "caddy"
+        ]
+    ],
+    "selfhosted": [
+        [
+            "Go",
+            "Makefile",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "awesome-selfhosted"
+        ]
+    ],
+    "self-hosted": [
+        [
+            "Go",
+            "Makefile",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "awesome-selfhosted"
+        ]
+    ],
+    "hosting": [
+        [
+            "Go",
+            "Makefile",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "awesome-selfhosted"
+        ]
+    ],
+    "cloud": [
+        [
+            "Go",
+            "Makefile",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "awesome-selfhosted"
+        ]
+    ],
+    "tutorial": [
+        [
+            "Shell",
+            "Python",
+            "Jupyter Notebook"
+        ],
+        [
+            "TensorFlow-Examples"
+        ]
+    ],
+    "examples": [
+        [
+            "Shell",
+            "Python",
+            "Jupyter Notebook"
+        ],
+        [
+            "TensorFlow-Examples",
+            "tldr"
+        ]
+    ],
+    "crawling": [
+        [
+            "Python"
+        ],
+        [
+            "scrapy"
+        ]
+    ],
+    "scraping": [
+        [
+            "Python"
+        ],
+        [
+            "scrapy"
+        ]
+    ],
+    "crawler": [
+        [
+            "Python"
+        ],
+        [
+            "scrapy"
+        ]
+    ],
+    "kotlin": [
+        [
+            "Kotlin",
+            "Java"
+        ],
+        [
+            "leakcanary",
+            "okhttp",
+            "kotlin"
+        ]
+    ],
+    "guava": [
+        [
+            "Java"
+        ],
+        [
+            "guava"
+        ]
+    ],
+    "macosx": [
+        [
+            "Ruby",
+            "Swift",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "awesome-mac"
+        ]
+    ],
+    "list": [
+        [
+            "Ruby",
+            "Swift",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "open-source-ios-apps",
+            "awesome-mac"
+        ]
+    ],
+    "mac-osx": [
+        [
+            "Ruby",
+            "Swift",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "awesome-mac"
+        ]
+    ],
+    "software": [
+        [
+            "Ruby",
+            "Swift",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "awesome-mac"
+        ]
+    ],
+    "apple": [
+        [
+            "Ruby",
+            "Swift",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "open-source-ios-apps",
+            "awesome-mac"
+        ]
+    ],
+    "mac": [
+        [
+            "Ruby",
+            "Swift",
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "awesome-mac"
+        ]
+    ],
+    "middleware": [
+        [
+            "Go"
+        ],
+        [
+            "gin"
+        ]
+    ],
+    "performance": [
+        [
+            "Go"
+        ],
+        [
+            "gin"
+        ]
+    ],
+    "router": [
+        [
+            "Go"
+        ],
+        [
+            "gin"
+        ]
+    ],
+    "gin": [
+        [
+            "Go"
+        ],
+        [
+            "gin"
+        ]
+    ],
+    "formatter": [
+        [
+            "JavaScript"
+        ],
+        [
+            "prettier"
+        ]
+    ],
+    "less": [
+        [
+            "JavaScript"
+        ],
+        [
+            "prettier"
+        ]
+    ],
+    "yaml": [
+        [
+            "JavaScript"
+        ],
+        [
+            "prettier"
+        ]
+    ],
+    "prettier": [
+        [
+            "JavaScript"
+        ],
+        [
+            "prettier"
+        ]
+    ],
+    "ast": [
+        [
+            "JavaScript"
+        ],
+        [
+            "prettier",
+            "postcss"
+        ]
+    ],
+    "jsx": [
+        [
+            "JavaScript"
+        ],
+        [
+            "preact",
+            "prettier"
+        ]
+    ],
+    "printer": [
+        [
+            "JavaScript"
+        ],
+        [
+            "prettier"
+        ]
+    ],
+    "spring-framework": [
+        [
+            "Java"
+        ],
+        [
+            "spring-framework"
+        ]
+    ],
+    "c": [
+        [
+            "Go",
+            "Lua",
+            "C",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "git",
+            "neovim"
+        ]
+    ],
+    "neovim": [
+        [
+            "Go",
+            "Lua",
+            "C",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "fzf",
+            "neovim"
+        ]
+    ],
+    "cross-platform": [
+        [
+            "Go",
+            "Lua",
+            "C",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "neovim"
+        ]
+    ],
+    "lua": [
+        [
+            "Go",
+            "Lua",
+            "C",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "neovim",
+            "kong"
+        ]
+    ],
+    "text-editor": [
+        [
+            "Go",
+            "Lua",
+            "C",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "neovim"
+        ]
+    ],
+    "vim": [
+        [
+            "Go",
+            "Lua",
+            "C",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "fzf",
+            "neovim"
+        ]
+    ],
+    "extensible": [
+        [
+            "Go",
+            "Lua",
+            "C",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "neovim"
+        ]
+    ],
+    "nvim": [
+        [
+            "Go",
+            "Lua",
+            "C",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "neovim"
+        ]
+    ],
+    "google-cloud-functions": [
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "serverless"
+        ]
+    ],
+    "microservice": [
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "serverless",
+            "kong",
+            "traefik"
+        ]
+    ],
+    "serverless-architectures": [
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "serverless"
+        ]
+    ],
+    "serverless": [
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "serverless",
+            "kong"
+        ]
+    ],
+    "aws": [
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "serverless",
+            "localstack"
+        ]
+    ],
+    "serverless-framework": [
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "serverless"
+        ]
+    ],
+    "aws-lambda": [
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "serverless"
+        ]
+    ],
+    "ibm-openwhisk": [
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "serverless"
+        ]
+    ],
+    "azure-functions": [
+        [
+            "Go",
+            "Lua",
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "serverless"
+        ]
+    ],
+    "android-architecture": [
+        [
+            "Kotlin"
+        ],
+        [
+            "android-architecture"
+        ]
+    ],
+    "samples": [
+        [
+            "Kotlin"
+        ],
+        [
+            "android-architecture"
+        ]
+    ],
+    "swift-extensions": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "objective-c": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "open-source-ios-apps",
+            "awesome-ios"
+        ]
+    ],
+    "swift-library": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "ios-animation": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "apple-swift": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "swift-programming": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "objective-c-library": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "arkit": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "ios-libraries": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "swift-language": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "swift-framework": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "awesome-ios"
+        ]
+    ],
+    "nvmrc": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "nvm"
+        ]
+    ],
+    "version-manager": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "nvm"
+        ]
+    ],
+    "posix": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "nvm"
+        ]
+    ],
+    "lts": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "nvm"
+        ]
+    ],
+    "install": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "nvm"
+        ]
+    ],
+    "bash": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "fzf",
+            "nvm",
+            "dotfiles"
+        ]
+    ],
+    "zsh": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "fzf",
+            "nvm"
+        ]
+    ],
+    "node-js": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "nvm"
+        ]
+    ],
+    "posix-compliant": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "nvm"
+        ]
+    ],
+    "nvm": [
+        [
+            "Go",
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "nvm"
+        ]
+    ],
+    "anime": [
+        [
+            "JavaScript"
+        ],
+        [
+            "anime"
+        ]
+    ],
+    "metrics": [
+        [
+            "Go",
+            "TypeScript"
+        ],
+        [
+            "grafana",
+            "prometheus"
+        ]
+    ],
+    "data-visualization": [
+        [
+            "Go",
+            "TypeScript"
+        ],
+        [
+            "grafana"
+        ]
+    ],
+    "business-intelligence": [
+        [
+            "Go",
+            "TypeScript"
+        ],
+        [
+            "grafana"
+        ]
+    ],
+    "postgres": [
+        [
+            "Go",
+            "TypeScript"
+        ],
+        [
+            "grafana"
+        ]
+    ],
+    "gogs": [
+        [
+            "Go"
+        ],
+        [
+            "gogs"
+        ]
+    ],
+    "git": [
+        [
+            "Go"
+        ],
+        [
+            "gogs"
+        ]
+    ],
+    "tesseract-ocr": [
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "tesseract"
+        ]
+    ],
+    "ocr-engine": [
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "tesseract"
+        ]
+    ],
+    "lstm": [
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "tesseract",
+            "AiLearning"
+        ]
+    ],
+    "tesseract": [
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "tesseract"
+        ]
+    ],
+    "ocr": [
+        [
+            "C++",
+            "Python"
+        ],
+        [
+            "tesseract"
+        ]
+    ],
+    "urlrequest": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "networking": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "request": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "cocoapods": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "open-source-ios-apps",
+            "Alamofire"
+        ]
+    ],
+    "carthage": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "open-source-ios-apps",
+            "Alamofire"
+        ]
+    ],
+    "xcode": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "swift-package-manager": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "httpurlresponse": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "response": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "urlsession": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "certificate-pinning": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "public-key-pinning": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "swift": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "swift-algorithm-club",
+            "open-source-ios-apps",
+            "Alamofire",
+            "ShadowsocksX-NG"
+        ]
+    ],
+    "parameter-encoding": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "alamofire": [
+        [
+            "Ruby",
+            "Swift",
+            "Objective-C"
+        ],
+        [
+            "Alamofire"
+        ]
+    ],
+    "publishing": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "Ghost"
+        ]
+    ],
+    "headless-cms": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "Ghost"
+        ]
+    ],
+    "jamstack": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "Ghost"
+        ]
+    ],
+    "ember": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "discourse",
+            "Ghost"
+        ]
+    ],
+    "blogging": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "Ghost"
+        ]
+    ],
+    "ghost": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "Ghost"
+        ]
+    ],
+    "journalism": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "Ghost"
+        ]
+    ],
+    "hyperterm": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "hyper"
+        ]
+    ],
+    "terminal-emulators": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "hyper"
+        ]
+    ],
+    "face-recognition": [
+        [
+            "Python"
+        ],
+        [
+            "face_recognition"
+        ]
+    ],
+    "face-detection": [
+        [
+            "Python"
+        ],
+        [
+            "face_recognition"
+        ]
+    ],
+    "vue-router": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "vue2-elm",
+            "nuxt.js"
+        ]
+    ],
+    "flex": [
+        [
+            "Vue",
+            "JavaScript"
+        ],
+        [
+            "vue2-elm"
+        ]
+    ],
+    "home-automation": [
+        [
+            "Python"
+        ],
+        [
+            "core"
+        ]
+    ],
+    "internet-of-things": [
+        [
+            "Python"
+        ],
+        [
+            "core"
+        ]
+    ],
+    "raspberry-pi": [
+        [
+            "Python"
+        ],
+        [
+            "core"
+        ]
+    ],
+    "mqtt": [
+        [
+            "Python"
+        ],
+        [
+            "core"
+        ]
+    ],
+    "asyncio": [
+        [
+            "Python"
+        ],
+        [
+            "core"
+        ]
+    ],
+    "inheritance": [
+        [
+            "JavaScript"
+        ],
+        [
+            "clean-code-javascript"
+        ]
+    ],
+    "clean-code": [
+        [
+            "JavaScript"
+        ],
+        [
+            "clean-code-javascript"
+        ]
+    ],
+    "composition": [
+        [
+            "JavaScript"
+        ],
+        [
+            "clean-code-javascript"
+        ]
+    ],
+    "clean-architecture": [
+        [
+            "JavaScript"
+        ],
+        [
+            "clean-code-javascript"
+        ]
+    ],
+    "mdl": [
+        [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "material-design-lite"
+        ]
+    ],
+    "material-design-lite": [
+        [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "material-design-lite"
+        ]
+    ],
+    "material-components": [
+        [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "material-design-lite"
+        ]
+    ],
+    "load-balancer": [
+        [
+            "Go",
+            "Shell",
+            "JavaScript"
+        ],
+        [
+            "pm2",
+            "traefik"
+        ]
+    ],
+    "deploy": [
+        [
+            "Go",
+            "Shell",
+            "JavaScript"
+        ],
+        [
+            "pm2"
+        ]
+    ],
+    "production": [
+        [
+            "Go",
+            "Shell",
+            "JavaScript"
+        ],
+        [
+            "pm2"
+        ]
+    ],
+    "pm2": [
+        [
+            "Go",
+            "Shell",
+            "JavaScript"
+        ],
+        [
+            "pm2"
+        ]
+    ],
+    "process-manager": [
+        [
+            "Go",
+            "Shell",
+            "JavaScript"
+        ],
+        [
+            "pm2"
+        ]
+    ],
+    "command-line-tool": [
+        [
+            "Go",
+            "Shell",
+            "JavaScript"
+        ],
+        [
+            "pm2"
+        ]
+    ],
+    "kotlin-library": [
+        [
+            "Kotlin"
+        ],
+        [
+            "kotlin"
+        ]
+    ],
+    "gradle-plugin": [
+        [
+            "Kotlin"
+        ],
+        [
+            "kotlin"
+        ]
+    ],
+    "intellij-plugin": [
+        [
+            "Kotlin"
+        ],
+        [
+            "kotlin"
+        ]
+    ],
+    "maven-plugin": [
+        [
+            "Kotlin"
+        ],
+        [
+            "kotlin"
+        ]
+    ],
+    "discourse": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "discourse"
+        ]
+    ],
+    "forum": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "discourse"
+        ]
+    ],
+    "expectation": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "jest"
+        ]
+    ],
+    "painless-javascript-testing": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "jest"
+        ]
+    ],
+    "immersive": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "jest"
+        ]
+    ],
+    "easy": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "jest"
+        ]
+    ],
+    "snapshot": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "jest"
+        ]
+    ],
+    "painless": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "jest"
+        ]
+    ],
+    "facebook": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "jest"
+        ]
+    ],
+    "vision": [
+        [
+            "C++"
+        ],
+        [
+            "caffe"
+        ]
+    ],
+    "peer-to-peer": [
+        [
+            "Go"
+        ],
+        [
+            "syncthing"
+        ]
+    ],
+    "synchronization": [
+        [
+            "Go"
+        ],
+        [
+            "syncthing"
+        ]
+    ],
+    "mpandroidchart": [
+        [
+            "Java"
+        ],
+        [
+            "MPAndroidChart"
+        ]
+    ],
+    "starter-kit": [
+        [
+            "HTML",
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "hackathon-starter"
+        ]
+    ],
+    "boilerplate": [
+        [
+            "HTML",
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "hackathon-starter",
+            "ant-design-pro"
+        ]
+    ],
+    "oauth2": [
+        [
+            "HTML",
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "hackathon-starter"
+        ]
+    ],
+    "hackathon": [
+        [
+            "HTML",
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "hackathon-starter"
+        ]
+    ],
+    "hexo": [
+        [
+            "JavaScript"
+        ],
+        [
+            "hexo"
+        ]
+    ],
+    "uncensored": [
+        [
+            "Python"
+        ],
+        [
+            "XX-Net"
+        ]
+    ],
+    "vpn": [
+        [
+            "Python"
+        ],
+        [
+            "XX-Net"
+        ]
+    ],
+    "gfw": [
+        [
+            "Python"
+        ],
+        [
+            "XX-Net"
+        ]
+    ],
+    "goagent": [
+        [
+            "Python"
+        ],
+        [
+            "XX-Net"
+        ]
+    ],
+    "fullscreen": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fullPage.js"
+        ]
+    ],
+    "sections": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fullPage.js"
+        ]
+    ],
+    "scrolling": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fullPage.js"
+        ]
+    ],
+    "slide": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fullPage.js"
+        ]
+    ],
+    "onepage": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fullPage.js"
+        ]
+    ],
+    "fullpage": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fullPage.js"
+        ]
+    ],
+    "snap": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fullPage.js"
+        ]
+    ],
+    "mousewheel": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fullPage.js"
+        ]
+    ],
+    "jquery": [
+        [
+            "JavaScript"
+        ],
+        [
+            "select2",
+            "fullPage.js"
+        ]
+    ],
+    "swipe": [
+        [
+            "JavaScript"
+        ],
+        [
+            "swiper",
+            "fullPage.js"
+        ]
+    ],
+    "koa": [
+        [
+            "JavaScript"
+        ],
+        [
+            "koa"
+        ]
+    ],
+    "pixi": [
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "pixi.js"
+        ]
+    ],
+    "rendering-engine": [
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "pixi.js"
+        ]
+    ],
+    "rendering": [
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "pixi.js"
+        ]
+    ],
+    "glsl": [
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "pixi.js"
+        ]
+    ],
+    "renderer": [
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "pixi.js"
+        ]
+    ],
+    "game": [
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "open-source-ios-apps",
+            "pixi.js"
+        ]
+    ],
+    "canvas2d": [
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "pixi.js"
+        ]
+    ],
+    "pixijs": [
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "pixi.js"
+        ]
+    ],
+    "rendering-2d-graphics": [
+        [
+            "Ruby",
+            "TypeScript",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "pixi.js"
+        ]
+    ],
+    "styled-components": [
+        [
+            "JavaScript"
+        ],
+        [
+            "styled-components",
+            "react-boilerplate"
+        ]
+    ],
+    "css-in-js": [
+        [
+            "JavaScript"
+        ],
+        [
+            "styled-components"
+        ]
+    ],
+    "after-effects": [
+        [
+            "Kotlin",
+            "Java"
+        ],
+        [
+            "lottie-android"
+        ]
+    ],
+    "lottie": [
+        [
+            "Kotlin",
+            "Java"
+        ],
+        [
+            "lottie-android"
+        ]
+    ],
+    "airbnb": [
+        [
+            "Kotlin",
+            "Java"
+        ],
+        [
+            "lottie-android"
+        ]
+    ],
+    "disk-cache": [
+        [
+            "Java"
+        ],
+        [
+            "glide"
+        ]
+    ],
+    "imageloader": [
+        [
+            "Java"
+        ],
+        [
+            "glide"
+        ]
+    ],
+    "gif": [
+        [
+            "Java"
+        ],
+        [
+            "glide"
+        ]
+    ],
+    "glide": [
+        [
+            "Java"
+        ],
+        [
+            "glide"
+        ]
+    ],
+    "clipboard": [
+        [
+            "JavaScript"
+        ],
+        [
+            "clipboard.js"
+        ]
+    ],
+    "superset": [
+        [
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "incubator-superset"
+        ]
+    ],
+    "mobile": [
+        [
+            "Ruby",
+            "Makefile",
+            "JavaScript"
+        ],
+        [
+            "awesome-react-native",
+            "swiper",
+            "fastlane"
+        ]
+    ],
+    "fastlane": [
+        [
+            "Ruby",
+            "Makefile",
+            "JavaScript"
+        ],
+        [
+            "fastlane"
+        ]
+    ],
+    "deployment": [
+        [
+            "Ruby",
+            "Makefile",
+            "JavaScript"
+        ],
+        [
+            "fastlane"
+        ]
+    ],
+    "screenshots": [
+        [
+            "Ruby",
+            "Makefile",
+            "JavaScript"
+        ],
+        [
+            "fastlane"
+        ]
+    ],
+    "slate": [
+        [
+            "Ruby",
+            "CoffeeScript",
+            "JavaScript"
+        ],
+        [
+            "slate"
+        ]
+    ],
+    "api-documentation": [
+        [
+            "Ruby",
+            "CoffeeScript",
+            "JavaScript"
+        ],
+        [
+            "devdocs",
+            "slate"
+        ]
+    ],
+    "protocol-compiler": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "protobuf"
+        ]
+    ],
+    "marshalling": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "protobuf"
+        ]
+    ],
+    "protocol-buffers": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "protobuf"
+        ]
+    ],
+    "protobuf-runtime": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "protobuf"
+        ]
+    ],
+    "protoc": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "protobuf"
+        ]
+    ],
+    "protobuf": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "protobuf"
+        ]
+    ],
+    "serialization": [
+        [
+            "C++",
+            "Java",
+            "C#"
+        ],
+        [
+            "protobuf"
+        ]
+    ],
+    "video": [
+        [
+            "C",
+            "Java",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "ijkplayer",
+            "video.js"
+        ]
+    ],
+    "player": [
+        [
+            "C",
+            "Java",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "ijkplayer",
+            "video.js"
+        ]
+    ],
+    "flash": [
+        [
+            "C",
+            "Java",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "video.js"
+        ]
+    ],
+    "dash": [
+        [
+            "C",
+            "Java",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "video.js"
+        ]
+    ],
+    "html5-audio": [
+        [
+            "C",
+            "Java",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "video.js"
+        ]
+    ],
+    "hls": [
+        [
+            "C",
+            "Java",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "video.js"
+        ]
+    ],
+    "videojs": [
+        [
+            "C",
+            "Java",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "video.js"
+        ]
+    ],
+    "html5-video": [
+        [
+            "C",
+            "Java",
+            "JavaScript",
+            "Objective-C"
+        ],
+        [
+            "video.js"
+        ]
+    ],
+    "requests": [
+        [
+            "Python"
+        ],
+        [
+            "requests"
+        ]
+    ],
+    "python-requests": [
+        [
+            "Python"
+        ],
+        [
+            "requests"
+        ]
+    ],
+    "humans": [
+        [
+            "Python"
+        ],
+        [
+            "requests"
+        ]
+    ],
+    "cookies": [
+        [
+            "Python"
+        ],
+        [
+            "requests"
+        ]
+    ],
+    "forhumans": [
+        [
+            "Python"
+        ],
+        [
+            "requests"
+        ]
+    ],
+    "headless-browser": [
+        [
+            "C++",
+            "C",
+            "JavaScript"
+        ],
+        [
+            "phantomjs"
+        ]
+    ],
+    "phantomjs": [
+        [
+            "C++",
+            "C",
+            "JavaScript"
+        ],
+        [
+            "phantomjs"
+        ]
+    ],
+    "headless": [
+        [
+            "C++",
+            "C",
+            "JavaScript"
+        ],
+        [
+            "phantomjs"
+        ]
+    ],
+    "maps": [
+        [
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "Leaflet"
+        ]
+    ],
+    "leaflet": [
+        [
+            "HTML",
+            "JavaScript"
+        ],
+        [
+            "Leaflet"
+        ]
+    ],
+    "unix": [
+        [
+            "Go"
+        ],
+        [
+            "fzf"
+        ]
+    ],
+    "fish": [
+        [
+            "Go"
+        ],
+        [
+            "fzf"
+        ]
+    ],
+    "fzf": [
+        [
+            "Go"
+        ],
+        [
+            "fzf"
+        ]
+    ],
+    "kcptun": [
+        [
+            "Objective-C",
+            "Swift"
+        ],
+        [
+            "ShadowsocksX-NG"
+        ]
+    ],
+    "shadowsocksx-ng": [
+        [
+            "Objective-C",
+            "Swift"
+        ],
+        [
+            "ShadowsocksX-NG"
+        ]
+    ],
+    "v2ray-plugin": [
+        [
+            "Objective-C",
+            "Swift"
+        ],
+        [
+            "ShadowsocksX-NG"
+        ]
+    ],
+    "godot": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "godot"
+        ]
+    ],
+    "gamedev": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "godot",
+            "phaser"
+        ]
+    ],
+    "multi-platform": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "godot"
+        ]
+    ],
+    "game-development": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "godot",
+            "phaser"
+        ]
+    ],
+    "godotengine": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "godot"
+        ]
+    ],
+    "game-engine": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "godot"
+        ]
+    ],
+    "open-source": [
+        [
+            "C++",
+            "JavaScript"
+        ],
+        [
+            "godot"
+        ]
+    ],
+    "reverse-proxy": [
+        [
+            "Go",
+            "Python",
+            "Lua"
+        ],
+        [
+            "kong",
+            "traefik",
+            "caddy"
+        ]
+    ],
+    "etcd": [
+        [
+            "Go",
+            "Python",
+            "Lua"
+        ],
+        [
+            "traefik"
+        ]
+    ],
+    "letsencrypt": [
+        [
+            "Go",
+            "Python",
+            "Lua"
+        ],
+        [
+            "certbot",
+            "traefik"
+        ]
+    ],
+    "mesos": [
+        [
+            "Go",
+            "Python",
+            "Lua"
+        ],
+        [
+            "traefik"
+        ]
+    ],
+    "consul": [
+        [
+            "Go",
+            "Python",
+            "Lua"
+        ],
+        [
+            "kong",
+            "traefik"
+        ]
+    ],
+    "marathon": [
+        [
+            "Go",
+            "Python",
+            "Lua"
+        ],
+        [
+            "traefik"
+        ]
+    ],
+    "react-native": [
+        [
+            "Ruby",
+            "Makefile",
+            "JavaScript",
+            "Swift"
+        ],
+        [
+            "open-source-ios-apps",
+            "awesome-react-native"
+        ]
+    ],
+    "scraper": [
+        [
+            "Ruby"
+        ],
+        [
+            "huginn"
+        ]
+    ],
+    "huginn": [
+        [
+            "Ruby"
+        ],
+        [
+            "huginn"
+        ]
+    ],
+    "rss": [
+        [
+            "Ruby"
+        ],
+        [
+            "huginn"
+        ]
+    ],
+    "feed": [
+        [
+            "Ruby"
+        ],
+        [
+            "huginn"
+        ]
+    ],
+    "twitter": [
+        [
+            "Ruby"
+        ],
+        [
+            "huginn"
+        ]
+    ],
+    "feedgenerator": [
+        [
+            "Ruby"
+        ],
+        [
+            "huginn"
+        ]
+    ],
+    "webscraping": [
+        [
+            "Ruby"
+        ],
+        [
+            "huginn"
+        ]
+    ],
+    "agent": [
+        [
+            "Ruby"
+        ],
+        [
+            "huginn"
+        ]
+    ],
+    "twitter-streaming": [
+        [
+            "Ruby"
+        ],
+        [
+            "huginn"
+        ]
+    ],
+    "phaserjs": [
+        [
+            "JavaScript"
+        ],
+        [
+            "phaser"
+        ]
+    ],
+    "phaser": [
+        [
+            "JavaScript"
+        ],
+        [
+            "phaser"
+        ]
+    ],
+    "game-frameworks": [
+        [
+            "JavaScript"
+        ],
+        [
+            "phaser"
+        ]
+    ],
+    "phaser-development": [
+        [
+            "JavaScript"
+        ],
+        [
+            "phaser"
+        ]
+    ],
+    "html5-game-development": [
+        [
+            "JavaScript"
+        ],
+        [
+            "phaser"
+        ]
+    ],
+    "facebook-instant-games": [
+        [
+            "JavaScript"
+        ],
+        [
+            "phaser"
+        ]
+    ],
+    "callbacks": [
+        [
+            "JavaScript"
+        ],
+        [
+            "async"
+        ]
+    ],
+    "async": [
+        [
+            "JavaScript"
+        ],
+        [
+            "async"
+        ]
+    ],
+    "file": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "thread-pool": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "encode": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "cache": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "network": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "encrypt": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "eventbus": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "regex": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "spannable-string": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "androidx": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "snackbar": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "bar": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "permission": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "log": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "reflect": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "utils": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "app": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "devdocs",
+            "open-source-ios-apps",
+            "AndroidUtilCode"
+        ]
+    ],
+    "fragment": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "toast": [
+        [
+            "Ruby",
+            "Swift",
+            "CoffeeScript",
+            "Java"
+        ],
+        [
+            "AndroidUtilCode"
+        ]
+    ],
+    "promise": [
+        [
+            "JavaScript"
+        ],
+        [
+            "axios",
+            "fetch"
+        ]
+    ],
+    "maximum-sum": [
+        [
+            "JavaScript"
+        ],
+        [
+            "leetcode"
+        ]
+    ],
+    "tree": [
+        [
+            "JavaScript"
+        ],
+        [
+            "leetcode"
+        ]
+    ],
+    "acme": [
+        [
+            "Python"
+        ],
+        [
+            "certbot"
+        ]
+    ],
+    "certificate": [
+        [
+            "Python"
+        ],
+        [
+            "certbot"
+        ]
+    ],
+    "certbot": [
+        [
+            "Python"
+        ],
+        [
+            "certbot"
+        ]
+    ],
+    "acme-client": [
+        [
+            "Python"
+        ],
+        [
+            "certbot"
+        ]
+    ],
+    "ffmpeg": [
+        [
+            "C",
+            "Java",
+            "Objective-C"
+        ],
+        [
+            "ijkplayer"
+        ]
+    ],
+    "ijkplayer": [
+        [
+            "C",
+            "Java",
+            "Objective-C"
+        ],
+        [
+            "ijkplayer"
+        ]
+    ],
+    "typings": [
+        [
+            "TypeScript"
+        ],
+        [
+            "DefinitelyTyped"
+        ]
+    ],
+    "dts": [
+        [
+            "TypeScript"
+        ],
+        [
+            "DefinitelyTyped"
+        ]
+    ],
+    "types": [
+        [
+            "TypeScript"
+        ],
+        [
+            "DefinitelyTyped"
+        ]
+    ],
+    "definition": [
+        [
+            "TypeScript"
+        ],
+        [
+            "DefinitelyTyped"
+        ]
+    ],
+    "typescript-definitions": [
+        [
+            "TypeScript"
+        ],
+        [
+            "DefinitelyTyped"
+        ]
+    ],
+    "nuxt": [
+        [
+            "JavaScript"
+        ],
+        [
+            "nuxt.js"
+        ]
+    ],
+    "ssr": [
+        [
+            "JavaScript"
+        ],
+        [
+            "nuxt.js"
+        ]
+    ],
+    "isomorphic": [
+        [
+            "JavaScript"
+        ],
+        [
+            "nuxt.js"
+        ]
+    ],
+    "geth": [
+        [
+            "Go"
+        ],
+        [
+            "go-ethereum"
+        ]
+    ],
+    "ethereum": [
+        [
+            "Go"
+        ],
+        [
+            "go-ethereum"
+        ]
+    ],
+    "blockchain": [
+        [
+            "Go"
+        ],
+        [
+            "go-ethereum"
+        ]
+    ],
+    "datetime": [
+        [
+            "JavaScript"
+        ],
+        [
+            "dayjs"
+        ]
+    ],
+    "time": [
+        [
+            "JavaScript"
+        ],
+        [
+            "dayjs"
+        ]
+    ],
+    "date-formatting": [
+        [
+            "JavaScript"
+        ],
+        [
+            "dayjs"
+        ]
+    ],
+    "date": [
+        [
+            "JavaScript"
+        ],
+        [
+            "dayjs"
+        ]
+    ],
+    "moment": [
+        [
+            "JavaScript"
+        ],
+        [
+            "dayjs"
+        ]
+    ],
+    "dayjs": [
+        [
+            "JavaScript"
+        ],
+        [
+            "dayjs"
+        ]
+    ],
+    "r": [
+        [
+            "Go",
+            "Scala"
+        ],
+        [
+            "spark"
+        ]
+    ],
+    "big-data": [
+        [
+            "Go",
+            "Scala"
+        ],
+        [
+            "spark"
+        ]
+    ],
+    "spark": [
+        [
+            "Go",
+            "Scala"
+        ],
+        [
+            "spark"
+        ]
+    ],
+    "jdbc": [
+        [
+            "Go",
+            "Scala"
+        ],
+        [
+            "spark"
+        ]
+    ],
+    "scala": [
+        [
+            "Go",
+            "Scala"
+        ],
+        [
+            "spark"
+        ]
+    ],
+    "sql": [
+        [
+            "Go",
+            "Scala"
+        ],
+        [
+            "tidb",
+            "spark"
+        ]
+    ],
+    "quill": [
+        [
+            "JavaScript"
+        ],
+        [
+            "quill"
+        ]
+    ],
+    "wysiwyg": [
+        [
+            "JavaScript"
+        ],
+        [
+            "quill"
+        ]
+    ],
+    "rich-text-editor": [
+        [
+            "JavaScript"
+        ],
+        [
+            "quill"
+        ]
+    ],
+    "julia-language": [
+        [
+            "C",
+            "Julia"
+        ],
+        [
+            "julia"
+        ]
+    ],
+    "high-performance-computing": [
+        [
+            "C",
+            "Julia"
+        ],
+        [
+            "julia"
+        ]
+    ],
+    "scientific-computing": [
+        [
+            "C",
+            "Julia"
+        ],
+        [
+            "julia"
+        ]
+    ],
+    "numerical-computation": [
+        [
+            "C",
+            "Julia"
+        ],
+        [
+            "julia"
+        ]
+    ],
+    "api-gateway": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "kong"
+        ]
+    ],
+    "microservices": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "nest",
+            "kong"
+        ]
+    ],
+    "apis": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "kong"
+        ]
+    ],
+    "luajit": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "kong"
+        ]
+    ],
+    "cloud-native": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "kong"
+        ]
+    ],
+    "nginx": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "kong"
+        ]
+    ],
+    "kong": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "kong"
+        ]
+    ],
+    "api-management": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "kong"
+        ]
+    ],
+    "service-mesh": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "kong"
+        ]
+    ],
+    "servicecontrol": [
+        [
+            "Lua",
+            "TypeScript"
+        ],
+        [
+            "kong"
+        ]
+    ],
+    "real-time": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Rocket.Chat"
+        ]
+    ],
+    "slack": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Rocket.Chat"
+        ]
+    ],
+    "chat": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Rocket.Chat"
+        ]
+    ],
+    "free": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Rocket.Chat"
+        ]
+    ],
+    "collaboration": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Rocket.Chat"
+        ]
+    ],
+    "foss": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Rocket.Chat"
+        ]
+    ],
+    "webrtc": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Rocket.Chat"
+        ]
+    ],
+    "nodejs-framework": [
+        [
+            "TypeScript"
+        ],
+        [
+            "nest"
+        ]
+    ],
+    "javascript-framework": [
+        [
+            "TypeScript"
+        ],
+        [
+            "nest"
+        ]
+    ],
+    "typescript-framework": [
+        [
+            "TypeScript"
+        ],
+        [
+            "nest"
+        ]
+    ],
+    "nestjs": [
+        [
+            "TypeScript"
+        ],
+        [
+            "nest"
+        ]
+    ],
+    "nest": [
+        [
+            "TypeScript"
+        ],
+        [
+            "nest"
+        ]
+    ],
+    "websockets": [
+        [
+            "TypeScript"
+        ],
+        [
+            "nest"
+        ]
+    ],
+    "cheatsheets": [
+        [
+            "Ruby",
+            "CoffeeScript",
+            "Shell",
+            "Python"
+        ],
+        [
+            "tldr"
+        ]
+    ],
+    "documentation": [
+        [
+            "Ruby",
+            "CoffeeScript",
+            "Shell",
+            "Python"
+        ],
+        [
+            "devdocs",
+            "tldr"
+        ]
+    ],
+    "help": [
+        [
+            "Ruby",
+            "CoffeeScript",
+            "Shell",
+            "Python"
+        ],
+        [
+            "tldr"
+        ]
+    ],
+    "manpages": [
+        [
+            "Ruby",
+            "CoffeeScript",
+            "Shell",
+            "Python"
+        ],
+        [
+            "tldr"
+        ]
+    ],
+    "man-page": [
+        [
+            "Ruby",
+            "CoffeeScript",
+            "Shell",
+            "Python"
+        ],
+        [
+            "tldr"
+        ]
+    ],
+    "manual": [
+        [
+            "Ruby",
+            "CoffeeScript",
+            "Shell",
+            "Python"
+        ],
+        [
+            "tldr"
+        ]
+    ],
+    "tldr": [
+        [
+            "Ruby",
+            "CoffeeScript",
+            "Shell",
+            "Python"
+        ],
+        [
+            "tldr"
+        ]
+    ],
+    "upc": [
+        [
+            "Java"
+        ],
+        [
+            "zxing"
+        ]
+    ],
+    "barcode-scanner": [
+        [
+            "Java"
+        ],
+        [
+            "zxing"
+        ]
+    ],
+    "qr-code": [
+        [
+            "Java"
+        ],
+        [
+            "zxing"
+        ]
+    ],
+    "zxing": [
+        [
+            "Java"
+        ],
+        [
+            "zxing"
+        ]
+    ],
+    "datamatrix": [
+        [
+            "Java"
+        ],
+        [
+            "zxing"
+        ]
+    ],
+    "barcode": [
+        [
+            "Java"
+        ],
+        [
+            "zxing"
+        ]
+    ],
+    "memory-leak": [
+        [
+            "Kotlin"
+        ],
+        [
+            "leakcanary"
+        ]
+    ],
+    "outofmemoryerror": [
+        [
+            "Kotlin"
+        ],
+        [
+            "leakcanary"
+        ]
+    ],
+    "outofmemory": [
+        [
+            "Kotlin"
+        ],
+        [
+            "leakcanary"
+        ]
+    ],
+    "kotlin-android": [
+        [
+            "Kotlin"
+        ],
+        [
+            "leakcanary"
+        ]
+    ],
+    "offline-first": [
+        [
+            "JavaScript"
+        ],
+        [
+            "react-boilerplate"
+        ]
+    ],
+    "scaffolding": [
+        [
+            "JavaScript"
+        ],
+        [
+            "react-boilerplate"
+        ]
+    ],
+    "redux-saga": [
+        [
+            "JavaScript"
+        ],
+        [
+            "react-boilerplate"
+        ]
+    ],
+    "immer": [
+        [
+            "JavaScript"
+        ],
+        [
+            "react-boilerplate"
+        ]
+    ],
+    "react-boilerplate": [
+        [
+            "JavaScript"
+        ],
+        [
+            "react-boilerplate"
+        ]
+    ],
+    "select2": [
+        [
+            "JavaScript"
+        ],
+        [
+            "select2"
+        ]
+    ],
+    "mobile-web": [
+        [
+            "HTML",
+            "CSS"
+        ],
+        [
+            "weui"
+        ]
+    ],
+    "weui": [
+        [
+            "HTML",
+            "CSS"
+        ],
+        [
+            "weui"
+        ]
+    ],
+    "wechat": [
+        [
+            "HTML",
+            "CSS"
+        ],
+        [
+            "weui"
+        ]
+    ],
+    "style": [
+        [
+            "HTML",
+            "CSS"
+        ],
+        [
+            "weui"
+        ]
+    ],
+    "feature-detection": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Modernizr"
+        ]
+    ],
+    "css3-features": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Modernizr"
+        ]
+    ],
+    "modernizr": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Modernizr"
+        ]
+    ],
+    "javascript-library": [
+        [
+            "JavaScript"
+        ],
+        [
+            "Modernizr"
+        ]
+    ],
+    "csp-report": [
+        [
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "sentry"
+        ]
+    ],
+    "error-logging": [
+        [
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "sentry"
+        ]
+    ],
+    "crash-reports": [
+        [
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "sentry"
+        ]
+    ],
+    "crash-reporting": [
+        [
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "sentry"
+        ]
+    ],
+    "error-monitoring": [
+        [
+            "Python",
+            "JavaScript"
+        ],
+        [
+            "sentry"
+        ]
+    ],
+    "enterprise": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "ant-design-pro"
+        ]
+    ],
+    "firebase": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "ant-design-pro"
+        ]
+    ],
+    "umi": [
+        [
+            "TypeScript",
+            "JavaScript"
+        ],
+        [
+            "ant-design-pro"
+        ]
+    ],
+    "concurrent-programming": [
+        [
+            "Java"
+        ],
+        [
+            "JCSprout"
+        ]
+    ],
+    "basic-java": [
+        [
+            "Java"
+        ],
+        [
+            "JCSprout"
+        ]
+    ],
+    "netty": [
+        [
+            "Java"
+        ],
+        [
+            "JCSprout"
+        ]
+    ],
+    "idioms": [
+        [
+            "Python"
+        ],
+        [
+            "python-patterns"
+        ]
+    ],
+    "rnn": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "apriori": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "adaboost": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "recommendedsystem": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "svd": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "dnn": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "svm": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "logistic": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "nlp": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "fp-growth": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "naivebayes": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "mahchine-leaning": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "pca": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "sklearn": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "scikit-learn": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "kmeans": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "regression": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "deeplearning": [
+        [
+            "Python"
+        ],
+        [
+            "AiLearning"
+        ]
+    ],
+    "fetch": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fetch"
+        ]
+    ],
+    "polyfill": [
+        [
+            "JavaScript"
+        ],
+        [
+            "fetch"
+        ]
+    ],
+    "beego": [
+        [
+            "Go"
+        ],
+        [
+            "beego"
+        ]
+    ],
+    "angular-cli": [
+        [
+            "TypeScript"
+        ],
+        [
+            "angular-cli"
+        ]
+    ],
+    "iview": [
+        [
+            "Vue",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "iview"
+        ]
+    ],
+    "ui-design": [
+        [
+            "Vue",
+            "CSS",
+            "JavaScript"
+        ],
+        [
+            "iview"
+        ]
+    ],
+    "standard": [
+        [
+            "JavaScript"
+        ],
+        [
+            "standard"
+        ]
+    ],
+    "linter": [
+        [
+            "JavaScript"
+        ],
+        [
+            "standard"
+        ]
+    ],
+    "ecmascript": [
+        [
+            "JavaScript"
+        ],
+        [
+            "standard"
+        ]
+    ],
+    "static-code-analysis": [
+        [
+            "JavaScript"
+        ],
+        [
+            "standard"
+        ]
+    ],
+    "state-management": [
+        [
+            "JavaScript"
+        ],
+        [
+            "vuex"
+        ]
+    ],
+    "time-travel": [
+        [
+            "JavaScript"
+        ],
+        [
+            "vuex"
+        ]
+    ],
+    "carousel": [
+        [
+            "JavaScript"
+        ],
+        [
+            "swiper"
+        ]
+    ],
+    "swiper": [
+        [
+            "JavaScript"
+        ],
+        [
+            "swiper"
+        ]
+    ],
+    "gallery": [
+        [
+            "JavaScript"
+        ],
+        [
+            "swiper"
+        ]
+    ],
+    "slider": [
+        [
+            "JavaScript"
+        ],
+        [
+            "swiper"
+        ]
+    ],
+    "touch-events": [
+        [
+            "JavaScript"
+        ],
+        [
+            "swiper"
+        ]
+    ],
+    "touch": [
+        [
+            "JavaScript"
+        ],
+        [
+            "swiper"
+        ]
+    ],
+    "pandas": [
+        [
+            "Python"
+        ],
+        [
+            "pandas"
+        ]
+    ],
+    "alignment": [
+        [
+            "Python"
+        ],
+        [
+            "pandas"
+        ]
+    ],
+    "flexible": [
+        [
+            "Python"
+        ],
+        [
+            "pandas"
+        ]
+    ],
+    "psr-3": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "psr-6": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "bundle": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "symfony-bundle": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "psr-11": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "psr-16": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "psr-18": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "psr-13": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "psr-14": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "symfony": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "php-framework": [
+        [
+            "PHP"
+        ],
+        [
+            "symfony"
+        ]
+    ],
+    "dotfiles": [
+        [
+            "Shell",
+            "Vim script"
+        ],
+        [
+            "dotfiles"
+        ]
+    ],
+    "database": [
+        [
+            "Go"
+        ],
+        [
+            "tidb"
+        ]
+    ],
+    "htap": [
+        [
+            "Go"
+        ],
+        [
+            "tidb"
+        ]
+    ],
+    "tidb": [
+        [
+            "Go"
+        ],
+        [
+            "tidb"
+        ]
+    ],
+    "mysql-protocol": [
+        [
+            "Go"
+        ],
+        [
+            "tidb"
+        ]
+    ],
+    "distributed-database": [
+        [
+            "Go"
+        ],
+        [
+            "tidb"
+        ]
+    ],
+    "distributed-transactions": [
+        [
+            "Go"
+        ],
+        [
+            "tidb"
+        ]
+    ],
+    "scale": [
+        [
+            "Go"
+        ],
+        [
+            "tidb"
+        ]
+    ],
+    "offline": [
+        [
+            "Ruby",
+            "CoffeeScript"
+        ],
+        [
+            "devdocs"
+        ]
+    ],
+    "docs": [
+        [
+            "Ruby",
+            "CoffeeScript"
+        ],
+        [
+            "devdocs"
+        ]
+    ],
+    "devdocs": [
+        [
+            "Ruby",
+            "CoffeeScript"
+        ],
+        [
+            "devdocs"
+        ]
+    ],
+    "automatic-https": [
+        [
+            "Go"
+        ],
+        [
+            "caddy"
+        ]
+    ],
+    "web-server": [
+        [
+            "Go"
+        ],
+        [
+            "caddy"
+        ]
+    ],
+    "tls": [
+        [
+            "Go"
+        ],
+        [
+            "caddy"
+        ]
+    ],
+    "security": [
+        [
+            "Go"
+        ],
+        [
+            "caddy"
+        ]
+    ],
+    "caddyfile": [
+        [
+            "Go"
+        ],
+        [
+            "caddy"
+        ]
+    ],
+    "http-server": [
+        [
+            "Go"
+        ],
+        [
+            "caddy"
+        ]
+    ],
+    "https": [
+        [
+            "Go"
+        ],
+        [
+            "caddy"
+        ]
+    ],
+    "composer": [
+        [
+            "PHP"
+        ],
+        [
+            "composer"
+        ]
+    ],
+    "dependency-manager": [
+        [
+            "PHP"
+        ],
+        [
+            "composer"
+        ]
+    ],
+    "packages": [
+        [
+            "PHP"
+        ],
+        [
+            "composer"
+        ]
+    ],
+    "codehub": [
+        [
+            "C#"
+        ],
+        [
+            "CodeHub"
+        ]
+    ],
+    "reactiveui": [
+        [
+            "C#"
+        ],
+        [
+            "CodeHub"
+        ]
+    ],
+    "github": [
+        [
+            "C#"
+        ],
+        [
+            "CodeHub"
+        ]
+    ],
+    "preact-components": [
+        [
+            "JavaScript"
+        ],
+        [
+            "preact"
+        ]
+    ],
+    "vdom": [
+        [
+            "JavaScript"
+        ],
+        [
+            "preact"
+        ]
+    ],
+    "virtual-dom": [
+        [
+            "JavaScript"
+        ],
+        [
+            "preact"
+        ]
+    ],
+    "hyperscript": [
+        [
+            "JavaScript"
+        ],
+        [
+            "preact"
+        ]
+    ],
+    "dom": [
+        [
+            "JavaScript"
+        ],
+        [
+            "preact"
+        ]
+    ],
+    "preact": [
+        [
+            "JavaScript"
+        ],
+        [
+            "preact"
+        ]
+    ],
+    "css-effects": [
+        [
+            "CSS"
+        ],
+        [
+            "Hover"
+        ]
+    ],
+    "parser": [
+        [
+            "JavaScript"
+        ],
+        [
+            "postcss"
+        ]
+    ],
+    "postcss": [
+        [
+            "JavaScript"
+        ],
+        [
+            "postcss"
+        ]
+    ],
+    "deprecated": [
+        [
+            "HTML",
+            "CoffeeScript"
+        ],
+        [
+            "chosen"
+        ]
+    ],
+    "not-maintained": [
+        [
+            "HTML",
+            "CoffeeScript"
+        ],
+        [
+            "chosen"
+        ]
+    ],
+    "faker": [
+        [
+            "JavaScript"
+        ],
+        [
+            "faker.js"
+        ]
+    ],
+    "fake-data": [
+        [
+            "JavaScript"
+        ],
+        [
+            "faker.js"
+        ]
+    ],
+    "mocks": [
+        [
+            "JavaScript"
+        ],
+        [
+            "faker.js"
+        ]
+    ],
+    "faker-generator": [
+        [
+            "JavaScript"
+        ],
+        [
+            "faker.js"
+        ]
+    ],
+    "fake": [
+        [
+            "JavaScript"
+        ],
+        [
+            "faker.js"
+        ]
+    ],
+    "mocking": [
+        [
+            "JavaScript"
+        ],
+        [
+            "faker.js"
+        ]
+    ],
+    "fake-content": [
+        [
+            "JavaScript"
+        ],
+        [
+            "faker.js"
+        ]
+    ],
+    "reactiveswift": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "open-source-ios-apps"
+        ]
+    ],
+    "ipad": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "open-source-ios-apps"
+        ]
+    ],
+    "example": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "open-source-ios-apps"
+        ]
+    ],
+    "apple-watch": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "open-source-ios-apps"
+        ]
+    ],
+    "apple-tv": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "open-source-ios-apps"
+        ]
+    ],
+    "iphone": [
+        [
+            "Ruby",
+            "Swift"
+        ],
+        [
+            "open-source-ios-apps"
+        ]
+    ],
+    "gitlab": [
+        [
+            "Ruby",
+            "JavaScript"
+        ],
+        [
+            "gitlabhq"
         ]
     ]
 }

@@ -5,7 +5,7 @@ import json
 from bs4 import BeautifulSoup
 import calendar
 
-NUM_PAGES = 1
+NUM_PAGES = 3
 # ARTICLES = 300
 # ARTICLES_PER_PAGE = 12
 URL = "https://gitstar-ranking.com/repositories?page="
@@ -95,7 +95,7 @@ def add_proj_data(name, projects, url, tags, langs):
         return
     proj_langs = get_langs(lang_elem)
     proj_tags = get_tags(soup)
-    projects[name] = (url, proj_langs, proj_tags)
+    projects[name] = (gh_link, proj_langs, proj_tags)
     add_lang_data(name, proj_tags, proj_langs, langs)
     add_tag_data(name, proj_tags, proj_langs, tags)
 
@@ -120,8 +120,3 @@ def get_data():
             time.sleep(1.5)
     dump_files(projects, langs, tags)
 
-
-# with io.open("output.json", "w", encoding="utf-8") as f:
-#     json.dump({"records": {"record ": projects}}, f, ensure_ascii=False, indent=4)
-# f.close()
-get_data()
