@@ -4,20 +4,7 @@ import os
 import data_getter
 
 
-def is_int(strng):
-    try:
-        int(strng)
-        return True
-    except ValueError:
-        return False
-
-
-def get_json_data(file_name):
-    with open(file_name, encoding='utf-8') as f:
-        dict = json.load(f)
-    return dict
-
-
+# html output page skeleton
 content = '''<html>
 	<head>
 	</head>
@@ -41,7 +28,25 @@ row = '''
             </tr>'''
 
 
+def is_int(strng):
+    """confirming valid input"""
+    try:
+        int(strng)
+        return True
+    except ValueError:
+        return False
+
+
+def get_json_data(file_name):
+    """load json dictionary"""
+    with open(file_name, encoding='utf-8') as f:
+        dict = json.load(f)
+    return dict
+
+
+
 def get_sorted_langs_lst(langs, tag_projects, all_projects):
+    """returning a list of languages that relate to a tag sorted by appearance in projects frequency"""
     hist = {}
     for lang in langs:
         hist[lang] = 0
@@ -56,6 +61,7 @@ def get_sorted_langs_lst(langs, tag_projects, all_projects):
 
 
 def get_sorted_tags_lst(tags, lang_projects, all_projects):
+    """returning a list of tags that relate to a language sorted by appearance in projects frequency"""
     hist = {}
     for tag in tags:
         hist[tag] = 0
@@ -70,6 +76,7 @@ def get_sorted_tags_lst(tags, lang_projects, all_projects):
 
 
 def get_tag_projects_by_lang(lang, tag_projects, all_projects):
+    """returning all projects that relate to a language"""
     projects_lst = []
     for proj in tag_projects:
         if lang in all_projects[proj][1]:
@@ -78,6 +85,7 @@ def get_tag_projects_by_lang(lang, tag_projects, all_projects):
 
 
 def get_lang_projects_by_tag(tag, projects, all_projects):
+    """returning all projects that relate to a tag"""
     projects_lst = []
     for proj in projects:
         if tag in all_projects[proj][2]:
@@ -86,6 +94,7 @@ def get_lang_projects_by_tag(tag, projects, all_projects):
 
 
 def make_projects_page(title, elem, lst1, projects, all_projects):
+    """create html output page for results"""
     page = content
     length1, length_projects = len(lst1), len(projects)
     rows = ""
@@ -103,6 +112,7 @@ def make_projects_page(title, elem, lst1, projects, all_projects):
 
 
 def get_data_by_lang():
+    """handling showing data with choice of a programming language"""
     while True:
         os.system('clear')
         # get menu item and validate
@@ -138,6 +148,7 @@ def get_data_by_lang():
 
 
 def get_data_by_tag():
+    """handling showing data with choice of a tag"""
     while True:
         os.system('clear')
         # get menu item and validate
@@ -173,6 +184,7 @@ def get_data_by_tag():
 
 
 if __name__ == '__main__':
+    # main loop
     options = ['Update data', 'Get Popular tags by order', 'Get Popular Programming languages by order']
     while True:
         for j, lang in enumerate(options):
@@ -189,4 +201,3 @@ if __name__ == '__main__':
             elif inp == 2:
                 get_data_by_lang()
                 break
-

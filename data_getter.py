@@ -1,31 +1,26 @@
 import requests as req
-import io
+
 import time
 import json
 from bs4 import BeautifulSoup
-import calendar
 
 NUM_PAGES = 3
-# ARTICLES = 300
-# ARTICLES_PER_PAGE = 12
+
 URL = "https://gitstar-ranking.com/repositories?page="
 BASE_URL = "https://gitstar-ranking.com"
 SUCCESS_CODE = ("FAILED", "SUCCESSFULL")
-THRESH = 15
+THRESH = 15  # threshold for language percentage from project
 
 
-# SEC2DAYS = 86400
-
-# def sec_to_days(secs):
-
-#     return secs // SEC2DAYS
 def get_response(url):
+    """handle requesting webpage"""
     response = req.get(url)
     response.raise_for_status()  # ensure we notice bad responses
     return response
 
 
 def get_langs(lang_elem):
+    """getting a set of languages from html element"""
     langs = set()
     for elem in lang_elem.find_all('li'):
         percents = float(elem.find_all('span', attrs={'class': 'percent'})[0].text[:-1])
@@ -36,6 +31,7 @@ def get_langs(lang_elem):
 
 
 def get_tags(page_soup):
+    """getting tags from a github page bs element"""
     tags = set()
 
     for elem in page_soup.find_all('a'):
@@ -45,6 +41,7 @@ def get_tags(page_soup):
 
 
 def add_lang_data(proj_name, proj_tags, proj_langs, langs):
+    """adding language data to languages dictionary"""
     for lang in proj_langs:
         if lang not in langs:
             langs[lang] = (proj_tags, {proj_name})
@@ -54,6 +51,7 @@ def add_lang_data(proj_name, proj_tags, proj_langs, langs):
 
 
 def add_tag_data(proj_name, proj_tags, proj_langs, tags):
+    """adding tag data to tag dictionary"""
     for tag in proj_tags:
         if tag not in tags:
             tags[tag] = (proj_langs, {proj_name})
@@ -63,12 +61,14 @@ def add_tag_data(proj_name, proj_tags, proj_langs, tags):
 
 
 def set_default(obj):
+    """handle converting non-json objects to json appeoved"""
     if isinstance(obj, set):
         return list(obj)
     raise TypeError
 
 
 def dump_files(projects, langs, tags):
+    """write data to files"""
     with open('projects.json', 'w', encoding='utf-8') as f:
         json.dump(projects, f, ensure_ascii=False, indent=4, default=set_default)
     with open('langs.json', 'w', encoding='utf-8') as f:
@@ -78,6 +78,7 @@ def dump_files(projects, langs, tags):
 
 
 def add_proj_data(name, projects, url, tags, langs):
+    """collect data of a project"""
     # get github link
     try:
         response = get_response(url)
@@ -101,11 +102,11 @@ def add_proj_data(name, projects, url, tags, langs):
 
 
 def get_data():
+    """handling getting all the needed data and saving it"""
     projects = {}  # Saving project info
     tags = {}  # Saving project info
     langs = {}  # Saving project info
     for page in range(1, NUM_PAGES + 1):
-        # cur_epoch_time = calendar.timegm(time.gmtime())
         response = get_response(URL + str(page))
         soup = BeautifulSoup(response.content, features="html.parser")
         print("======== Collecting page " + str(page) + " ========")
@@ -119,4 +120,3 @@ def get_data():
 
             time.sleep(1.5)
     dump_files(projects, langs, tags)
-
